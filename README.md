@@ -38,6 +38,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 *Podcasts related to Hardware Programming*
 
 * [The Pi Podcast](http://thepipodcast.com/) - The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community.
+* [IoT Podcast](http://iotpodcast.com/) - A weekly podcast exploring latest IoT tech and topics.
 
 
 ## Mobile
