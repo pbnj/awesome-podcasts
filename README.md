@@ -6,7 +6,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 
 * [Learn To Code With Me](http://learntocodewith.me/podcast/) - Interviews with people on how they got into coding.
 * [CodeNewbie](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
-* [Teach Me To Code](https://devchat.tv/teachmetocode) - 
+* [Teach Me To Code](https://devchat.tv/teachmetocode)
 
 ## Conference Talks
 *Recordings from conference talks*
