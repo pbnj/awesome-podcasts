@@ -13,6 +13,11 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 
 * [Remote Conference Talks](https://devchat.tv/remote-conf-talks) - This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks.
 
+## Elixir 
+*Podcasts related to Elixir Programming Language*
+
+* [Elixir Fountain](http://elixirfountain.com/) - Bringing you the News & Interviews from around the Elixir Community.
+
 ## General
 *General programming podcasts*
 
@@ -30,7 +35,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [Toolsday](http://toolsday.io/) -  A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
 
 ## Go
-*Podcasts related to Golang*
+*Podcasts related to Go Programming Language*
 
 * [Go Time](https://changelog.com/gotime) - A weekly panelist podcast discussing the Go programming language, the community, and everything in between.
 
