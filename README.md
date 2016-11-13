@@ -58,6 +58,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [5-Minutes of JavaScript](https://fivejs.codeschool.com/) - The latest news in the JavaScript community in 5 minutes.
 * [Adventures In Angular](https://devchat.tv/adv-in-angular) - Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
 * [Angular Air](https://angularair.com/) - A live video podcast all about Angular.
+* [FiveJS](https://fivejs.codeschool.com/) - The latest news in the JavaScript community.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 * [JavaScript Jabber](https://devchat.tv/js-jabber) - JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 * [NodeUp](http://nodeup.com/) - A Node.js podcast.
