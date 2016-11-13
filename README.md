@@ -13,7 +13,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 
 * [Remote Conference Talks](https://devchat.tv/remote-conf-talks) - This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks.
 
-## Elixir 
+## Elixir
 *Podcasts related to Elixir Programming Language*
 
 * [Elixir Fountain](http://elixirfountain.com/) - Bringing you the News & Interviews from around the Elixir Community.
