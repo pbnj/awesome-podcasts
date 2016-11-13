@@ -75,7 +75,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 *Podcasts related to Ruby Programming Language*
 
 * [Rails Clips](https://devchat.tv/rails-clips) - Rails Clips is a video series about building web applications with Ruby on Rails.
-* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails,open source software, and the programming profession.
+* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession.
 * [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community in 5 minutes.
 * [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby. We release a conversation with notable programmers and Rubyists each week to help programmers advance in their careers and skills.
 
@@ -85,7 +85,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [The New Rustacean](http://www.newrustacean.com/show_notes/) - A podcast about learning the programming language Rust—from scratch.
 
 ## Security
-*Podcaasts related to Information Security*
+*Podcasts related to Information Security*
 
 * [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace.
 * [Defensive Security Podcast](http://www.defensivesecurity.org/) - The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure.
