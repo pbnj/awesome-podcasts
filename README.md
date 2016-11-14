@@ -1,6 +1,29 @@
 # Awesome Podcasts
 Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Contents
+<!-- TOC -->
+
+- [Awesome Podcasts](#awesome-podcasts)
+  - [Table of Contents](#table-of-contents)
+  - [Beginner Programmers](#beginner-programmers)
+  - [Conference Talks](#conference-talks)
+  - [Elixir](#elixir)
+  - [General](#general)
+  - [Go](#go)
+  - [Hardware](#hardware)
+  - [Mobile](#mobile)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Security](#security)
+  - [Web](#web)
+
+<!-- /TOC -->
+
+---
+
 ## Beginner Programmers
 *Podcasts for programming newbies*
 
