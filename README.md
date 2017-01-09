@@ -8,6 +8,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
   - [Table of Contents](#table-of-contents)
   - [Beginner Programmers](#beginner-programmers)
   - [Conference Talks](#conference-talks)
+  - [DotNet](#dotnet)
   - [Elixir](#elixir)
   - [General](#general)
   - [Go](#go)
@@ -30,11 +31,18 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [CodeNewbie](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 * [Learn To Code With Me](http://learntocodewith.me/podcast/) - Interviews with people on how they got into coding.
 * [Teach Me To Code](https://devchat.tv/teachmetocode)
+* [Start Here FM](http://starthere.fm/) - Beginner-friendly podcast discussing how to improve yourself as a developer.
+* [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started.
 
 ## Conference Talks
 *Recordings from conference talks*
 
 * [Remote Conference Talks](https://devchat.tv/remote-conf-talks) - This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks.
+
+## DotNet
+*Podcasts related to .NET and Windows Development*
+
+* [.NET Rocks](http://www.dotnetrocks.com/) - A weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
 
 ## Elixir
 *Podcasts related to Elixir Programming Language*
@@ -47,6 +55,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [Changelog](https://changelog.com/podcast) - A weekly podcast that shines a spotlight on the technology and people of open source. It's about the code, the people, and the community.
 * [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
 * [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer.
+* [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates.
 * [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders.
 * [Freelancer's Show](https://devchat.tv/freelancers) - The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience.
 * [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
@@ -56,6 +65,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) -  Features daily interviews about technical software topics.
 * [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast.
 * [Toolsday](http://toolsday.io/) -  A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
+* [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer.
 
 ## Go
 *Podcasts related to Go Programming Language*
