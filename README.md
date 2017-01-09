@@ -29,10 +29,10 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 *Podcasts for programming newbies*
 
 * [CodeNewbie](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
-* [Learn To Code With Me](http://learntocodewith.me/podcast/) - Interviews with people on how they got into coding.
-* [Teach Me To Code](https://devchat.tv/teachmetocode)
-* [Start Here FM](http://starthere.fm/) - Beginner-friendly podcast discussing how to improve yourself as a developer.
 * [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started.
+* [Learn To Code With Me](http://learntocodewith.me/podcast/) - Interviews with people on how they got into coding.
+* [Start Here FM](http://starthere.fm/) - Beginner-friendly podcast discussing how to improve yourself as a developer.
+* [Teach Me To Code](https://devchat.tv/teachmetocode)
 
 ## Conference Talks
 *Recordings from conference talks*
@@ -62,10 +62,10 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [Hanselminutes](http://hanselminutes.com/) - A weekly talkshow on tech.
 * [Herding Code](http://herdingcode.com/) - Herding Code is a weekly podcast that explores different technology-related topics.
 * [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It's about the human side of code.
+* [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) -  Features daily interviews about technical software topics.
 * [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast.
 * [Toolsday](http://toolsday.io/) -  A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
-* [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer.
 
 ## Go
 *Podcasts related to Go Programming Language*
