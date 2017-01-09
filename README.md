@@ -56,6 +56,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 * [Changelog](https://changelog.com/podcast) - A weekly podcast that shines a spotlight on the technology and people of open source. It's about the code, the people, and the community.
 * [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
 * [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer.
+* [Developer Tea](A podcast for developers designed to fit inside your tea break) - A podcast for developers designed to fit inside your tea break.
 * [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates.
 * [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders.
 * [Freelancer's Show](https://devchat.tv/freelancers) - The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience.
