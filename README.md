@@ -13,6 +13,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
   - [General](#general)
   - [Go](#go)
   - [Hardware](#hardware)
+  - [Linux/Unix](#linuxunix)
   - [Mobile](#mobile)
   - [JavaScript](#javascript)
   - [Python](#python)
@@ -77,6 +78,13 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 
 * [IoT Podcast](http://iotpodcast.com/) - A weekly podcast exploring latest IoT tech and topics.
 * [The Pi Podcast](http://thepipodcast.com/) - The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community.
+
+## Linux/Unix
+*Podcasts related to Linux/Unix Operating Systems*
+
+* [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/) - A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike.
+* [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
+* [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.
 
 
 ## Mobile
