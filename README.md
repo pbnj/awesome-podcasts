@@ -77,6 +77,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) -  Features daily interviews about technical software topics.
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast.
 - [Soft Skills Engineering](https://softskills.audio/) - A weekly Q & A podcast for software developers who want to level up their non-technical engineering skills.
+- [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying.
 - [Toolsday](http://toolsday.io/) -  A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
 
 ## Go
