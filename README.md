@@ -115,6 +115,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 ## Miscellaneous
 *Podcasts that don't fit into a category*
 
+- [Dads in Development](A podcast about dads and geeky stuff) - A podcast about dads and geeky stuff.
 - [Dev.to](https://dev.to/pod) - A collection of podcasts that may or may not be listed here.
 - [Heavybit Industries](https://www.heavybit.com/library/podcasts/) - A collection of podcasts that may or may not be listed here.
 
