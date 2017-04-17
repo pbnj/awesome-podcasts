@@ -29,7 +29,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 ---
 
 ## Beginner Programmers
-*Podcasts for programming newbies*
+_Podcasts for programming newbies_
 
 - [CodeNewbie](http://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 - [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started.
@@ -38,26 +38,26 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 - [Teach Me To Code](https://devchat.tv/teachmetocode)
 
 ## Conference Talks
-*Recordings from conference talks*
+_Recordings from conference talks_
 
 - [Remote Conference Talks](https://devchat.tv/remote-conf-talks) - This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks.
 
 ## Data Science
-*Podcasts related to Data Science*
+_Podcasts related to Data Science_
 - [Data Science Storytime](https://www.heavybit.com/library/podcasts/data-science-storytime/) - A podcast all about data, science, stories, and time.
 
 ## DotNet
-*Podcasts related to .NET and Windows Development*
+_Podcasts related to .NET and Windows Development_
 
 - [.NET Rocks](http://www.dotnetrocks.com/) - A weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
 
 ## Elixir
-*Podcasts related to Elixir Programming Language*
+_Podcasts related to Elixir Programming Language_
 
 - [Elixir Fountain](http://elixirfountain.com/) - Bringing you the News & Interviews from around the Elixir Community.
 
 ## General
-*Podcasts related to general programming topics*
+_Podcasts related to general programming topics_
 
 - [Building Programmers](https://building.fireside.fm/) - Interviews with software developers about their careers, their current responsibilities, and how they became programmers.
 - [Changelog](https://changelog.com/podcast) - A weekly podcast that shines a spotlight on the technology and people of open source. It's about the code, the people, and the community.
@@ -81,18 +81,18 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 - [Toolsday](http://toolsday.io/) -  A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
 
 ## Go
-*Podcasts related to Go Programming Language*
+_Podcasts related to Go Programming Language_
 
 - [Go Time](https://changelog.com/gotime) - A weekly panelist podcast discussing the Go programming language, the community, and everything in between.
 
 ## Hardware
-*Podcasts related to Hardware Programming*
+_Podcasts related to Hardware Programming_
 
 - [IoT Podcast](http://iotpodcast.com/) - A weekly podcast exploring latest IoT tech and topics.
 - [The Pi Podcast](http://thepipodcast.com/) - The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community.
 
 ## JavaScript
-*Podcasts related to JavaScript Programming Language*
+_Podcasts related to JavaScript Programming Language_
 
 - [5-Minutes of JavaScript](https://fivejs.codeschool.com/) - The latest news in the JavaScript community in 5 minutes.
 - [Adventures In Angular](https://devchat.tv/adv-in-angular) - Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices.
@@ -106,32 +106,32 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 - [Space Dojo Show](https://show.spacedojo.com/) - A roundtable podcast about Javascript.
 
 ## Linux/Unix
-*Podcasts related to Linux/Unix Operating Systems*
+_Podcasts related to Linux/Unix Operating Systems_
 
 - [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/) - A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike.
 - [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
 - [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.
 
 ## Miscellaneous
-*Podcasts that don't fit into a category*
+_Podcasts that don't fit into a category_
 
 - [Dads in Development](http://www.dadsindev.com/) - A podcast about dads and geeky stuff.
 - [Dev.to](https://dev.to/pod) - A collection of podcasts that may or may not be listed here.
 - [Heavybit Industries](https://www.heavybit.com/library/podcasts/) - A collection of podcasts that may or may not be listed here.
 
 ## Mobile
-*Podcasts related to Mobile Programming*
+_Podcasts related to Mobile Programming_
 
 - [iPhreaks](https://devchat.tv/iphreaks) - The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.
 - [React Native Radio](https://devchat.tv/react-native-radio) - React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native.
 
 ## Python
-*Podcasts related to Python Programming Language*
+_Podcasts related to Python Programming Language_
 
 - [Talk Python To Me](https://talkpython.fm/episodes/all) - A podcast on Python and related technologies.
 
 ## Ruby
-*Podcasts related to Ruby Programming Language*
+_Podcasts related to Ruby Programming Language_
 
 - [Rails Clips](https://devchat.tv/rails-clips) - Rails Clips is a video series about building web applications with Ruby on Rails.
 - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession.
@@ -139,12 +139,12 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 - [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby. We release a conversation with notable programmers and Rubyists each week to help programmers advance in their careers and skills.
 
 ## Rust
-*Podcasts related to Rust Programming Language*
+_Podcasts related to Rust Programming Language_
 
 - [The New Rustacean](http://www.newrustacean.com/show_notes/) - A podcast about learning the programming language Rust—from scratch.
 
 ## Security
-*Podcasts related to Information Security*
+_Podcasts related to Information Security_
 
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace.
 - [Defensive Security Podcast](http://www.defensivesecurity.org/) - The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure.
@@ -156,7 +156,7 @@ Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com
 
 
 ## Web
-*Podcasts related to everything Web outside of JavaScript*
+_Podcasts related to everything Web outside of JavaScript_
 
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
 - [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) - A show all about the JAMstack, a new way to build fast & secure apps or websites.
