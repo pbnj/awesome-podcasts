@@ -147,6 +147,7 @@ _Podcasts related to Rust Programming Language_
 _Podcasts related to Information Security_
 
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace.
+- [Data Driven Security](http://datadrivensecurity.info/podcast/) - A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis & visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security.
 - [Defensive Security Podcast](http://www.defensivesecurity.org/) - The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure.
 - [Security Nation](https://www.rapid7.com/resources/podcasts/) - Security Nation is a podcast dedicated to covering all things infosec.
 - [Security Now](https://twit.tv/shows/security-now) - A discussion of hot topics in security today.
