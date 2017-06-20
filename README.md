@@ -164,7 +164,7 @@
 
 > Podcasts related to Rust Programming Language
 
-- [The New Rustacean](http://www.newrustacean.com/show> notes/) - A podcast about learning the programming language Rust—from scratch.
+- [The New Rustacean](http://www.newrustacean.com/show_notes/) - A podcast about learning the programming language Rust—from scratch.
 
 ## Security
 
