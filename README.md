@@ -186,6 +186,7 @@
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
 - [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) - A show all about the JAMstack, a new way to build fast & secure apps or websites.
 - [Modern Web](http://www.modern-web.org/#/modern-web-podcast) - Discussions about all things related to modern web development.
+- [Syntax][syntax] - A Tasty Treats Podcast for Web Developers.
 - [The Big Web Show](http://5by5.tv/bigwebshow) - The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 
@@ -193,3 +194,4 @@
 [aws-techchat]: https://aws.amazon.com/podcasts/aws-techchat/
 [doppler-cloud-computing]: https://www.cloudtp.com/doppler/podcasts/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
+[syntax]: https://Syntax.fm
