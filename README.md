@@ -3,8 +3,8 @@
 > 😎 Curated list of > awesome>  programming podcasts  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ---
-
-## Table of Contents
+<details>
+<summary>Table of Contents</summary>
 
 - [Beginner Programmers](#beginner-programmers)
 - [Cloud](#cloud)
@@ -24,6 +24,8 @@
 - [Rust](#rust)
 - [Security](#security)
 - [Web](#web)
+
+</details>
 
 ---
 
