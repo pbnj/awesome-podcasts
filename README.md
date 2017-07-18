@@ -197,8 +197,5 @@
 [aws-techchat]: https://aws.amazon.com/podcasts/aws-techchat/
 [doppler-cloud-computing]: https://www.cloudtp.com/doppler/podcasts/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
-<<<<<<< HEAD
-[unsupervised-learning]: https://danielmiessler.com/podcast/
-=======
 [syntax]: https://Syntax.fm
->>>>>>> 4093daecbd9b488659ff5a12a451cc077add0104
+[unsupervised-learning]: https://danielmiessler.com/podcast/
