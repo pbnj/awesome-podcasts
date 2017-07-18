@@ -177,6 +177,7 @@
 - [Security Now](https://twit.tv/shows/security-now) - A discussion of hot topics in security today.
 - [The Social Engineering Podcast](http://www.social-engineer.org/category/podcast/) - A monthly podcast exploring different security topics.
 - [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/) - A podcast about security for developers, covering tools and best practices.
+- [Unsupervised Learning][unsupervised-learning] - The most interesting stories in infosec, technology, and humans.
 - [Web Security Warriors](https://devchat.tv/web-sec-warriors) - Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 
 ## Web
@@ -193,3 +194,4 @@
 [aws-techchat]: https://aws.amazon.com/podcasts/aws-techchat/
 [doppler-cloud-computing]: https://www.cloudtp.com/doppler/podcasts/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
+[unsupervised-learning]: https://danielmiessler.com/podcast/
