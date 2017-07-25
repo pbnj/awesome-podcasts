@@ -77,14 +77,18 @@
 
 - [Building Programmers](https://building.fireside.fm/) - Interviews with software developers about their careers, their current responsibilities, and how they became programmers.
 - [Changelog](https://changelog.com/podcast) - A weekly podcast that shines a spotlight on the technology and people of open source. It's about the code, the people, and the community.
+- [Code & Cast][code-cast] - A few devs talking with cool people who have a common interest in web and software development and having fun.
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer.
+- [Complete Developer][complete-developer] - A podcast by coders for coders about all aspects of life as a developer.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break.
-- [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software
+- [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software.
+- [Developing Up][developing-up] - A podcast focused on the non-technical side of being a developer.
 - [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates.
 - [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders.
 - [Freelancer's Show](https://devchat.tv/freelancers) - The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience.
 - [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
+- [Functional Geekery][functional-geekery] - A podcast on Functional Programming, covering topics across multiple languages.
 - [Hanselminutes](http://hanselminutes.com/) - A weekly talkshow on tech.
 - [Herding Code](http://herdingcode.com/) - Herding Code is a weekly podcast that explores different technology-related topics.
 - [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It's about the human side of code.
@@ -187,6 +191,8 @@
 > Podcasts related to everything Web outside of JavaScript
 
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
+- [Front End Happy Hour][frontend-happy-hour] - Discussions around frontend topics.
+- [The Full Stack Podcast][fullstack] - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development.
 - [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) - A show all about the JAMstack, a new way to build fast & secure apps or websites.
 - [Modern Web](http://www.modern-web.org/#/modern-web-podcast) - Discussions about all things related to modern web development.
 - [Syntax][syntax] - A Tasty Treats Podcast for Web Developers.
@@ -195,7 +201,13 @@
 
 [aws-podcast]: https://aws.amazon.com/podcasts/aws-podcast/
 [aws-techchat]: https://aws.amazon.com/podcasts/aws-techchat/
+[code-cast]: http://codeand.us/
+[complete-developer]: http://completedeveloperpodcast.com/
+[developing-up]: http://www.developingup.com/
 [doppler-cloud-computing]: https://www.cloudtp.com/doppler/podcasts/
+[frontend-happy-hour]: http://frontendhappyhour.com/
+[fullstack]: http://www.devcannon.com/thefullstack/
+[functional-geekery]: https://www.functionalgeekery.com/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
 [syntax]: https://Syntax.fm
 [unsupervised-learning]: https://danielmiessler.com/podcast/
