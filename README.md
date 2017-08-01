@@ -64,6 +64,7 @@
 > Podcasts related to .NET and Windows Development
 
 - [.NET Rocks](http://www.dotnetrocks.com/) - A weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
+- [MS Dev Show](http://msdevshow.com/) - The MS Dev Show is THE podcast for Microsoft developers covering news and topics such as Azure (cloud), Windows, and cross-platform development using MS tools.
 
 ## Elixir
 
