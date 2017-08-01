@@ -201,6 +201,7 @@
 - [Modern Web](http://www.modern-web.org/#/modern-web-podcast) - Discussions about all things related to modern web development.
 - [Syntax][syntax] - A Tasty Treats Podcast for Web Developers.
 - [The Big Web Show](http://5by5.tv/bigwebshow) - The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
+- [The Rise of Frontend Engineering][rise-of-fe-eng] - A weekly podcast for Frontend Engineers interested in getting better at their craft.
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 
 [aws-podcast]: https://aws.amazon.com/podcasts/aws-podcast/
@@ -215,4 +216,5 @@
 [functional-geekery]: https://www.functionalgeekery.com/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
 [syntax]: https://Syntax.fm
+[rise-of-fe-eng]: https://theriseoffrontendengineering.com/podcast/
 [unsupervised-learning]: https://danielmiessler.com/podcast/
