@@ -193,6 +193,7 @@
 
 > Podcasts related to everything Web outside of JavaScript
 
+- [Code Catchup][coder-catchup] - Catching up with various web developers, web designers and unicorns.
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
 - [Front End Happy Hour][frontend-happy-hour] - Discussions around frontend topics.
 - [The Full Stack Podcast][fullstack] - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development.
@@ -205,6 +206,7 @@
 [aws-podcast]: https://aws.amazon.com/podcasts/aws-podcast/
 [aws-techchat]: https://aws.amazon.com/podcasts/aws-techchat/
 [code-cast]: http://codeand.us/
+[coder-catchup]: http://codercatchup.com/
 [complete-developer]: http://completedeveloperpodcast.com/
 [developing-up]: http://www.developingup.com/
 [doppler-cloud-computing]: https://www.cloudtp.com/doppler/podcasts/
