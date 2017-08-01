@@ -215,6 +215,6 @@
 [fullstack]: http://www.devcannon.com/thefullstack/
 [functional-geekery]: https://www.functionalgeekery.com/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
-[syntax]: https://Syntax.fm
 [rise-of-fe-eng]: https://theriseoffrontendengineering.com/podcast/
+[syntax]: https://Syntax.fm
 [unsupervised-learning]: https://danielmiessler.com/podcast/
