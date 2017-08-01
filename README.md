@@ -196,6 +196,7 @@
 - [Code Catchup][coder-catchup] - Catching up with various web developers, web designers and unicorns.
 - [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
 - [Front End Happy Hour][frontend-happy-hour] - Discussions around frontend topics.
+- [Frontend Friday][frontend-friday] - A podcast on HTML and the web.
 - [The Full Stack Podcast][fullstack] - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development.
 - [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) - A show all about the JAMstack, a new way to build fast & secure apps or websites.
 - [Modern Web](http://www.modern-web.org/#/modern-web-podcast) - Discussions about all things related to modern web development.
@@ -212,6 +213,7 @@
 [developing-up]: http://www.developingup.com/
 [doppler-cloud-computing]: https://www.cloudtp.com/doppler/podcasts/
 [frontend-happy-hour]: http://frontendhappyhour.com/
+[frontend-friday]: http://frontendfriday.fi/
 [fullstack]: http://www.devcannon.com/thefullstack/
 [functional-geekery]: https://www.functionalgeekery.com/
 [google-cloud-platform-podcast]: https://www.gcppodcast.com/
