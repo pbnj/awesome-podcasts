@@ -12,6 +12,7 @@
 - [Cloud](#cloud)
 - [Conference Talks](#conference-talks)
 - [Data Science](#data-science)
+- [DevOps](#devops)
 - [DotNet](#dotnet)
 - [Elixir](#elixir)
 - [General](#general)
@@ -59,7 +60,27 @@
 ## Data Science
 
 > Podcasts related to Data Science
+
 - [Data Science Storytime](https://www.heavybit.com/library/podcasts/data-science-storytime/) - A podcast all about data, science, stories, and time.
+
+## DevOps
+
+> Podcasts related to Operations and DevOps
+
+- [Arrested DevOps](https://www.arresteddevops.com/) - ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.
+- [Devops Cafe](http://devopscafe.org/) - Podcast with John Willis & Damon Edwards.
+- [DevOps Chat](https://devops.com/) - Where the world meets DevOps.
+- [DevOps Radio](http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast) - Covering all things related to software delivery.
+- [DevOps on AWS Radio](https://stelligent.com/tag/podcasts/) - DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud.
+- [DevOps Mastery](http://www.devopsmastery.com/) - This podcast is all about doing the DevOps thing. We are here to help you get from a DevOps newbie to being a DevOps Master.
+- [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker.
+- [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis.
+- [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community.
+- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps.
+- [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management & cloud automation as well as DevOps culture.
+- [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show.
+- [The New Stack Makers](http://soundcloud.com/thenewstackmakers) - The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software.
+- [The Ship Show](http://theshipshow.com/podcast/) - A twice-montly podcast covering the finer points of build engineering, devops, & release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings.
 
 ## DotNet
 
