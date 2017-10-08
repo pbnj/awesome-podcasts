@@ -8,24 +8,24 @@
         {
           "name": "CodeNewbie",
           "url": "http://www.codenewbie.org/podcast",
-          "desc": "Stories from people on their coding journey"
+          "desc": "Stories from people on their coding journey."
         },
         {
           "name": "Hello World Podcast",
           "url": "https://wildermuth.com/hwpod",
           "desc":
-            "Interviews with your favorite speakers about how they got started"
+            "Interviews with your favorite speakers about how they got started."
         },
         {
           "name": "Learn To Code With Me",
           "url": "http://learntocodewith.me/podcast/",
-          "desc": "Interviews with people on how they got into coding"
+          "desc": "Interviews with people on how they got into coding."
         },
         {
           "name": "Start Here FM",
           "url": "http://starthere.fm/",
           "desc":
-            "Beginner-friendly podcast discussing how to improve yourself as a developer"
+            "Beginner-friendly podcast discussing how to improve yourself as a developer."
         },
         {
           "name": "Teach Me To Code",
@@ -43,25 +43,25 @@
           "name": "AWS Podcast",
           "url": "https://aws.amazon.com/podcasts/aws-podcast/",
           "desc":
-            "Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees"
+            "Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees."
         },
         {
           "name": "AWS TechChat",
           "url": "https://aws.amazon.com/podcasts/aws-techchat/",
           "desc":
-            " A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts"
+            " A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts."
         },
         {
           "name": "Doppler Cloud Computing Podcast",
           "url": "https://www.cloudtp.com/doppler/podcasts/",
           "desc":
-            "Covering all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing"
+            "Covering all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing."
         },
         {
           "name": "Google Cloud Platform Podcast",
           "url": "https://www.gcppodcast.com/",
           "desc":
-            "Discussing everything from on Google Cloud Platform from App Engine to Big Query"
+            "Discussing everything from on Google Cloud Platform from App Engine to Big Query."
         }
       ]
     },
@@ -74,7 +74,7 @@
           "name": "Remote Conference Talks",
           "url": "https://devchat.tv/remote-conf-talks",
           "desc":
-            "This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks"
+            "This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks."
         }
       ]
     },
@@ -87,7 +87,7 @@
           "name": "Data Science Storytime",
           "url":
             "https://www.heavybit.com/library/podcasts/data-science-storytime/",
-          "desc": "A podcast all about data, science, stories, and time"
+          "desc": "A podcast all about data, science, stories, and time."
         }
       ]
     },
@@ -100,83 +100,83 @@
           "name": "Arrested DevOps",
           "url": "https://www.arresteddevops.com/",
           "desc":
-            "ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness"
+            "ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
         },
         {
           "name": "Devops Cafe",
           "url": "http://devopscafe.org/",
-          "desc": "Podcast with John Willis & Damon Edwards"
+          "desc": "Podcast with John Willis & Damon Edwards."
         },
         {
           "name": "DevOps Chat",
           "url": "https://devops.com/",
-          "desc": "Where the world meets DevOps"
+          "desc": "Where the world meets DevOps."
         },
         {
           "name": "DevOps Radio",
           "url":
             "http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast",
-          "desc": "Covering all things related to software delivery"
+          "desc": "Covering all things related to software delivery."
         },
         {
           "name": "DevOps on AWS Radio",
           "url": "https://stelligent.com/tag/podcasts/",
           "desc":
-            "DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud"
+            "DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud."
         },
         {
           "name": "DevOps Mastery",
           "url": "http://www.devopsmastery.com/",
           "desc":
-            "This podcast is all about doing the DevOps thing. We are here to help you get from a DevOps newbie to being a DevOps Master"
+            "This podcast is all about doing the DevOps thing. We are here to help you get from a DevOps newbie to being a DevOps Master."
         },
         {
           "name": "Docker for .NET Developers",
           "url": "http://s.ch9.ms/Series/Docker-for-NET-Developers",
           "desc":
-            "An overview of what .NET developers need to know to build containerized applications using Docker"
+            "An overview of what .NET developers need to know to build containerized applications using Docker."
         },
         {
           "name": "DockerCast",
           "url": "https://www.docker.com/",
           "desc":
-            "Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis"
+            "Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis."
         },
         {
           "name": "Kubecast",
           "url": "http://kubecast.com/",
           "desc":
-            "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community"
+            "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community."
         },
         {
           "name": "PodCTL",
           "url": "http://blog.openshift.com/",
           "desc":
-            "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps"
+            "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps."
         },
         {
           "name": "Puppet Podcast",
           "url": "https://puppet.com/podcast_feed",
           "desc":
-            "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management & cloud automation as well as DevOps culture"
+            "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management & cloud automation as well as DevOps culture."
         },
         {
           "name": "The Food Fight Show",
           "url": "http://foodfight.libsyn.com/",
           "desc":
-            "The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show"
+            "The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show."
         },
         {
           "name": "The New Stack Makers",
           "url": "http://soundcloud.com/thenewstackmakers",
           "desc":
-            "The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software"
+            "The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software."
         },
         {
           "name": "The Ship Show",
           "url": "http://theshipshow.com/podcast/",
           "desc":
-            " A twice-montly podcast covering the finer points of build engineering, devops, & release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings"
+            " A twice-montly podcast covering the finer points of build engineering, devops, & release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings."
         }
       ]
     },
@@ -189,13 +189,13 @@
           "name": ".NET Rocks",
           "url": "http://www.dotnetrocks.com/",
           "desc":
-            "A weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness"
+            "A weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness."
         },
         {
           "name": "MS Dev Show",
           "url": "http://msdevshow.com/",
           "desc":
-            "The MS Dev Show is THE podcast for Microsoft developers covering news and topics such as Azure (cloud), Windows, and cross-platform development using MS tools"
+            "The MS Dev Show is THE podcast for Microsoft developers covering news and topics such as Azure (cloud), Windows, and cross-platform development using MS tools."
         }
       ]
     },
@@ -208,7 +208,7 @@
           "name": "Elixir Fountain",
           "url": "http://elixirfountain.com/",
           "desc":
-            "Bringing you the News & Interviews from around the Elixir Community"
+            "Bringing you the News & Interviews from around the Elixir Community."
         }
       ]
     },
@@ -221,78 +221,78 @@
           "name": "Building Programmers",
           "url": "https://building.fireside.fm/",
           "desc":
-            "Interviews with software developers about their careers, their current responsibilities, and how they became programmers"
+            "Interviews with software developers about their careers, their current responsibilities, and how they became programmers."
         },
         {
           "name": "Changelog",
           "url": "https://changelog.com/podcast",
           "desc":
-            "A weekly podcast that shines a spotlight on the technology and people of open source. It's about the code, the people, and the community"
+            "A weekly podcast that shines a spotlight on the technology and people of open source. It's about the code, the people, and the community."
         },
         {
           "name": "Code & Cast",
           "url": "http://codeand.us/",
           "desc":
-            "A few devs talking with cool people who have a common interest in web and software development and having fun"
+            "A few devs talking with cool people who have a common interest in web and software development and having fun."
         },
         {
           "name": "Coder Radio",
           "url": "http://www.jupiterbroadcasting.com/show/coderradio/",
           "desc":
-            "A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies"
+            "A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies."
         },
         {
           "name": "Coding Blocks",
           "url": "https://www.codingblocks.net/",
           "desc":
-            "Coding Blocks is the podcast and website for learning how to become a better software developer"
+            "Coding Blocks is the podcast and website for learning how to become a better software developer."
         },
         {
           "name": "Complete Developer",
           "url": "http://completedeveloperpodcast.com/",
           "desc":
-            "A podcast by coders for coders about all aspects of life as a developer"
+            "A podcast by coders for coders about all aspects of life as a developer."
         },
         {
           "name": "Developer Tea",
           "url": "https://spec.fm/podcasts/developer-tea",
           "desc":
-            "A podcast for developers designed to fit inside your tea break"
+            "A podcast for developers designed to fit inside your tea break."
         },
         {
           "name": "Developer on Fire",
           "url": "http://developeronfire.com/",
-          "desc": "Stories from inspiring people in and around software"
+          "desc": "Stories from inspiring people in and around software."
         },
         {
           "name": "Developing Up",
           "url": "http://www.developingup.com/",
           "desc":
-            "A podcast focused on the non-technical side of being a developer"
+            "A podcast focused on the non-technical side of being a developer."
         },
         {
           "name": "devRant Podcast",
           "url": "https://soundcloud.com/devrantapp",
           "desc":
-            "A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates"
+            "A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates."
         },
         {
           "name": "Founders Talk",
           "url": "https://changelog.com/founderstalk",
           "desc":
-            "An interview podcast, featuring in-depth, one on one, conversations with Founders"
+            "An interview podcast, featuring in-depth, one on one, conversations with Founders."
         },
         {
           "name": "Freelancer's Show",
           "url": "https://devchat.tv/freelancers",
           "desc":
-            "The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience"
+            "The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience."
         },
         {
           "name": "Full Stack Radio",
           "url": "http://www.fullstackradio.com/",
           "desc":
-            "A podcast for developers interested in building great software products"
+            "A podcast for developers interested in building great software products."
         },
         {
           "name": "Functional Geekery",
@@ -303,59 +303,59 @@
         {
           "name": "Hanselminutes",
           "url": "http://hanselminutes.com/",
-          "desc": "A weekly talkshow on tech"
+          "desc": "A weekly talkshow on tech."
         },
         {
           "name": "Herding Code",
           "url": "http://herdingcode.com/",
           "desc":
-            "Herding Code is a weekly podcast that explores different technology-related topics"
+            "Herding Code is a weekly podcast that explores different technology-related topics."
         },
         {
           "name": "Request For Commits",
           "url": "https://changelog.com/rfc",
           "desc":
-            "Exploring different perspectives in open source sustainability. It's about the human side of code"
+            "Exploring different perspectives in open source sustainability. It's about the human side of code."
         },
         {
           "name": "Shop Talk Show",
           "url": "http://shoptalkshow.com/",
-          "desc": "An internet radio show about the internet"
+          "desc": "An internet radio show about the internet."
         },
         {
           "name": "Simple Programmer",
           "url": "https://simpleprogrammer.com/podcasts/",
           "desc":
-            "John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer"
+            "John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer."
         },
         {
           "name": "Software Engineering Daily",
           "url": "https://softwareengineeringdaily.com/",
-          "desc": "Features daily interviews about technical software topics"
+          "desc": "Features daily interviews about technical software topics."
         },
         {
           "name": "Software Engineering Radio",
           "url": "http://www.se-radio.net/",
           "desc":
-            "A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast"
+            "A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast."
         },
         {
           "name": "Soft Skills Engineering",
           "url": "https://softskills.audio/",
           "desc":
-            "A weekly Q & A podcast for software developers who want to level up their non-technical engineering skills"
+            "A weekly Q & A podcast for software developers who want to level up their non-technical engineering skills."
         },
         {
           "name": "Talking Code",
           "url": "http://talkingcode.com/",
           "desc":
-            "Short expert interviews that help you decode what developers are saying"
+            "Short expert interviews that help you decode what developers are saying."
         },
         {
           "name": "Toolsday",
           "url": "http://toolsday.io/",
           "desc":
-            "A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays"
+            "A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays."
         }
       ]
     },
@@ -368,7 +368,7 @@
           "name": "Go Time",
           "url": "https://changelog.com/gotime",
           "desc":
-            "A weekly panelist podcast discussing the Go programming language, the community, and everything in between"
+            "A weekly panelist podcast discussing the Go programming language, the community, and everything in between."
         }
       ]
     },
@@ -380,72 +380,72 @@
         {
           "name": "IoT Podcast",
           "url": "http://iotpodcast.com/",
-          "desc": "A weekly podcast exploring latest IoT tech and topics"
+          "desc": "A weekly podcast exploring latest IoT tech and topics."
         },
         {
           "name": "The Pi Podcast",
           "url": "http://thepipodcast.com/",
           "desc":
-            "The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community"
+            "The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community."
         }
       ]
     },
     {
       "category": "Javascript/Node.js",
-      "link": "javascriptnode.js",
+      "link": "javascriptnodejs",
       "subtitle": "Podcasts related to JavaScript Programming Language",
       "pods": [
         {
           "name": "5-Minutes of JavaScript",
           "url": "https://fivejs.codeschool.com/",
-          "desc": "The latest news in the JavaScript community in 5 minutes"
+          "desc": "The latest news in the JavaScript community in 5 minutes."
         },
         {
           "name": "Adventures In Angular",
           "url": "https://devchat.tv/adv-in-angular",
           "desc":
-            "Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices"
+            "Adventures in Angular is a weekly podcast dedicated to the Angular JavaScript framework and related technologies, tools, languages, and practices."
         },
         {
           "name": "Angular Air",
           "url": "https://angularair.com/",
-          "desc": "A live video podcast all about Angular"
+          "desc": "A live video podcast all about Angular."
         },
         {
           "name": "FiveJS",
           "url": "https://fivejs.codeschool.com/",
-          "desc": "The latest news in the JavaScript community"
+          "desc": "The latest news in the JavaScript community."
         },
         {
           "name": "JavaScript Air",
           "url": "https://javascriptair.com/",
-          "desc": "The live broadcast podcast all about JavaScript"
+          "desc": "The live broadcast podcast all about JavaScript."
         },
         {
           "name": "JavaScript Jabber",
           "url": "https://devchat.tv/js-jabber",
           "desc":
-            "JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks"
+            "JavaScript Jabber is a weekly discussion about JavaScript, front-end development, community, careers, and frameworks."
         },
         {
           "name": "JS Party",
           "url": "https://changelog.com/jsparty",
-          "desc": "A community celebration of JavaScript and the web"
+          "desc": "A community celebration of JavaScript and the web."
         },
         {
           "name": "NodeUp",
           "url": "http://nodeup.com/",
-          "desc": "A Node.js podcast"
+          "desc": "A Node.js podcast."
         },
         {
           "name": "React30",
           "url": "https://react30.com/",
-          "desc": "A 30-minute podcast about React and all things JavaScript"
+          "desc": "A 30-minute podcast about React and all things JavaScript."
         },
         {
           "name": "Space Dojo Show",
           "url": "https://show.spacedojo.com/",
-          "desc": "A roundtable podcast about Javascript"
+          "desc": "A roundtable podcast about Javascript."
         }
       ]
     },
@@ -458,19 +458,19 @@
           "name": "BSD Now",
           "url": "http://www.jupiterbroadcasting.com/show/bsdnow/",
           "desc":
-            "A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike"
+            "A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike."
         },
         {
           "name": "Destination Linux",
           "url": "http://destinationlinux.org/",
           "desc":
-            "Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences"
+            "Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences."
         },
         {
           "name": "Late Night Linux",
           "url": "http://latenightlinux.com/",
           "desc":
-            "Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software"
+            "Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software."
         },
         {
           "name": "Linux Action Show",
@@ -482,7 +482,7 @@
           "name": "Linux Unplugged",
           "url": "http://www.jupiterbroadcasting.com/show/linuxun/",
           "desc":
-            "The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux"
+            "The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux."
         }
       ]
     },
@@ -495,17 +495,17 @@
         {
           "name": "Dads in Development",
           "url": "http://www.dadsindev.com/",
-          "desc": "A podcast about dads and geeky stuff"
+          "desc": "A podcast about dads and geeky stuff."
         },
         {
           "name": "Dev.to",
           "url": "https://dev.to/pod",
-          "desc": "A collection of podcasts that may or may not be listed here"
+          "desc": "A collection of podcasts that may or may not be listed here."
         },
         {
           "name": "Heavybit Industries",
           "url": "https://www.heavybit.com/library/podcasts/",
-          "desc": "A collection of podcasts that may or may not be listed here"
+          "desc": "A collection of podcasts that may or may not be listed here."
         }
       ]
     },
@@ -518,13 +518,13 @@
           "name": "iPhreaks",
           "url": "https://devchat.tv/iphreaks",
           "desc":
-            "The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code"
+            "The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code."
         },
         {
           "name": "React Native Radio",
           "url": "https://devchat.tv/react-native-radio",
           "desc":
-            "React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native"
+            "React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native."
         }
       ]
     },
@@ -536,7 +536,7 @@
         {
           "name": "Talk Python To Me",
           "url": "https://talkpython.fm/episodes/all",
-          "desc": "A podcast on Python and related technologies"
+          "desc": "A podcast on Python and related technologies."
         }
       ]
     },
@@ -549,24 +549,25 @@
           "name": "Rails Clips",
           "url": "https://devchat.tv/rails-clips",
           "desc":
-            "Rails Clips is a video series about building web applications with Ruby on Rails"
+            "Rails Clips is a video series about building web applications with Ruby on Rails."
         },
         {
           "name": "Ruby on Rails Podcast",
           "url": "http://5by5.tv/rubyonrails",
           "desc":
-            "The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession"
+            "The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession."
         },
         {
           "name": "Ruby5",
           "url": "https://ruby5.codeschool.com/",
-          "desc": "The latest news in the Ruby and Rails community in 5 minutes"
+          "desc":
+            "The latest news in the Ruby and Rails community in 5 minutes."
         },
         {
           "name": "The Ruby Rogues",
           "url": "https://devchat.tv/ruby-rogues",
           "desc":
-            "The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby. We release a conversation with notable programmers and Rubyists each week to help programmers advance in their careers and skills"
+            "The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby. We release a conversation with notable programmers and Rubyists each week to help programmers advance in their careers and skills."
         }
       ]
     },
@@ -579,7 +580,7 @@
           "name": "The New Rustacean",
           "url": "http://www.newrustacean.com/show_notes/",
           "desc":
-            "A podcast about learning the programming language Rust—from scratch"
+            "A podcast about learning the programming language Rust—from scratch."
         }
       ]
     },
@@ -592,54 +593,54 @@
           "name": "Brakeing Down Security",
           "url": "http://www.brakeingsecurity.com/",
           "desc":
-            "A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace"
+            "A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace."
         },
         {
           "name": "Data Driven Security",
           "url": "http://datadrivensecurity.info/podcast/",
           "desc":
-            "A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis & visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security"
+            "A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis & visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security."
         },
         {
           "name": "Defensive Security Podcast",
           "url": "http://www.defensivesecurity.org/",
           "desc":
-            "The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure"
+            "The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure."
         },
         {
           "name": "Security Nation",
           "url": "https://www.rapid7.com/resources/podcasts/",
           "desc":
-            "Security Nation is a podcast dedicated to covering all things infosec"
+            "Security Nation is a podcast dedicated to covering all things infosec."
         },
         {
           "name": "Security Now",
           "url": "https://twit.tv/shows/security-now",
-          "desc": "A discussion of hot topics in security today"
+          "desc": "A discussion of hot topics in security today."
         },
         {
           "name": "The Social Engineering Podcast",
           "url": "http://www.social-engineer.org/category/podcast/",
-          "desc": "A monthly podcast exploring different security topics"
+          "desc": "A monthly podcast exploring different security topics."
         },
         {
           "name": "The Secure Developer",
           "url":
             "http://www.heavybit.com/library/podcasts/the-secure-developer/",
           "desc":
-            "A podcast about security for developers, covering tools and best practices"
+            "A podcast about security for developers, covering tools and best practices."
         },
         {
           "name": "Unsupervised Learning",
           "url": "https://danielmiessler.com/podcast/",
           "desc":
-            "The most interesting stories in infosec, technology, and humans"
+            "The most interesting stories in infosec, technology, and humans."
         },
         {
           "name": "Web Security Warriors",
           "url": "https://devchat.tv/web-sec-warriors",
           "desc":
-            "Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure"
+            "Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure."
         }
       ]
     },
@@ -652,63 +653,63 @@
           "name": "Code Catchup",
           "url": "http://codercatchup.com/",
           "desc":
-            "Catching up with various web developers, web designers and unicorns"
+            "Catching up with various web developers, web designers and unicorns."
         },
         {
           "name": "Front-end Five",
           "url": "https://frontendfive.codeschool.com/",
-          "desc": "All of your Front-end News in 5 Minutes"
+          "desc": "All of your Front-end News in 5 Minutes."
         },
         {
           "name": "Front End Happy Hour",
           "url": "http://frontendhappyhour.com/",
-          "desc": "Discussions around frontend topics"
+          "desc": "Discussions around frontend topics."
         },
         {
           "name": "Frontend Friday",
           "url": "http://frontendfriday.fi/",
-          "desc": "A podcast on HTML and the web"
+          "desc": "A podcast on HTML and the web."
         },
         {
           "name": "The Full Stack Podcast",
           "url": "http://www.devcannon.com/thefullstack/",
           "desc":
-            "The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development"
+            "The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development."
         },
         {
           "name": "JAMStack Radio",
           "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/",
           "desc":
-            "A show all about the JAMstack, a new way to build fast & secure apps or websites"
+            "A show all about the JAMstack, a new way to build fast & secure apps or websites."
         },
         {
           "name": "Modern Web",
           "url": "http://www.modern-web.org/#/modern-web-podcast",
           "desc":
-            "Discussions about all things related to modern web development"
+            "Discussions about all things related to modern web development."
         },
         {
           "name": "Syntax",
           "url": "https://Syntax.fm",
-          "desc": "A Tasty Treats Podcast for Web Developers"
+          "desc": "A Tasty Treats Podcast for Web Developers."
         },
         {
           "name": "The Big Web Show",
           "url": "http://5by5.tv/bigwebshow",
           "desc":
-            "The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters"
+            "The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters."
         },
         {
           "name": "The Rise of Frontend Engineering",
           "url": "https://theriseoffrontendengineering.com/podcast/",
           "desc":
-            "A weekly podcast for Frontend Engineers interested in getting better at their craft"
+            "A weekly podcast for Frontend Engineers interested in getting better at their craft."
         },
         {
           "name": "The Web Ahead",
           "url": "http://5by5.tv/webahead",
           "desc":
-            "Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up"
+            "Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up."
         }
       ]
     }
