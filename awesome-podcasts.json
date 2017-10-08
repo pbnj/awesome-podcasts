@@ -2,7 +2,7 @@
   "podcasts": [
     {
       "category": "Beginner",
-      "sub-title": "Podcasts for programming newbies",
+      "subtitle": "Podcasts for programming newbies",
       "pods": [
         {
           "name": "CodeNewbie",
@@ -35,7 +35,7 @@
     },
     {
       "category": "Cloud",
-      "sub-title": "Podcasts related to public clouds",
+      "subtitle": "Podcasts related to public clouds",
       "pods": [
         {
           "name": "AWS Podcast",
@@ -65,7 +65,7 @@
     },
     {
       "category": "Conference Talks",
-      "sub-title": "Recordings from conference talks",
+      "subtitle": "Recordings from conference talks",
       "pods": [
         {
           "name": "Remote Conference Talks",
@@ -77,7 +77,7 @@
     },
     {
       "category": "Data Science",
-      "sub-title": "Podcasts related to Data Science",
+      "subtitle": "Podcasts related to Data Science",
       "pods": [
         {
           "name": "Data Science Storytime",
@@ -89,7 +89,7 @@
     },
     {
       "category": "DevOps",
-      "sub-title": "Podcasts related to Operations and DevOps",
+      "subtitle": "Podcasts related to Operations and DevOps",
       "pods": [
         {
           "name": "Arrested DevOps",
@@ -177,7 +177,7 @@
     },
     {
       "category": "DotNet",
-      "sub-title": "Podcasts related to .NET and Windows Development",
+      "subtitle": "Podcasts related to .NET and Windows Development",
       "pods": [
         {
           "name": ".NET Rocks",
@@ -195,7 +195,7 @@
     },
     {
       "category": "Elixir",
-      "sub-title": "Podcasts related to Elixir Programming Language",
+      "subtitle": "Podcasts related to Elixir Programming Language",
       "pods": [
         {
           "name": "Elixir Fountain",
@@ -207,7 +207,7 @@
     },
     {
       "category": "General",
-      "sub-title": "Podcasts related to general programming topics",
+      "subtitle": "Podcasts related to general programming topics",
       "pods": [
         {
           "name": "Building Programmers",
@@ -353,7 +353,7 @@
     },
     {
       "category": "Go",
-      "sub-title": "Podcasts related to Go Programming Language",
+      "subtitle": "Podcasts related to Go Programming Language",
       "pods": [
         {
           "name": "Go Time",
@@ -365,7 +365,7 @@
     },
     {
       "category": "Hardware/IoT",
-      "sub-title": "Podcasts related to Hardware Programming",
+      "subtitle": "Podcasts related to Hardware Programming",
       "pods": [
         {
           "name": "IoT Podcast",
@@ -382,7 +382,7 @@
     },
     {
       "category": "Javascript/Node.js",
-      "sub-title": "Podcasts related to JavaScript Programming Language",
+      "subtitle": "Podcasts related to JavaScript Programming Language",
       "pods": [
         {
           "name": "5-Minutes of JavaScript",
@@ -440,7 +440,7 @@
     },
     {
       "category": "Linux/Unix",
-      "sub-title": "Podcasts related to Linux/Unix Operating Systems",
+      "subtitle": "Podcasts related to Linux/Unix Operating Systems",
       "pods": [
         {
           "name": "BSD Now",
@@ -476,7 +476,7 @@
     },
     {
       "category": "Miscellaneous",
-      "sub-title":
+      "subtitle":
         "Podcasts that don't fit into a category, but are still about programming",
       "pods": [
         {
@@ -498,7 +498,7 @@
     },
     {
       "category": "Mobile",
-      "sub-title": "Podcasts related to Mobile Programming",
+      "subtitle": "Podcasts related to Mobile Programming",
       "pods": [
         {
           "name": "iPhreaks",
@@ -516,7 +516,7 @@
     },
     {
       "category": "Python",
-      "sub-title": "Podcasts related to Python Programming Language",
+      "subtitle": "Podcasts related to Python Programming Language",
       "pods": [
         {
           "name": "Talk Python To Me",
@@ -527,7 +527,7 @@
     },
     {
       "category": "Ruby",
-      "sub-title": "Podcasts related to Ruby Programming Language",
+      "subtitle": "Podcasts related to Ruby Programming Language",
       "pods": [
         {
           "name": "Rails Clips",
@@ -556,7 +556,7 @@
     },
     {
       "category": "Rust",
-      "sub-title": "Podcasts related to Rust Programming Language",
+      "subtitle": "Podcasts related to Rust Programming Language",
       "pods": [
         {
           "name": "The New Rustacean",
@@ -568,7 +568,7 @@
     },
     {
       "category": "Security",
-      "sub-title": "Podcasts related to Information Security",
+      "subtitle": "Podcasts related to Information Security",
       "pods": [
         {
           "name": "Brakeing Down Security",
@@ -627,7 +627,7 @@
     },
     {
       "category": "Web",
-      "sub-title": "Podcasts related to everything Web outside of JavaScript",
+      "subtitle": "Podcasts related to everything Web outside of JavaScript",
       "pods": [
         {
           "name": "Code Catchup",
