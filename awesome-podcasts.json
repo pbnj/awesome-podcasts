@@ -2,6 +2,7 @@
   "podcasts": [
     {
       "category": "Beginner",
+      "link": "beginner",
       "subtitle": "Podcasts for programming newbies",
       "pods": [
         {
@@ -35,6 +36,7 @@
     },
     {
       "category": "Cloud",
+      "link": "cloud",
       "subtitle": "Podcasts related to public clouds",
       "pods": [
         {
@@ -65,6 +67,7 @@
     },
     {
       "category": "Conference Talks",
+      "link": "conference-talks",
       "subtitle": "Recordings from conference talks",
       "pods": [
         {
@@ -77,6 +80,7 @@
     },
     {
       "category": "Data Science",
+      "link": "data-science",
       "subtitle": "Podcasts related to Data Science",
       "pods": [
         {
@@ -89,6 +93,7 @@
     },
     {
       "category": "DevOps",
+      "link": "devops",
       "subtitle": "Podcasts related to Operations and DevOps",
       "pods": [
         {
@@ -177,6 +182,7 @@
     },
     {
       "category": "DotNet",
+      "link": "dotnet",
       "subtitle": "Podcasts related to .NET and Windows Development",
       "pods": [
         {
@@ -195,6 +201,7 @@
     },
     {
       "category": "Elixir",
+      "link": "elixir",
       "subtitle": "Podcasts related to Elixir Programming Language",
       "pods": [
         {
@@ -207,6 +214,7 @@
     },
     {
       "category": "General",
+      "link": "general",
       "subtitle": "Podcasts related to general programming topics",
       "pods": [
         {
@@ -353,6 +361,7 @@
     },
     {
       "category": "Go",
+      "link": "go",
       "subtitle": "Podcasts related to Go Programming Language",
       "pods": [
         {
@@ -365,6 +374,7 @@
     },
     {
       "category": "Hardware/IoT",
+      "link": "hardwareiot",
       "subtitle": "Podcasts related to Hardware Programming",
       "pods": [
         {
@@ -382,6 +392,7 @@
     },
     {
       "category": "Javascript/Node.js",
+      "link": "javascriptnode.js",
       "subtitle": "Podcasts related to JavaScript Programming Language",
       "pods": [
         {
@@ -440,6 +451,7 @@
     },
     {
       "category": "Linux/Unix",
+      "link": "linuxunix",
       "subtitle": "Podcasts related to Linux/Unix Operating Systems",
       "pods": [
         {
@@ -476,6 +488,7 @@
     },
     {
       "category": "Miscellaneous",
+      "link": "miscellaneous",
       "subtitle":
         "Podcasts that don't fit into a category, but are still about programming",
       "pods": [
@@ -498,6 +511,7 @@
     },
     {
       "category": "Mobile",
+      "link": "mobile",
       "subtitle": "Podcasts related to Mobile Programming",
       "pods": [
         {
@@ -516,6 +530,7 @@
     },
     {
       "category": "Python",
+      "link": "python",
       "subtitle": "Podcasts related to Python Programming Language",
       "pods": [
         {
@@ -527,6 +542,7 @@
     },
     {
       "category": "Ruby",
+      "link": "ruby",
       "subtitle": "Podcasts related to Ruby Programming Language",
       "pods": [
         {
@@ -556,6 +572,7 @@
     },
     {
       "category": "Rust",
+      "link": "rust",
       "subtitle": "Podcasts related to Rust Programming Language",
       "pods": [
         {
@@ -568,6 +585,7 @@
     },
     {
       "category": "Security",
+      "link": "security",
       "subtitle": "Podcasts related to Information Security",
       "pods": [
         {
@@ -627,6 +645,7 @@
     },
     {
       "category": "Web",
+      "link": "web",
       "subtitle": "Podcasts related to everything Web outside of JavaScript",
       "pods": [
         {
