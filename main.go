@@ -7,6 +7,8 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"sort"
+	"strings"
 )
 
 type AP struct {
@@ -67,8 +69,19 @@ func main() {
 		log.Fatalf("could not unmarshal data: %+v\n", unmarshErr)
 	}
 
-	// log.Printf("Data: %+v\n", awesomePodcasts)
-	// Third, create README file bufer
+	// Third, sort categories alphabetically
+	sort.Slice(awesomePodcasts.AwesomePodcasts, func(i, j int) bool {
+		return awesomePodcasts.AwesomePodcasts[i].Category < awesomePodcasts.AwesomePodcasts[j].Category
+	})
+
+	// Fourth, sort podcasts in each category alphabetically
+	for _, category := range awesomePodcasts.AwesomePodcasts {
+		sort.Slice(category.Pods, func(i, j int) bool {
+			return strings.ToUpper(category.Pods[i].Name) < strings.ToUpper(category.Pods[j].Name)
+		})
+	}
+
+	// Last, create README file bufer, write content, flush buffer and close file handler
 	f, createErr := os.Create("README.md")
 	if createErr != nil {
 		log.Fatalf("could not create README file: %+v\n", createErr)
