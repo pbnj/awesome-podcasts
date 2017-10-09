@@ -70,9 +70,9 @@
 - [Arrested DevOps](https://www.arresteddevops.com/) - ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.
 - [Devops Cafe](http://devopscafe.org/) - Podcast with John Willis &amp; Damon Edwards.
 - [DevOps Chat](https://devops.com/) - Where the world meets DevOps.
-- [DevOps Radio](http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast) - Covering all things related to software delivery.
-- [DevOps on AWS Radio](https://stelligent.com/tag/podcasts/) - DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud.
 - [DevOps Mastery](http://www.devopsmastery.com/) - This podcast is all about doing the DevOps thing. We are here to help you get from a DevOps newbie to being a DevOps Master.
+- [DevOps on AWS Radio](https://stelligent.com/tag/podcasts/) - DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud.
+- [DevOps Radio](http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast) - Covering all things related to software delivery.
 - [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker.
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis.
 - [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community.
@@ -105,8 +105,8 @@
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer.
 - [Complete Developer](http://completedeveloperpodcast.com/) - A podcast by coders for coders about all aspects of life as a developer.
-- [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break.
 - [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software.
+- [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break.
 - [Developing Up](http://www.developingup.com/) - A podcast focused on the non-technical side of being a developer.
 - [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates.
 - [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders.
@@ -118,9 +118,9 @@
 - [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It&#39;s about the human side of code.
 - [Shop Talk Show](http://shoptalkshow.com/) - An internet radio show about the internet.
 - [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer.
+- [Soft Skills Engineering](https://softskills.audio/) - A weekly Q &amp; A podcast for software developers who want to level up their non-technical engineering skills.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics.
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast.
-- [Soft Skills Engineering](https://softskills.audio/) - A weekly Q &amp; A podcast for software developers who want to level up their non-technical engineering skills.
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying.
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
 
@@ -205,10 +205,11 @@
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today&#39;s workplace.
 - [Data Driven Security](http://datadrivensecurity.info/podcast/) - A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis &amp; visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security.
 - [Defensive Security Podcast](http://www.defensivesecurity.org/) - The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure.
+- [Exploring Information Security](http://www.timothydeblock.com/eis/) - Weekly interviews with Information Security experts on various security topics.
 - [Security Nation](https://www.rapid7.com/resources/podcasts/) - Security Nation is a podcast dedicated to covering all things infosec.
 - [Security Now](https://twit.tv/shows/security-now) - A discussion of hot topics in security today.
-- [The Social Engineering Podcast](http://www.social-engineer.org/category/podcast/) - A monthly podcast exploring different security topics.
 - [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/) - A podcast about security for developers, covering tools and best practices.
+- [The Social Engineering Podcast](http://www.social-engineer.org/category/podcast/) - A monthly podcast exploring different security topics.
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - The most interesting stories in infosec, technology, and humans.
 - [Web Security Warriors](https://devchat.tv/web-sec-warriors) - Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 
@@ -217,14 +218,14 @@
 > Podcasts related to everything Web outside of JavaScript
 
 - [Code Catchup](http://codercatchup.com/) - Catching up with various web developers, web designers and unicorns.
-- [Front-end Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
+- [Front End Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
+- [Front End Friday](http://frontendfriday.fi/) - A podcast on HTML and the web.
 - [Front End Happy Hour](http://frontendhappyhour.com/) - Discussions around frontend topics.
-- [Frontend Friday](http://frontendfriday.fi/) - A podcast on HTML and the web.
-- [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development.
 - [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) - A show all about the JAMstack, a new way to build fast &amp; secure apps or websites.
 - [Modern Web](http://www.modern-web.org/#/modern-web-podcast) - Discussions about all things related to modern web development.
 - [Syntax](https://Syntax.fm) - A Tasty Treats Podcast for Web Developers.
 - [The Big Web Show](http://5by5.tv/bigwebshow) - The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It&#39;s everything web that matters.
+- [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development.
 - [The Rise of Frontend Engineering](https://theriseoffrontendengineering.com/podcast/) - A weekly podcast for Frontend Engineers interested in getting better at their craft.
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 
