@@ -590,6 +590,12 @@
       "subtitle": "Podcasts related to Information Security",
       "pods": [
         {
+          "name": "Source Code Podcast",
+          "url": "http://chrissanders.org/podcast/",
+          "desc":
+            "Source Code is focused on the people that push information security forward and battle in the trenches every day."
+        },
+        {
           "name": "Brakeing Down Security",
           "url": "http://www.brakeingsecurity.com/",
           "desc":

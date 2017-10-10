@@ -208,6 +208,7 @@
 - [Exploring Information Security](http://www.timothydeblock.com/eis/) - Weekly interviews with Information Security experts on various security topics.
 - [Security Nation](https://www.rapid7.com/resources/podcasts/) - Security Nation is a podcast dedicated to covering all things infosec.
 - [Security Now](https://twit.tv/shows/security-now) - A discussion of hot topics in security today.
+- [Source Code Podcast](http://chrissanders.org/podcast/) - Source Code is focused on the people that push information security forward and battle in the trenches every day.
 - [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/) - A podcast about security for developers, covering tools and best practices.
 - [The Social Engineering Podcast](http://www.social-engineer.org/category/podcast/) - A monthly podcast exploring different security topics.
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - The most interesting stories in infosec, technology, and humans.
