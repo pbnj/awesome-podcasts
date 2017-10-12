@@ -219,6 +219,7 @@
 > Podcasts related to everything Web outside of JavaScript
 
 - [Code Catchup](http://codercatchup.com/) - Catching up with various web developers, web designers and unicorns.
+- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it&#39;s like running a small web software business. The good, the bad, and the ugly.
 - [Front End Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes.
 - [Front End Friday](http://frontendfriday.fi/) - A podcast on HTML and the web.
 - [Front End Happy Hour](http://frontendhappyhour.com/) - Discussions around frontend topics.

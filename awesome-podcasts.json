@@ -722,7 +722,12 @@
           "url": "http://5by5.tv/webahead",
           "desc":
             "Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up."
-        }
+        },
+		{
+		  "name": "CodePen Radio",
+		  "url": "https://blog.codepen.io/radio/",
+		  "desc": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly."
+		}
       ]
     }
   ]
