@@ -55,6 +55,150 @@ const readmeTemplate = `# Awesome Podcasts
 {{end}}
 `
 
+const htmlTemplate = `
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Awesome Podcasts</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+</head>
+<style>
+
+body {
+	padding-top: 4.5rem;
+}
+
+.podcast-category {
+	font-family: monospace;
+}
+
+.podcast-subtitle {
+	font-family: monospace;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a.navbar-brand {
+	font-family: 'Pacifico', cursive;
+}
+
+.hvr-underline-from-center {
+	display: inline-block;
+	vertical-align: middle;
+	-webkit-transform: perspective(1px) translateZ(0);
+	transform: perspective(1px) translateZ(0);
+	box-shadow: 0 0 1px transparent;
+	position: relative;
+	overflow: hidden;
+}
+.hvr-underline-from-center:before {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	left: 50%;
+	right: 50%;
+	bottom: 0;
+	/*background: tomato;*/
+	animation: colorchange 2s infinite;
+	-webkit-animation: colorchange 2s infinite;
+	-moz-animation: colorchange 2s infinite;
+	height: 4px;
+	-webkit-transition-property: left, right;
+	transition-property: left, right;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-timing-function: ease-out;
+	transition-timing-function: ease-out;
+}
+.hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
+	left: 0;
+	right: 0;
+}
+
+@keyframes colorchange
+{
+  0%   {background: red;}
+  25%  {background: yellow;}
+  50%  {background: blue;}
+  75%  {background: green;}
+  100% {background: red;}
+}
+
+@-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+{
+  0%   {background: red;}
+  25%  {background: yellow;}
+  50%  {background: blue;}
+  75%  {background: green;}
+  100% {background: red;}
+}
+</style>
+<body>
+
+	<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+		<a class="navbar-brand" href="#">Awesome Podcasts</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav">
+				<li class="nav-item">
+				<a class="nav-link" href="#">Top 👆</a>
+				</li>
+				<li class="nav-item">
+				<a class="nav-link" href="https://github.com/petermbenjamin/awesome-podcasts">GitHub 🐙</a>
+				</li>
+				<li class="nav-item dropdown">
+				<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					Categories
+				</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+					{{range .AwesomePodcasts}}<a class="dropdown-item" href="#{{.Link}}">{{.Category}}</a>
+					{{end}}
+				</div>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+	{{range .AwesomePodcasts}}
+	<div class="container">
+		<a href="#{{.Link}}" name="{{.Link}}" class="hvr-underline-from-center">
+			<h4 class="podcast-category"># {{.Category}}</h4>
+		</a>
+		<blockquote class="podcast-subtitle">> {{.SubTitle}}</blockquote>
+	</div>
+	<div class="container">
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Description</th>
+				</tr>
+			</thead>
+			<tbody>
+			{{range .Pods}}<tr>
+				<td><a href="{{.URL}}">{{.Name}}</a></td>
+				<td>{{.Desc}}</td>
+			</tr>
+			{{end}}
+			</tbody>
+		</table>
+	</div>
+	{{end}}
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+</body>
+</html>
+`
+
 func main() {
 	// First, read in the JSON file
 	jsBytes, readErr := ioutil.ReadFile("awesome-podcasts.json")
@@ -82,17 +226,31 @@ func main() {
 	}
 
 	// Last, create README file bufer, write content, flush buffer and close file handler
-	f, createErr := os.Create("README.md")
+	rf, createErr := os.Create("README.md")
 	if createErr != nil {
 		log.Fatalf("could not create README file: %+v\n", createErr)
 	}
-	defer f.Close()
+	defer rf.Close()
 
-	w := bufio.NewWriter(f)
-	t := template.Must(template.New("tmpl").Parse(readmeTemplate))
-	templateErr := t.Execute(w, awesomePodcasts)
+	rw := bufio.NewWriter(rf)
+	rt := template.Must(template.New("tmpl").Parse(readmeTemplate))
+	templateErr := rt.Execute(rw, awesomePodcasts)
 	if templateErr != nil {
 		log.Fatalf("could not merge data into template: %+v\n", templateErr)
 	}
-	w.Flush()
+	rw.Flush()
+
+	hf, err := os.Create("docs/index.html")
+	if err != nil {
+		log.Fatalf("could not create index.html file: %+v\n", err)
+	}
+	defer hf.Close()
+
+	hw := bufio.NewWriter(hf)
+	ht := template.Must(template.New("tmpl").Parse(htmlTemplate))
+	err = ht.Execute(hw, awesomePodcasts)
+	if err != nil {
+		log.Fatalf("could not merge data into html template: %+v\n", err)
+	}
+	hw.Flush()
 }
