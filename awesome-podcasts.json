@@ -34,6 +34,7 @@
         }
       ]
     },
+
     {
       "category": "Cloud",
       "link": "cloud",
@@ -65,6 +66,7 @@
         }
       ]
     },
+
     {
       "category": "Conference Talks",
       "link": "conference-talks",
@@ -78,6 +80,7 @@
         }
       ]
     },
+
     {
       "category": "Data Science",
       "link": "data-science",
@@ -91,6 +94,7 @@
         }
       ]
     },
+
     {
       "category": "DevOps",
       "link": "devops",
@@ -180,6 +184,7 @@
         }
       ]
     },
+
     {
       "category": "DotNet",
       "link": "dotnet",
@@ -199,6 +204,7 @@
         }
       ]
     },
+
     {
       "category": "Elixir",
       "link": "elixir",
@@ -212,6 +218,7 @@
         }
       ]
     },
+
     {
       "category": "General",
       "link": "general",
@@ -359,6 +366,7 @@
         }
       ]
     },
+
     {
       "category": "Go",
       "link": "go",
@@ -372,6 +380,7 @@
         }
       ]
     },
+
     {
       "category": "Hardware/IoT",
       "link": "hardwareiot",
@@ -390,6 +399,7 @@
         }
       ]
     },
+
     {
       "category": "Javascript/Node.js",
       "link": "javascriptnodejs",
@@ -449,6 +459,7 @@
         }
       ]
     },
+
     {
       "category": "Linux/Unix",
       "link": "linuxunix",
@@ -486,6 +497,7 @@
         }
       ]
     },
+
     {
       "category": "Miscellaneous",
       "link": "miscellaneous",
@@ -509,6 +521,7 @@
         }
       ]
     },
+
     {
       "category": "Mobile",
       "link": "mobile",
@@ -528,6 +541,7 @@
         }
       ]
     },
+
     {
       "category": "Python",
       "link": "python",
@@ -540,6 +554,7 @@
         }
       ]
     },
+
     {
       "category": "Ruby",
       "link": "ruby",
@@ -571,6 +586,7 @@
         }
       ]
     },
+
     {
       "category": "Rust",
       "link": "rust",
