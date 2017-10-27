@@ -203,14 +203,26 @@
 > Podcasts related to Information Security
 
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today&#39;s workplace.
+- [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 - [Data Driven Security](http://datadrivensecurity.info/podcast/) - A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis &amp; visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security.
 - [Defensive Security Podcast](http://www.defensivesecurity.org/) - The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure.
+- [DevelopSec](https://developsec.libsyn.com/) - Developing Security Awareness.
+- [Down The Security Rabbithole](http://podcast.wh1t3rabbit.net/) - Interesting security interviews and news analysis.
 - [Exploring Information Security](http://www.timothydeblock.com/eis/) - Weekly interviews with Information Security experts on various security topics.
+- [In-Security](http://in-security.org/) - An information security podcast, from the ground up.
+- [Open Source Security](http://www.opensourcesecuritypodcast.com/) - A podcast about security with an open source slant.
+- [SANS Internet Storm Center Daily](https://isc.sans.edu/podcast.html) - Daily 5-10 minute information security threat updates.
+- [Security Intelligence](https://securityintelligence.com/media-type/podcasts/) - A cybersecurity podcast brought to you by IBM.
 - [Security Nation](https://www.rapid7.com/resources/podcasts/) - Security Nation is a podcast dedicated to covering all things infosec.
 - [Security Now](https://twit.tv/shows/security-now) - A discussion of hot topics in security today.
+- [Security Weekly](https://securityweekly.com/) - A security podcast network for information security professionals, by information security professionals.
+- [Smashing Security](https://www.smashingsecurity.com/) - News and views from the world of cybersecurity, hacking, and internet threats.
 - [Source Code Podcast](http://chrissanders.org/podcast/) - Source Code is focused on the people that push information security forward and battle in the trenches every day.
+- [The CyberWire](https://thecyberwire.com/podcasts/) - A look at what&#39;s happening in cyberspace.
 - [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/) - A podcast about security for developers, covering tools and best practices.
 - [The Social Engineering Podcast](http://www.social-engineer.org/category/podcast/) - A monthly podcast exploring different security topics.
+- [The Threatpost Podcast](https://threatpost.com/category/podcasts/) - A podcast by Threatpost, an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide.
+- [Troy Hunt&#39;s Weekly Update](https://www.troyhunt.com/tag/weekly-update/) - A weekly update on Information Security topics.
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - The most interesting stories in infosec, technology, and humans.
 - [Web Security Warriors](https://devchat.tv/web-sec-warriors) - Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
 

@@ -584,6 +584,7 @@
         }
       ]
     },
+
     {
       "category": "Security",
       "link": "security",
@@ -653,9 +654,70 @@
           "url": "http://www.timothydeblock.com/eis/",
           "desc":
             "Weekly interviews with Information Security experts on various security topics."
-        }
+        },
+		{
+			"name": "SANS Internet Storm Center Daily",
+			"url": "https://isc.sans.edu/podcast.html",
+			"desc": "Daily 5-10 minute information security threat updates."
+		},
+		{
+			"name": "The CyberWire",
+			"url": "https://thecyberwire.com/podcasts/",
+			"desc": "A look at what's happening in cyberspace."
+		},
+		{
+			"name": "Smashing Security",
+			"url": "https://www.smashingsecurity.com/",
+			"desc": "News and views from the world of cybersecurity, hacking, and internet threats."
+		},
+		{
+			"name": "Security Weekly",
+			"url": "https://securityweekly.com/",
+			"desc": "A security podcast network for information security professionals, by information security professionals."
+		},
+		{
+			"name": "Open Source Security",
+			"url": "http://www.opensourcesecuritypodcast.com/",
+			"desc": "A podcast about security with an open source slant."
+		},
+		{
+			"name": "Security Intelligence",
+			"url": "https://securityintelligence.com/media-type/podcasts/",
+			"desc": "A cybersecurity podcast brought to you by IBM."
+		},
+		{
+			"name": "Down The Security Rabbithole",
+			"url": "http://podcast.wh1t3rabbit.net/",
+			"desc": "Interesting security interviews and news analysis."
+		},
+		{
+			"name": "The Threatpost Podcast",
+			"url": "https://threatpost.com/category/podcasts/",
+			"desc": "A podcast by Threatpost, an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide."
+		},
+		{
+			"name": "Troy Hunt's Weekly Update",
+			"url": "https://www.troyhunt.com/tag/weekly-update/",
+			"desc": "A weekly update on Information Security topics."
+		},
+		{
+			"name": "In-Security",
+			"url": "http://in-security.org/",
+			"desc": "An information security podcast, from the ground up."
+		},
+		{
+			"name": "Darknet Diaries",
+			"url": "https://darknetdiaries.com/",
+			"desc": "True stories from the dark side of the Internet."
+		},
+		{
+			"name": "DevelopSec",
+			"url": "https://developsec.libsyn.com/",
+			"desc": "Developing Security Awareness."
+		}
       ]
     },
+
     {
       "category": "Web",
       "link": "web",
