@@ -551,7 +551,22 @@
           "name": "Talk Python To Me",
           "url": "https://talkpython.fm/episodes/all",
           "desc": "A podcast on Python and related technologies."
-        }
+        },
+		{
+			"name": "Python Bytes",
+			"url": "https://pythonbytes.fm/",
+			"desc": "Python headlines delivered directly to your earbuds."
+		},
+		{
+			"name": "Import This",
+			"url": "https://www.kennethreitz.org/import-this/",
+			"desc": "A Python Podcast for Humans."
+		},
+		{
+			"name": "podcast.__init__",
+			"url": "https://www.podcastinit.com/",
+			"desc": "The Podcast About Python and the People Who Make It Great."
+		}
       ]
     },
 
