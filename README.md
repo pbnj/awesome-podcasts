@@ -182,6 +182,9 @@
 > Podcasts related to Python Programming Language
 
 - [Talk Python To Me](https://talkpython.fm/episodes/all) - A podcast on Python and related technologies.
+- [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
+- [Import This](https://www.kennethreitz.org/import-this/) - Import This: A Podcast for Humans
+- [podcast.__init__](https://www.podcastinit.com/) -  The Podcast About Python and the People Who Make It Great
 
 ## Ruby
 
