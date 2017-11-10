@@ -205,6 +205,7 @@
 
 > Podcasts related to Information Security
 
+- [AppCanary Podcast](http://podcast.appcanary.com/) - Appcanary makes sure you never run vulnerable software on your servers.
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today&#39;s workplace.
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 - [Data Driven Security](http://datadrivensecurity.info/podcast/) - A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis &amp; visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security.
