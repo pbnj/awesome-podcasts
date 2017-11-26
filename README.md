@@ -123,6 +123,7 @@
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast.
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying.
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
+- [Women Who Code Radio](https://womenwhocoderadio.blogspot.com/) - Interviews, moderatings, and musings about the state of women in high tech industry.
 
 ## Go
 
@@ -199,6 +200,7 @@
 
 > Podcasts related to Rust Programming Language
 
+- [Rusty Spike Podcast](https://rusty-spike.blubrry.net/) - A podcast for Rust and Servo.
 - [The New Rustacean](http://www.newrustacean.com/show_notes/) - A podcast about learning the programming language Rust—from scratch.
 
 ## Security
