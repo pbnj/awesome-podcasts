@@ -1,8 +1,7 @@
 {
-	"podcasts": [
+	"categories": [
 		{
-			"category": "Beginner",
-			"link": "beginner",
+			"name": "Beginner",
 			"pods": [
 				{
 					"desc": "Stories from people on their coding journey.",
@@ -33,8 +32,7 @@
 			"subtitle": "Podcasts for programming newbies"
 		},
 		{
-			"category": "Cloud",
-			"link": "cloud",
+			"name": "Cloud",
 			"pods": [
 				{
 					"desc": "Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.",
@@ -60,8 +58,7 @@
 			"subtitle": "Podcasts related to public clouds"
 		},
 		{
-			"category": "Conference Talks",
-			"link": "conference-talks",
+			"name": "Conference Talks",
 			"pods": [
 				{
 					"desc": "This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks.",
@@ -72,8 +69,7 @@
 			"subtitle": "Recordings from conference talks"
 		},
 		{
-			"category": "Data Science",
-			"link": "data-science",
+			"name": "Data Science",
 			"pods": [
 				{
 					"desc": "A podcast all about data, science, stories, and time.",
@@ -84,8 +80,7 @@
 			"subtitle": "Podcasts related to Data Science"
 		},
 		{
-			"category": "DevOps",
-			"link": "devops",
+			"name": "DevOps",
 			"pods": [
 				{
 					"desc": "ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.",
@@ -161,8 +156,7 @@
 			"subtitle": "Podcasts related to Operations and DevOps"
 		},
 		{
-			"category": "DotNet",
-			"link": "dotnet",
+			"name": "DotNet",
 			"pods": [
 				{
 					"desc": "A weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.",
@@ -178,8 +172,7 @@
 			"subtitle": "Podcasts related to .NET and Windows Development"
 		},
 		{
-			"category": "Elixir",
-			"link": "elixir",
+			"name": "Elixir",
 			"pods": [
 				{
 					"desc": "Bringing you the News & Interviews from around the Elixir Community.",
@@ -190,8 +183,7 @@
 			"subtitle": "Podcasts related to Elixir Programming Language"
 		},
 		{
-			"category": "General",
-			"link": "general",
+			"name": "General",
 			"pods": [
 				{
 					"desc": "Interviews, moderatings, and musings about the state of women in high tech industry.",
@@ -322,8 +314,7 @@
 			"subtitle": "Podcasts related to general programming topics"
 		},
 		{
-			"category": "Go",
-			"link": "go",
+			"name": "Go",
 			"pods": [
 				{
 					"desc": "A weekly panelist podcast discussing the Go programming language, the community, and everything in between.",
@@ -334,8 +325,7 @@
 			"subtitle": "Podcasts related to Go Programming Language"
 		},
 		{
-			"category": "Hardware/IoT",
-			"link": "hardwareiot",
+			"name": "Hardware/IoT",
 			"pods": [
 				{
 					"desc": "A weekly podcast exploring latest IoT tech and topics.",
@@ -351,8 +341,7 @@
 			"subtitle": "Podcasts related to Hardware Programming"
 		},
 		{
-			"category": "Javascript/Node.js",
-			"link": "javascriptnodejs",
+			"name": "Javascript",
 			"pods": [
 				{
 					"desc": "The latest news in the JavaScript community in 5 minutes.",
@@ -408,8 +397,7 @@
 			"subtitle": "Podcasts related to JavaScript Programming Language"
 		},
 		{
-			"category": "Linux/Unix",
-			"link": "linuxunix",
+			"name": "Linux/Unix",
 			"pods": [
 				{
 					"desc": "A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike.",
@@ -440,8 +428,7 @@
 			"subtitle": "Podcasts related to Linux/Unix Operating Systems"
 		},
 		{
-			"category": "Miscellaneous",
-			"link": "miscellaneous",
+			"name": "Miscellaneous",
 			"pods": [
 				{
 					"desc": "A podcast about dads and geeky stuff.",
@@ -459,11 +446,10 @@
 					"url": "https://www.heavybit.com/library/podcasts/"
 				}
 			],
-			"subtitle": "Podcasts that don't fit into a category, but are still about programming"
+			"subtitle": "Podcasts that don't fit into a name, but are still about programming"
 		},
 		{
-			"category": "Mobile",
-			"link": "mobile",
+			"name": "Mobile",
 			"pods": [
 				{
 					"desc": "The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code.",
@@ -479,8 +465,7 @@
 			"subtitle": "Podcasts related to Mobile Programming"
 		},
 		{
-			"category": "Python",
-			"link": "python",
+			"name": "Python",
 			"pods": [
 				{
 					"desc": "A podcast on Python and related technologies.",
@@ -506,8 +491,7 @@
 			"subtitle": "Podcasts related to Python Programming Language"
 		},
 		{
-			"category": "Ruby",
-			"link": "ruby",
+			"name": "Ruby",
 			"pods": [
 				{
 					"desc": "Rails Clips is a video series about building web applications with Ruby on Rails.",
@@ -533,8 +517,7 @@
 			"subtitle": "Podcasts related to Ruby Programming Language"
 		},
 		{
-			"category": "Rust",
-			"link": "rust",
+			"name": "Rust",
 			"pods": [
 				{
 					"desc": "A podcast for Rust and Servo.",
@@ -550,8 +533,7 @@
 			"subtitle": "Podcasts related to Rust Programming Language"
 		},
 		{
-			"category": "Security",
-			"link": "security",
+			"name": "Security",
 			"pods": [
 				{
 					"desc": "Appcanary makes sure you never run vulnerable software on your servers.",
@@ -591,7 +573,7 @@
 				{
 					"desc": "A monthly podcast exploring different security topics.",
 					"name": "The Social Engineering Podcast",
-					"url": "http://www.social-engineer.org/category/podcast/"
+					"url": "http://www.social-engineer.org/name/podcast/"
 				},
 				{
 					"desc": "A podcast about security for developers, covering tools and best practices.",
@@ -651,7 +633,7 @@
 				{
 					"desc": "A podcast by Threatpost, an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide.",
 					"name": "The Threatpost Podcast",
-					"url": "https://threatpost.com/category/podcasts/"
+					"url": "https://threatpost.com/name/podcasts/"
 				},
 				{
 					"desc": "A weekly update on Information Security topics.",
@@ -677,8 +659,7 @@
 			"subtitle": "Podcasts related to Information Security"
 		},
 		{
-			"category": "Web",
-			"link": "web",
+			"name": "Web",
 			"pods": [
 				{
 					"desc": "Catching up with various web developers, web designers and unicorns.",
