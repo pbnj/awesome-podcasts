@@ -573,7 +573,7 @@
 				{
 					"desc": "A monthly podcast exploring different security topics.",
 					"name": "The Social Engineering Podcast",
-					"url": "http://www.social-engineer.org/name/podcast/"
+					"url": "https://www.social-engineer.org/category/podcast/"
 				},
 				{
 					"desc": "A podcast about security for developers, covering tools and best practices.",
@@ -633,7 +633,7 @@
 				{
 					"desc": "A podcast by Threatpost, an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide.",
 					"name": "The Threatpost Podcast",
-					"url": "https://threatpost.com/name/podcasts/"
+					"url": "https://threatpost.com/category/podcasts/"
 				},
 				{
 					"desc": "A weekly update on Information Security topics.",

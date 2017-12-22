@@ -226,8 +226,8 @@
 - [Source Code Podcast](http://chrissanders.org/podcast/) - Source Code is focused on the people that push information security forward and battle in the trenches every day.
 - [The CyberWire](https://thecyberwire.com/podcasts/) - A look at what&#39;s happening in cyberspace.
 - [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/) - A podcast about security for developers, covering tools and best practices.
-- [The Social Engineering Podcast](http://www.social-engineer.org/name/podcast/) - A monthly podcast exploring different security topics.
-- [The Threatpost Podcast](https://threatpost.com/name/podcasts/) - A podcast by Threatpost, an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide.
+- [The Social Engineering Podcast](https://www.social-engineer.org/category/podcast/) - A monthly podcast exploring different security topics.
+- [The Threatpost Podcast](https://threatpost.com/category/podcasts/) - A podcast by Threatpost, an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals worldwide.
 - [Troy Hunt&#39;s Weekly Update](https://www.troyhunt.com/tag/weekly-update/) - A weekly update on Information Security topics.
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - The most interesting stories in infosec, technology, and humans.
 - [Web Security Warriors](https://devchat.tv/web-sec-warriors) - Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure.
