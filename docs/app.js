@@ -44,7 +44,7 @@ class App extends React.Component {
           </Segment>
           <Segment>
             <Dropdown 
-              placeholder="Search Categories"
+              placeholder="Filter Categories"
               fluid
               multiple
               search
