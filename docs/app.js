@@ -1,22 +1,14 @@
 /* global React, ReactDOM, fetch, semanticUIReact */
 const podcastURL = "https://raw.githubusercontent.com/petermbenjamin/awesome-podcasts/master/awesome-podcasts.json"
 
-const { 
+const {
   Container,
   Divider,
   Dropdown,
   Header,
   List,
   Segment,
-  } = semanticUIReact
-
-const showOnlyStyle = {
-  visibility: 'visible'
-}
-
-const hiddenStyle = {
-  visibility: 'hidden'
-}
+} = semanticUIReact
 
 class App extends React.Component {
   state = { categories: [], showCategories: [] }
@@ -30,11 +22,13 @@ class App extends React.Component {
       }))
   }
 
-  handleDropdownChange = (event, {name, value}) => {
-    console.log(typeof value, value)
-    if (value.length === 0) {
-      this.setState({showCategories: this.state.categories})
+  componentDidUpdate(prevProps, prevState) {
+    if (this.state.showCategories.length === 0) {
+      this.setState({ showCategories: this.state.categories })
     }
+  }
+
+  handleDropdownChange = (event, { name, value }) => {
     this.setState({
       showCategories: this.state.categories.filter(cat => value.includes(cat.name))
     })
@@ -52,6 +46,7 @@ class App extends React.Component {
             <Dropdown 
               placeholder="Search Categories"
               fluid
+              multiple
               search
               selection
               options={categories.map((c) => ({key:c.name, value:c.name, text:c.name}))} 
@@ -73,7 +68,6 @@ class App extends React.Component {
               {
                 category.pods.map(pod => (
                   <List.Item key={pod.name}>
-                    <List.Icon></List.Icon>
                     <List.Content>
                       <a href={pod.url}>
                         <List.Header>{ pod.name }</List.Header>
