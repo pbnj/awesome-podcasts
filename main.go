@@ -58,7 +58,6 @@ func main() {
 
 	// Fifth, setup templates & custom template functions
 	paths := []string{
-		filepath.Join("templates", "index.html"),
 		filepath.Join("templates", "README.md"),
 	}
 
@@ -73,22 +72,7 @@ func main() {
 		"titled": strings.Title,
 	}
 
-	// Sixth, generate gh-pages
-	hf, err := os.Create("docs/index.html")
-	if err != nil {
-		log.Fatalf("could not create index.html file: %+v\n", err)
-	}
-	defer hf.Close()
-	hw := bufio.NewWriter(hf)
-	defer hw.Flush()
-
-	t := template.Must(template.New("main").Funcs(funcMap).ParseFiles(paths...))
-	err = t.ExecuteTemplate(hw, "index.html", awesomePodcasts)
-	if err != nil {
-		log.Fatalf("could not generate html: %+v\n", err)
-	}
-
-	// Seventh & last, generate README
+	// last, generate README
 	rf, err := os.Create("README.md")
 	if err != nil {
 		log.Fatalf("could not create README file: %+v\n", err)
