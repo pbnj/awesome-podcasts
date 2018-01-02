@@ -1,0 +1,33 @@
+{
+  "name": "awesome-podcasts",
+  "version": "0.0.1",
+  "description": "😎 A curated list of awesome programming podcasts",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier --write index.js awesome-podcasts.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermbenjamin/awesome-podcasts.git"
+  },
+  "keywords": [
+    "awesome",
+    "podcasts",
+    "awesome-podcasts",
+    "awesome-list",
+    "programming"
+  ],
+  "author": "Peter Benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermbenjamin/awesome-podcasts/issues"
+  },
+  "homepage": "https://github.com/petermbenjamin/awesome-podcasts#readme",
+  "devDependencies": {
+    "prettier": "^1.9.2"
+  }
+}
