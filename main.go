@@ -81,6 +81,7 @@ func main() {
 	rw := bufio.NewWriter(rf)
 	defer rw.Flush()
 
+	t := template.Must(template.New("main").Funcs(funcMap).ParseFiles(paths...))
 	err = t.ExecuteTemplate(rw, "README.md", awesomePodcasts)
 	if err != nil {
 		log.Fatalf("could not create generate README: %+v\n", err)
