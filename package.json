@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "prettier --write index.js awesome-podcasts.json"
+    "lint": "prettier --write index.js docs/app.js awesome-podcasts.json",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
