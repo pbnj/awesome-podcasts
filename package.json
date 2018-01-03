@@ -7,10 +7,11 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "prettier --write index.js docs/app.js awesome-podcasts.json",
-    "start": "node index.js"
+    "prettier": "npm run lint && git add . && git status",
+    "lint": "prettier --config .prettierrc --write **/*.{js,md,css,json}",
+    "start": "node index.js && npm run lint"
   },
+  "pre-commit": ["prettier"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/petermbenjamin/awesome-podcasts.git"
@@ -29,6 +30,8 @@
   },
   "homepage": "https://github.com/petermbenjamin/awesome-podcasts#readme",
   "devDependencies": {
+    "pre-commit": "^1.2.2",
     "prettier": "^1.9.2"
-  }
+  },
+  "dependencies": {}
 }

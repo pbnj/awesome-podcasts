@@ -12,7 +12,7 @@ const main = async () => {
     console.error(e)
   }
   const categories = JSON.parse(awesomePodcasts)
-  let readmeFile = `
+  let readmeFile = `<!-- THIS README FILE HAS BEEN GENERATED AUTOMATICALLY. DO NOT EDIT OR MODIFY BY HAND. SEE CONTRIBUTING.MD -->
 # Awesome Podcasts
 > 😎 Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
