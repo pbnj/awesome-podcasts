@@ -9,13 +9,14 @@ class App extends React.Component {
 
   componentDidMount() {
     fetch(podcastURL)
-      .then(r => r.json())
-      .then(d => {
+      .then(response => response.json())
+      .then(data => {
         this.setState({
-          categories: d.categories,
-          showCategories: d.categories,
+          categories: data,
+          showCategories: data,
         })
       })
+      .catch(error => console.error(error))
   }
 
   componentDidUpdate(prevProps, prevState) {
@@ -26,8 +27,8 @@ class App extends React.Component {
 
   handleDropdownChange = (event, { name, value }) => {
     this.setState({
-      showCategories: this.state.categories.filter(cat =>
-        value.includes(cat.name)
+      showCategories: this.state.categories.filter(c =>
+        value.includes(c.category)
       ),
     })
   }
@@ -48,23 +49,23 @@ class App extends React.Component {
               search
               selection
               options={categories.map(c => ({
-                key: c.name,
-                value: c.name,
-                text: c.name,
+                key: c.category,
+                value: c.category,
+                text: c.category,
               }))}
               onChange={this.handleDropdownChange}
             />
           </Segment>
         </Segment.Group>
-        {showCategories.map(category => (
-          <Segment key={category.name}>
+        {showCategories.map(c => (
+          <Segment key={c.category}>
             <Header as="h2">
-              {category.name}
-              <Header.Subheader>{category.subtitle}</Header.Subheader>
+              {c.category}
+              <Header.Subheader>{c.subtitle}</Header.Subheader>
             </Header>
             <Divider />
             <List divided relaxed selection>
-              {category.pods.map(pod => (
+              {c.pods.map(pod => (
                 <List.Item key={pod.name}>
                   <List.Content>
                     <a href={pod.url}>
