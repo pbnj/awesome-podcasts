@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "prettier": "npm run lint && git status",
+    "prettier": "npm run lint",
     "lint": "prettier --config .prettierrc --write **/*.{js,md,css,json}",
     "start": "node index.js && npm run lint"
   },
