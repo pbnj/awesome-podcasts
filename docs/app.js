@@ -10,10 +10,19 @@ class App extends React.Component {
   componentDidMount() {
     fetch(podcastURL)
       .then(response => response.json())
-      .then(data => {
+      .then(data => data.sort((a, b) => a.category.localeCompare(b.category)))
+      .then(data =>
+        data.map(c => ({
+          category: c.category,
+          pods: c.pods.sort((a, b) => a.name.localeCompare(b.name)),
+          subtitle: c.subtitle,
+        }))
+      )
+      .then(categories => {
+        console.log(categories)
         this.setState({
-          categories: data,
-          showCategories: data,
+          categories,
+          showCategories: categories,
         })
       })
       .catch(error => console.error(error))
