@@ -208,6 +208,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "The podcast for coders who care by coders who care.",
+        "name": "Greater Than Code",
+        "url": "https://www.greaterthancode.com/podcast/"
+      },
+      {
         "desc":
           "Interviews, moderatings, and musings about the state of women in high tech industry.",
         "name": "Women Who Code Radio",

@@ -1,4 +1,4 @@
-<!-- THIS README FILE HAS BEEN GENERATED AUTOMATICALLY. DO NOT EDIT OR MODIFY BY HAND. SEE #CONTRIBUTING.MD -->
+<!-- THIS README FILE HAS BEEN GENERATED AUTOMATICALLY. DO NOT EDIT OR MODIFY BY HAND. SEE CONTRIBUTING.MD -->
 
 # Awesome Podcasts
 
@@ -87,6 +87,7 @@
 * [Freelancer's Show](https://devchat.tv/freelancers) - The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience.
 * [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 * [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages.
+* [Greater Than Code](https://www.greaterthancode.com/podcast/) - The podcast for coders who care by coders who care.
 * [Hanselminutes](http://hanselminutes.com/) - A weekly talkshow on tech.
 * [Herding Code](http://herdingcode.com/) - Herding Code is a weekly podcast that explores different technology-related topics.
 * [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It's about the human side of code.
