@@ -7,11 +7,17 @@
     "doc": "docs"
   },
   "scripts": {
-    "prettier": "npm run lint",
-    "lint": "prettier --config .prettierrc --write **/*.{js,md,css,json}",
-    "start": "node index.js && npm run lint"
+    "lint": "npm run prettier",
+    "prettier": "prettier --write **/*.{js,md}",
+    "add": "node add.js",
+    "sort": "node sort.js",
+    "start": "node index.js && npm run lint",
+    "test": "httpserver"
   },
-  "pre-commit": ["prettier"],
+  "pre-commit": [
+    "lint",
+    "sort"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/petermbenjamin/awesome-podcasts.git"
@@ -30,8 +36,18 @@
   },
   "homepage": "https://github.com/petermbenjamin/awesome-podcasts#readme",
   "devDependencies": {
+    "httpserver": "^0.3.0",
+    "inquirer": "^5.0.0",
     "pre-commit": "^1.2.2",
     "prettier": "^1.10.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "useTabs": false
+  }
 }
