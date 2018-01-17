@@ -91,6 +91,7 @@
 * [Hanselminutes](http://hanselminutes.com/) - A weekly talkshow on tech.
 * [Herding Code](http://herdingcode.com/) - Herding Code is a weekly podcast that explores different technology-related topics.
 * [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It's about the human side of code.
+* [Second Career Devs](https://secondcareerdevs.com/episodes) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 * [Shop Talk Show](http://shoptalkshow.com/) - An internet radio show about the internet.
 * [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer.
 * [Soft Skills Engineering](https://softskills.audio/) - A weekly Q & A podcast for software developers who want to level up their non-technical engineering skills.
