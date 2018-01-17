@@ -1,36 +1,27 @@
 /* global React, ReactDOM, fetch, semanticUIReact */
 const podcastURL =
-  "https://raw.githubusercontent.com/petermbenjamin/awesome-podcasts/master/awesome-podcasts.json"
+  'https://raw.githubusercontent.com/petermbenjamin/awesome-podcasts/master/awesome-podcasts.json';
 
-const { Container, Divider, Dropdown, Header, List, Segment } = semanticUIReact
+const { Container, Divider, Dropdown, Header, List, Segment } = semanticUIReact;
 
 class App extends React.Component {
-  state = { categories: [], showCategories: [] }
+  state = { categories: [], showCategories: [] };
 
   componentDidMount() {
     fetch(podcastURL)
       .then(response => response.json())
-      .then(data => data.sort((a, b) => a.category.localeCompare(b.category)))
-      .then(data =>
-        data.map(c => ({
-          category: c.category,
-          pods: c.pods.sort((a, b) => a.name.localeCompare(b.name)),
-          subtitle: c.subtitle,
-        }))
-      )
       .then(categories => {
-        console.log(categories)
         this.setState({
           categories,
           showCategories: categories,
-        })
+        });
       })
-      .catch(error => console.error(error))
+      .catch(error => console.error(error));
   }
 
   componentDidUpdate(prevProps, prevState) {
     if (this.state.showCategories.length === 0) {
-      this.setState({ showCategories: this.state.categories })
+      this.setState({ showCategories: this.state.categories });
     }
   }
 
@@ -39,11 +30,11 @@ class App extends React.Component {
       showCategories: this.state.categories.filter(c =>
         value.includes(c.category)
       ),
-    })
-  }
+    });
+  };
 
   render() {
-    const { categories, showCategories } = this.state
+    const { categories, showCategories } = this.state;
     return (
       <Container>
         <Segment.Group horizontal>
@@ -88,10 +79,10 @@ class App extends React.Component {
           </Segment>
         ))}
       </Container>
-    )
+    );
   }
 }
 
-const root = document.getElementById("root")
-const elem = <App />
-ReactDOM.render(elem, root)
+const root = document.getElementById('root');
+const elem = <App />;
+ReactDOM.render(elem, root);
