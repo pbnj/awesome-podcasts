@@ -1,8 +1,7 @@
 const fs = require('fs');
 const util = require('util');
-const categories = require('./awesome-podcasts');
+const categories = require('../awesome-podcasts.json');
 
-const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
 
 let readmeFile = `<!-- THIS README FILE HAS BEEN GENERATED AUTOMATICALLY. DO NOT EDIT OR MODIFY BY HAND. SEE CONTRIBUTING.MD -->
@@ -12,19 +11,13 @@ let readmeFile = `<!-- THIS README FILE HAS BEEN GENERATED AUTOMATICALLY. DO NOT
 ---
 `;
 
-(async () => {
-  for (const category of categories) {
-    readmeFile += `\n## ${category.category}\n\n`;
-    readmeFile += `> ${category.subtitle}\n\n`;
+for (const category of categories) {
+  readmeFile += `\n## ${category.category}\n\n`;
+  readmeFile += `> ${category.subtitle}\n\n`;
 
-    for (const pod of category.pods) {
-      readmeFile += `- [${pod.name}](${pod.url}) - ${pod.desc}\n`;
-    }
+  for (const pod of category.pods) {
+    readmeFile += `- [${pod.name}](${pod.url}) - ${pod.desc}\n`;
   }
+}
 
-  try {
-    writeFile('README.md', readmeFile, 'utf-8');
-  } catch (e) {
-    console.error(e);
-  }
-})();
+writeFile('../README.md', readmeFile, 'utf-8');

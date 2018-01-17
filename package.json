@@ -9,15 +9,12 @@
   "scripts": {
     "lint": "npm run prettier",
     "prettier": "prettier --write **/*.{js,md}",
-    "add": "node add.js",
-    "sort": "node sort.js",
-    "start": "node index.js && npm run lint",
+    "add": "node src/add.js",
+    "sort": "node src/sort.js",
+    "start": "node src/index.js",
     "test": "httpserver"
   },
-  "pre-commit": [
-    "lint",
-    "sort"
-  ],
+  "pre-commit": ["lint", "sort"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/petermbenjamin/awesome-podcasts.git"

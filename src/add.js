@@ -1,9 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { promisify } = require('util');
-const categories = require('./awesome-podcasts.json');
+const util = require('util');
+const categories = require('../awesome-podcasts.json');
 
-const writeFile = promisify(fs.writeFile);
+const writeFile = util.promisify(fs.writeFile);
 
 const questions = [
   {
@@ -39,5 +39,5 @@ inquirer
     return categories;
   })
   .then(podcasts =>
-    writeFile('awesome-podcasts.json', JSON.stringify(podcasts), 'utf-8')
+    writeFile('../awesome-podcasts.json', JSON.stringify(podcasts), 'utf-8')
   );
