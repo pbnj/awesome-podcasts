@@ -1,0 +1,26 @@
+<!-- THIS README FILE HAS BEEN GENERATED AUTOMATICALLY. DO NOT EDIT OR MODIFY BY HAND. SEE CONTRIBUTING.MD -->
+# Awesome Podcasts
+
+> 😎 Curated list of awesome programming podcasts  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+---
+
+<details>
+
+<summary>Table of Content</summary>
+
+{{range .}}- [{{titled .Category}}](#{{dashed .Category}})
+{{end}}
+
+</details>
+
+---
+
+
+{{range .}}## {{titled .Category}}
+
+> {{.Subtitle}}
+
+{{range .Pods}}- [{{.Name}}]({{.URL}}) - {{.Desc}}
+{{end}}
+{{end}}
