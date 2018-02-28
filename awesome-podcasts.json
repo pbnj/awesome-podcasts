@@ -318,6 +318,11 @@
         "desc": "A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.",
         "name": "Toolsday",
         "url": "http://toolsday.io/"
+      },
+      {
+        "desc": "Interviews, moderatings, and musings about the state of women in high tech industry.",
+        "name": "Women Who Code Blogposts",
+        "url": "https://womenwhocoderadio.blogspot.com/"
       }
     ],
     "subtitle": "Podcasts related to general programming topics"
