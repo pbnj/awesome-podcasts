@@ -7,12 +7,12 @@ import (
 	"fmt"
 	"html/template"
 	"io/ioutil"
-	"log"
 	"os"
 	"path/filepath"
 	"sort"
 	"strings"
 
+	log "github.com/sirupsen/logrus"
 	survey "gopkg.in/AlecAivazis/survey.v1"
 )
 
@@ -137,6 +137,32 @@ func main() {
 			log.Fatalf("could not prompt questions: %s", err)
 		}
 
-		fmt.Println(answers.Name, answers.URL, answers.Desc, answers.Category)
+		for _, p := range podcasts {
+			if p.Category == answers.Category {
+				p.Pods = append(p.Pods, Pod{
+					Name: answers.Name,
+					URL:  answers.URL,
+					Desc: answers.Desc,
+				})
+			}
+			sort.Slice(p.Pods, func(i, j int) bool {
+				return strings.ToUpper(p.Pods[i].Name) < strings.ToUpper(p.Pods[j].Name)
+			})
+		}
+
+		b, err := json.MarshalIndent(podcasts, "", "  ")
+		if err != nil {
+			log.Fatalf("could not convert struct to JSON: %+v", err)
+		}
+		err = ioutil.WriteFile("awesome-podcasts.json", b, 0777)
+		if err != nil {
+			log.Fatalf("could not write JSON file: %+v", err)
+		}
+		log.WithFields(log.Fields{
+			"Name":     answers.Name,
+			"URL":      answers.URL,
+			"Desc":     answers.Desc,
+			"Category": answers.Category,
+		}).Infoln("SUCCESS!")
 	}
 }
