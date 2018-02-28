@@ -107,6 +107,7 @@
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun.
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer.
+- [Community Pulse](https://communitypulse.io/) - The spot for community managers and developer evangelists who are looking for information on community building.
 - [Complete Developer](http://completedeveloperpodcast.com/) - A podcast by coders for coders about all aspects of life as a developer.
 - [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break.
@@ -128,7 +129,6 @@
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast.
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying.
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays.
-- [Women Who Code Radio](https://womenwhocoderadio.blogspot.com/) - Interviews, moderatings, and musings about the state of women in high tech industry.
 
 ## Go
 
