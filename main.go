@@ -12,8 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	log "github.com/sirupsen/logrus"
-	survey "gopkg.in/AlecAivazis/survey.v1"
+	"github.com/sirupsen/logrus"
 )
 
 type Podcast struct {
@@ -30,7 +29,6 @@ type Pod struct {
 
 func main() {
 	gen := flag.Bool("gen", false, "Generate README file")
-	add := flag.Bool("add", false, "Add new podcast")
 
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Please, specify one of the following flags:\n")
@@ -43,9 +41,10 @@ func main() {
 		flag.Usage()
 	}
 	// 1. Read in JSON file
-	b, err := ioutil.ReadFile("awesome-podcasts.json")
+	awesomePodcastJSONFile := "awesome-podcasts.json"
+	b, err := ioutil.ReadFile(awesomePodcastJSONFile)
 	if err != nil {
-		log.Fatalf("could not read JSON file: %s", err)
+		logrus.Warnf("JSON file not found [%s]: %s", awesomePodcastJSONFile, err)
 	}
 
 	// 2. Load in data into Go struct
@@ -85,7 +84,7 @@ func main() {
 		// 5. Create file
 		f, err := os.Create("README.md")
 		if err != nil {
-			log.Fatalf("could not create README file: %s", err)
+			logrus.Fatalf("could not create README file: %s", err)
 		}
 		defer f.Close()
 
@@ -96,73 +95,7 @@ func main() {
 		// 7. Write data to README
 		err = t.ExecuteTemplate(w, "readme.md.tmpl", podcasts)
 		if err != nil {
-			log.Fatalf("could not write README file: %s", err)
+			logrus.Fatalf("could not write README file: %s", err)
 		}
-	}
-
-	if *add {
-		// TODO: implement add
-		qs := []*survey.Question{
-			{
-				Name:     "name",
-				Prompt:   &survey.Input{Message: "Podcast Name:"},
-				Validate: survey.Required,
-			},
-			{
-				Name:     "url",
-				Prompt:   &survey.Input{Message: "Podcast URL:"},
-				Validate: survey.Required,
-			},
-			{
-				Name:     "desc",
-				Prompt:   &survey.Input{Message: "Podcast Description:"},
-				Validate: survey.Required,
-			},
-			{
-				Name:     "category",
-				Prompt:   &survey.Input{Message: "Podcast Category"},
-				Validate: survey.Required,
-			},
-		}
-
-		answers := struct {
-			Name     string
-			URL      string
-			Desc     string
-			Category string
-		}{}
-
-		err := survey.Ask(qs, &answers)
-		if err != nil {
-			log.Fatalf("could not prompt questions: %s", err)
-		}
-
-		for _, p := range podcasts {
-			if p.Category == answers.Category {
-				p.Pods = append(p.Pods, Pod{
-					Name: answers.Name,
-					URL:  answers.URL,
-					Desc: answers.Desc,
-				})
-			}
-			sort.Slice(p.Pods, func(i, j int) bool {
-				return strings.ToUpper(p.Pods[i].Name) < strings.ToUpper(p.Pods[j].Name)
-			})
-		}
-
-		b, err := json.MarshalIndent(podcasts, "", "  ")
-		if err != nil {
-			log.Fatalf("could not convert struct to JSON: %+v", err)
-		}
-		err = ioutil.WriteFile("awesome-podcasts.json", b, 0777)
-		if err != nil {
-			log.Fatalf("could not write JSON file: %+v", err)
-		}
-		log.WithFields(log.Fields{
-			"Name":     answers.Name,
-			"URL":      answers.URL,
-			"Desc":     answers.Desc,
-			"Category": answers.Category,
-		}).Infoln("SUCCESS!")
 	}
 }
