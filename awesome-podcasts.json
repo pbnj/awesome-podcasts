@@ -216,6 +216,39 @@
     "subtitle": "Podcasts related to Elixir Programming Language"
   },
   {
+    "category": "Elm",
+    "pods": [
+      {
+        "desc": "About the people making and using the Elm language.",
+        "name": "Elm Town",
+        "url": "https://elmtown.audio/"
+      }
+    ],
+    "subtitle": "Podcasts related to Elm Programming Language"
+  },
+  {
+    "category": "Functional Programming",
+    "pods": [
+      {
+        "desc":
+          "Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else.",
+        "name": "CoRecursive",
+        "url": "https://corecursive.com/"
+      },
+      {
+        "desc": "All functional programming languages.",
+        "name": "Functional Geekery",
+        "url": "https://www.functionalgeekery.com/"
+      },
+      {
+        "desc": "Functional programming core concepts.",
+        "name": "Lambdacast",
+        "url": "https://soundcloud.com/lambda-cast"
+      }
+    ],
+    "subtitle": "Podcasts related to functional programming"
+  },
+  {
     "category": "General",
     "pods": [
       {
@@ -392,6 +425,12 @@
           "A weekly panelist podcast discussing the Go programming language, the community, and everything in between.",
         "name": "Go Time",
         "url": "https://changelog.com/gotime"
+      },
+      {
+        "desc":
+          "A podcast about everything Go. We'll explore syntax, new libraries, its concurrency model, and what makes it unique. Anything Go-related is on the table!",
+        "name": "Go Gab",
+        "url": "https://www.briefs.fm/go-gab"
       }
     ],
     "subtitle": "Podcasts related to Go Programming Language"
@@ -412,6 +451,17 @@
       }
     ],
     "subtitle": "Podcasts related to Hardware Programming"
+  },
+  {
+    "category": "Haskell",
+    "pods": [
+      {
+        "desc": "Core haskell concepts.",
+        "name": "Haskell Cast",
+        "url": "https://www.haskellcast.com/"
+      }
+    ],
+    "subtitle": "Podcasts related to Haskell Programming Language"
   },
   {
     "category": "Javascript",
@@ -472,6 +522,17 @@
     "subtitle": "Podcasts related to JavaScript Programming Language"
   },
   {
+    "category": "Kotlin",
+    "pods": [
+      {
+        "desc": "Kotlin and more.",
+        "name": "Kotlin",
+        "url": "http://talkingkotlin.com/"
+      }
+    ],
+    "subtitle": "Podcasts related to Kotlin Programming Language"
+  },
+  {
     "category": "Miscellaneous",
     "pods": [
       {
@@ -507,6 +568,29 @@
           "React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native.",
         "name": "React Native Radio",
         "url": "https://devchat.tv/react-native-radio"
+      },
+      {
+        "desc":
+          "Podcast interviewing Google engineers about the latest Android APIs.",
+        "name": "Android Developers Backstage",
+        "url":
+          "http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage<Paste>"
+      },
+      {
+        "desc": "The TL;DR of last week's Android developer news.",
+        "name": "Android Snacks",
+        "url": "http://androidsnacks.com/"
+      },
+      {
+        "desc":
+          "Podcast that discusses on various frameworks and tools available in Android Community.",
+        "name": "Context Podcast",
+        "url": "https://github.com/artem-zinnatullin/TheContext-Podcast"
+      },
+      {
+        "desc": "An Android Developer Podcast.",
+        "name": "Fragmented Podcast",
+        "url": "http://fragmentedpodcast.com/category/episodes/"
       }
     ],
     "subtitle": "Podcasts related to Mobile Programming"
