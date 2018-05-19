@@ -1,3 +1,5 @@
+<p align="center"><img src="logo/verticalversion.png" alt="awesome-podcasts" height="200px"></p>
+
 
 # Awesome Podcasts
 
