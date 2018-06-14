@@ -65,7 +65,7 @@ func main() {
 		})
 	}
 
-	marshaledBytes, err := json.MarshalIndent(podcasts, "", "    ")
+	marshaledBytes, err := json.MarshalIndent(podcasts, "", "\t")
 	if err != nil {
 		logrus.Warnf("could not marshal podcasts into sorted json: %+v", err)
 	}
