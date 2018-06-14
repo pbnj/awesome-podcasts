@@ -270,7 +270,6 @@
 - [Open Source Security](http://www.opensourcesecuritypodcast.com/) - A podcast about security with an open source slant
 - [OWASP 24/7](http://https//www.owasp.org/index.php/OWASP_Podcast) - OWASP 24/7 is a recorded series of discussions with project leads within OWASP. Each week, we talk about the new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk
 - [SANS Internet Storm Center Daily](https://isc.sans.edu/podcast.html) - Daily 5-10 minute information security threat updates
-- [SANS Internet StormCenter StormCast](https://isc.sans.edu/podcast.html#stormcast) - Daily update on current cyber security threats
 - [Security Boulevard Chat](https://securityboulevard.com/) - Security Boulevard is the destination for the security community to stay up on the latest news, discussion and analysis. Home of the Security Bloggers Network, Security Boulevard has more security related content than anywhere else on the web
 - [Security Intelligence](https://securityintelligence.com/media-type/podcasts/) - A cybersecurity podcast brought to you by IBM
 - [Security Nation](https://www.rapid7.com/resources/podcasts/) - Security Nation is a podcast dedicated to covering all things infosec
