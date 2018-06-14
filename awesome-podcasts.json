@@ -231,6 +231,12 @@
 		"category": "Elm",
 		"pods": [
 			{
+				"desc":
+					"A show about learning Elm, Functional Programing, and generally leveling up as a JS developer",
+				"name": "JavaScript to Elm",
+				"url": "https://jstoelm.com/"
+			},
+			{
 				"desc": "About the people making and using the Elm language",
 				"name": "Elm Town",
 				"url": "https://elmtown.audio/"
