@@ -714,6 +714,23 @@
 		"pods": [
 			{
 				"desc":
+					"Security Boulevard is the destination for the security community to stay up on the latest news, discussion and analysis. Home of the Security Bloggers Network, Security Boulevard has more security related content than anywhere else on the web",
+				"name": "Security Boulevard Chat",
+				"url": "https://securityboulevard.com/"
+			},
+			{
+				"desc":
+					"OWASP 24/7 is a recorded series of discussions with project leads within OWASP. Each week, we talk about the new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk",
+				"name": "OWASP 24/7",
+				"url": "http://https//www.owasp.org/index.php/OWASP_Podcast"
+			},
+			{
+				"desc": "Daily update on current cyber security threats",
+				"name": "SANS Internet StormCenter StormCast",
+				"url": "https://isc.sans.edu/podcast.html#stormcast"
+			},
+			{
+				"desc":
 					"Application security for the win: reach new people, explain the details, and leave the echo chamber in the dust",
 				"name": "Application Security Podcast",
 				"url": "https://www.appsecpodcast.org/"
