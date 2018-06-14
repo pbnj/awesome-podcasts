@@ -463,6 +463,12 @@
 		"category": "Hardware",
 		"pods": [
 			{
+				"desc":
+					"A bi-weekly podcast/videocast for Raspberry Pi enthusiasts containing the latest news, details of new and updated products, a look at related crowdfunding campaigns, information about upcoming events and a look at some featured Raspberry Pi projects",
+				"name": "Raspberry PiPod Podcast",
+				"url": "http://www.recantha.co.uk/blog/"
+			},
+			{
 				"desc": "A weekly podcast exploring latest IoT tech and topics",
 				"name": "IoT Podcast",
 				"url": "http://iotpodcast.com/"
