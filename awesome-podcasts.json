@@ -3,15 +3,15 @@
 		"category": "Beginner",
 		"pods": [
 			{
+				"desc": "Stories from people on their coding journey",
+				"name": "CodeNewbie",
+				"url": "http://www.codenewbie.org/podcast"
+			},
+			{
 				"desc":
 					"The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs",
 				"name": "freeCodeCamp Podcast",
 				"url": "https://freecodecamp.libsyn.com/"
-			},
-			{
-				"desc": "Stories from people on their coding journey",
-				"name": "CodeNewbie",
-				"url": "http://www.codenewbie.org/podcast"
 			},
 			{
 				"desc":
@@ -54,18 +54,6 @@
 		"pods": [
 			{
 				"desc":
-					"Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today's Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT",
-				"name": "The Cloud Cast",
-				"url": "http://thecloudcast.net/"
-			},
-			{
-				"desc":
-					"Latest news, notes, commentary and listener questions on Microsoft cloud technologies including Windows Azure, Office 365 and SharePoint",
-				"name": "Microsoft Cloud Show",
-				"url": "http://www.microsoftcloudshow.com/podcast"
-			},
-			{
-				"desc":
 					"Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees",
 				"name": "AWS Podcast",
 				"url": "https://aws.amazon.com/podcasts/aws-podcast/"
@@ -87,6 +75,18 @@
 					"Discussing everything from on Google Cloud Platform from App Engine to Big Query",
 				"name": "Google Cloud Platform Podcast",
 				"url": "https://www.gcppodcast.com/"
+			},
+			{
+				"desc":
+					"Latest news, notes, commentary and listener questions on Microsoft cloud technologies including Windows Azure, Office 365 and SharePoint",
+				"name": "Microsoft Cloud Show",
+				"url": "http://www.microsoftcloudshow.com/podcast"
+			},
+			{
+				"desc":
+					"Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today's Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT",
+				"name": "The Cloud Cast",
+				"url": "http://thecloudcast.net/"
 			}
 		],
 		"subtitle": "Podcasts related to public clouds"
@@ -237,15 +237,15 @@
 		"category": "Elm",
 		"pods": [
 			{
+				"desc": "About the people making and using the Elm language",
+				"name": "Elm Town",
+				"url": "https://elmtown.audio/"
+			},
+			{
 				"desc":
 					"A show about learning Elm, Functional Programing, and generally leveling up as a JS developer",
 				"name": "JavaScript to Elm",
 				"url": "https://jstoelm.com/"
-			},
-			{
-				"desc": "About the people making and using the Elm language",
-				"name": "Elm Town",
-				"url": "https://elmtown.audio/"
 			}
 		],
 		"subtitle": "Podcasts related to Elm Programming Language"
@@ -255,7 +255,7 @@
 		"pods": [
 			{
 				"desc":
-					"Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else",
+					"Interviews with functional programming devs \u0026 researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else",
 				"name": "CoRecursive",
 				"url": "https://corecursive.com/"
 			},
@@ -446,15 +446,15 @@
 		"pods": [
 			{
 				"desc":
-					"A weekly panelist podcast discussing the Go programming language, the community, and everything in between",
-				"name": "Go Time",
-				"url": "https://changelog.com/gotime"
-			},
-			{
-				"desc":
 					"A podcast about everything Go. We'll explore syntax, new libraries, its concurrency model, and what makes it unique. Anything Go-related is on the table!",
 				"name": "Go Gab",
 				"url": "https://www.briefs.fm/go-gab"
+			},
+			{
+				"desc":
+					"A weekly panelist podcast discussing the Go programming language, the community, and everything in between",
+				"name": "Go Time",
+				"url": "https://changelog.com/gotime"
 			}
 		],
 		"subtitle": "Podcasts related to Go Programming Language"
@@ -463,15 +463,15 @@
 		"category": "Hardware",
 		"pods": [
 			{
+				"desc": "A weekly podcast exploring latest IoT tech and topics",
+				"name": "IoT Podcast",
+				"url": "http://iotpodcast.com/"
+			},
+			{
 				"desc":
 					"A bi-weekly podcast/videocast for Raspberry Pi enthusiasts containing the latest news, details of new and updated products, a look at related crowdfunding campaigns, information about upcoming events and a look at some featured Raspberry Pi projects",
 				"name": "Raspberry PiPod Podcast",
 				"url": "http://www.recantha.co.uk/blog/"
-			},
-			{
-				"desc": "A weekly podcast exploring latest IoT tech and topics",
-				"name": "IoT Podcast",
-				"url": "http://iotpodcast.com/"
 			},
 			{
 				"desc":
@@ -589,22 +589,10 @@
 		"pods": [
 			{
 				"desc":
-					"The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code",
-				"name": "iPhreaks",
-				"url": "https://devchat.tv/iphreaks"
-			},
-			{
-				"desc":
-					"React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native",
-				"name": "React Native Radio",
-				"url": "https://devchat.tv/react-native-radio"
-			},
-			{
-				"desc":
 					"Podcast interviewing Google engineers about the latest Android APIs",
 				"name": "Android Developers Backstage",
 				"url":
-					"http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage<Paste>"
+					"http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage\u003cPaste\u003e"
 			},
 			{
 				"desc": "The TL;DR of last week's Android developer news",
@@ -621,6 +609,18 @@
 				"desc": "An Android Developer Podcast",
 				"name": "Fragmented Podcast",
 				"url": "http://fragmentedpodcast.com/category/episodes/"
+			},
+			{
+				"desc":
+					"The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code",
+				"name": "iPhreaks",
+				"url": "https://devchat.tv/iphreaks"
+			},
+			{
+				"desc":
+					"React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native",
+				"name": "React Native Radio",
+				"url": "https://devchat.tv/react-native-radio"
 			}
 		],
 		"subtitle": "Podcasts related to Mobile Programming"
@@ -628,6 +628,11 @@
 	{
 		"category": "Python",
 		"pods": [
+			{
+				"desc": "A Python Podcast for Humans",
+				"name": "Import This",
+				"url": "https://www.kennethreitz.org/import-this/"
+			},
 			{
 				"desc": "The Podcast About Python and the People Who Make It Great",
 				"name": "podcast.__init__",
@@ -642,11 +647,6 @@
 				"desc": "A podcast on Python and related technologies",
 				"name": "Talk Python To Me",
 				"url": "https://talkpython.fm/episodes/all"
-			},
-			{
-				"desc": "A Python Podcast for Humans",
-				"name": "Import This",
-				"url": "https://www.kennethreitz.org/import-this/"
 			}
 		],
 		"subtitle": "Podcasts related to Python Programming Language"
@@ -714,32 +714,15 @@
 		"pods": [
 			{
 				"desc":
-					"Security Boulevard is the destination for the security community to stay up on the latest news, discussion and analysis. Home of the Security Bloggers Network, Security Boulevard has more security related content than anywhere else on the web",
-				"name": "Security Boulevard Chat",
-				"url": "https://securityboulevard.com/"
-			},
-			{
-				"desc":
-					"OWASP 24/7 is a recorded series of discussions with project leads within OWASP. Each week, we talk about the new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk",
-				"name": "OWASP 24/7",
-				"url": "http://https//www.owasp.org/index.php/OWASP_Podcast"
-			},
-			{
-				"desc": "Daily update on current cyber security threats",
-				"name": "SANS Internet StormCenter StormCast",
-				"url": "https://isc.sans.edu/podcast.html#stormcast"
+					"Appcanary makes sure you never run vulnerable software on your servers",
+				"name": "AppCanary Podcast",
+				"url": "http://podcast.appcanary.com/"
 			},
 			{
 				"desc":
 					"Application security for the win: reach new people, explain the details, and leave the echo chamber in the dust",
 				"name": "Application Security Podcast",
 				"url": "https://www.appsecpodcast.org/"
-			},
-			{
-				"desc":
-					"Appcanary makes sure you never run vulnerable software on your servers",
-				"name": "AppCanary Podcast",
-				"url": "http://podcast.appcanary.com/"
 			},
 			{
 				"desc":
@@ -791,9 +774,21 @@
 				"url": "http://www.opensourcesecuritypodcast.com/"
 			},
 			{
+				"desc":
+					"OWASP 24/7 is a recorded series of discussions with project leads within OWASP. Each week, we talk about the new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk",
+				"name": "OWASP 24/7",
+				"url": "http://https//www.owasp.org/index.php/OWASP_Podcast"
+			},
+			{
 				"desc": "Daily 5-10 minute information security threat updates",
 				"name": "SANS Internet Storm Center Daily",
 				"url": "https://isc.sans.edu/podcast.html"
+			},
+			{
+				"desc":
+					"Security Boulevard is the destination for the security community to stay up on the latest news, discussion and analysis. Home of the Security Bloggers Network, Security Boulevard has more security related content than anywhere else on the web",
+				"name": "Security Boulevard Chat",
+				"url": "https://securityboulevard.com/"
 			},
 			{
 				"desc": "A cybersecurity podcast brought to you by IBM",
