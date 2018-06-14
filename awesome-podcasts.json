@@ -640,6 +640,18 @@
 		"subtitle": "Podcasts related to Python Programming Language"
 	},
 	{
+		"category": "Reason",
+		"pods": [
+			{
+				"desc":
+					"A podcast about the ReasonML language and the community that makes it awesome",
+				"name": "Reason Town",
+				"url": "https://reason.town/"
+			}
+		],
+		"subtitle": "Podcasts related to ReasonML Programming Language"
+	},
+	{
 		"category": "Ruby",
 		"pods": [
 			{
