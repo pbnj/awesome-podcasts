@@ -15,6 +15,10 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
+const (
+	AWESOMEPODCASTJSONFILE = "awesome-podcasts.json"
+)
+
 type Podcast struct {
 	Category string `json:"category"`
 	Pods     []Pod  `json:"pods"`
@@ -41,10 +45,9 @@ func main() {
 		flag.Usage()
 	}
 	// 1. Read in JSON file
-	awesomePodcastJSONFile := "awesome-podcasts.json"
-	b, err := ioutil.ReadFile(awesomePodcastJSONFile)
+	b, err := ioutil.ReadFile(AWESOMEPODCASTJSONFILE)
 	if err != nil {
-		logrus.Warnf("JSON file not found [%s]: %s", awesomePodcastJSONFile, err)
+		logrus.Warnf("JSON file not found [%s]: %s", AWESOMEPODCASTJSONFILE, err)
 	}
 
 	// 2. Load in data into Go struct
@@ -60,6 +63,16 @@ func main() {
 		sort.Slice(c.Pods, func(i, j int) bool {
 			return strings.ToUpper(c.Pods[i].Name) < strings.ToUpper(c.Pods[j].Name)
 		})
+	}
+
+	marshaledBytes, err := json.MarshalIndent(podcasts, "", "    ")
+	if err != nil {
+		logrus.Warnf("could not marshal podcasts into sorted json: %+v", err)
+	}
+
+	err = ioutil.WriteFile(AWESOMEPODCASTJSONFILE, marshaledBytes, 0644)
+	if err != nil {
+		logrus.Warnf("could not write sorted json file: %+v", err)
 	}
 
 	if *gen {
