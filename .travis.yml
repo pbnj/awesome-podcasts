@@ -1,0 +1,8 @@
+language: go
+
+sudo: required
+
+go:
+  - master
+
+# Travis assumes `scripts: make`
