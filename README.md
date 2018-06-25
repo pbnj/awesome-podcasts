@@ -13,6 +13,7 @@
 - [C/C&#43;&#43;](#cc&#43;&#43;)
 - [Cloud](#cloud)
 - [Conference Talks](#conference-talks)
+- [Dart](#dart)
 - [Data Science](#data-science)
 - [DevOps](#devops)
 - [DotNet](#dotnet)
@@ -74,6 +75,13 @@
 > Recordings from conference talks
 
 - [Remote Conference Talks](https://devchat.tv/remote-conf-talks) - This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks
+
+## Dart
+
+> Podcasts related to Dart Programming Language
+
+- [Dartisans](https://gpodder.net/podcast/dartisans-dart-programming-language-podcast) - News, interviews, and Q&amp;A with the Dart team and community
+- [Learning Flutter](https://anchor.fm/learning-flutter) - With this podcast, we are going to learn flutter together
 
 ## Data Science
 
