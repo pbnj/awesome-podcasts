@@ -32,7 +32,8 @@ type Pod struct {
 }
 
 func main() {
-	gen := flag.Bool("gen", false, "Generate README file")
+	generate := flag.Bool("gen", false, "Generate README file")
+	format := flag.Bool("fmt", false, "Format JSON file")
 
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Please, specify one of the following flags:\n")
@@ -44,6 +45,7 @@ func main() {
 	if flag.NFlag() == 0 {
 		flag.Usage()
 	}
+
 	// 1. Read in JSON file
 	b, err := ioutil.ReadFile(AWESOMEPODCASTJSONFILE)
 	if err != nil {
@@ -65,17 +67,19 @@ func main() {
 		})
 	}
 
-	marshaledBytes, err := json.MarshalIndent(podcasts, "", "\t")
-	if err != nil {
-		logrus.Warnf("could not marshal podcasts into sorted json: %+v", err)
+	if *format {
+		marshaledBytes, err := json.MarshalIndent(podcasts, "", "  ")
+		if err != nil {
+			logrus.Warnf("could not marshal podcasts into sorted json: %+v", err)
+		}
+
+		err = ioutil.WriteFile(AWESOMEPODCASTJSONFILE, marshaledBytes, 0644)
+		if err != nil {
+			logrus.Warnf("could not write sorted json file: %+v", err)
+		}
 	}
 
-	err = ioutil.WriteFile(AWESOMEPODCASTJSONFILE, marshaledBytes, 0644)
-	if err != nil {
-		logrus.Warnf("could not write sorted json file: %+v", err)
-	}
-
-	if *gen {
+	if *generate {
 		// 4a. Set up template path
 		paths := []string{
 			filepath.Join("tmpl", "readme.md.tmpl"),
