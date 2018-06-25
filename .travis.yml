@@ -9,3 +9,6 @@ install:
   - go get -u golang.org/x/vgo
 
 # Travis assumes `scripts: make`
+
+notifications:
+  email: false
