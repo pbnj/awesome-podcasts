@@ -269,6 +269,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews",
+        "name": "Bad Voltage",
+        "url": "https://www.badvoltage.org/"
+      },
+      {
         "desc": "A weekly talk show with the most interesting and important people in the Open Source and Free Software community",
         "name": "FLOSS Weekly",
         "url": "https://twit.tv/shows/floss-weekly"
