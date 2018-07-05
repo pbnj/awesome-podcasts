@@ -269,6 +269,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "A weekly talk show with the most interesting and important people in the Open Source and Free Software community",
+        "name": "FLOSS Weekly",
+        "url": "https://twit.tv/shows/floss-weekly"
+      },
+      {
         "desc": "A place where engineers talk to other engineers about tech & other stuff",
         "name": "The Deep End Podcast",
         "url": "https://soundcloud.com/digitaloceanpodcast"
