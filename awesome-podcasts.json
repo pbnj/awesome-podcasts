@@ -124,11 +124,6 @@
     "category": "DevOps",
     "pods": [
       {
-        "desc": "A weekly news and interview show with insight from the Kubernetes community",
-        "name": "Kubernetes Podcast",
-        "url": "https://kubernetespodcast.com/"
-      },
-      {
         "desc": "ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness",
         "name": "Arrested DevOps",
         "url": "https://www.arresteddevops.com/"
@@ -172,6 +167,11 @@
         "desc": "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community",
         "name": "Kubecast",
         "url": "http://kubecast.com/"
+      },
+      {
+        "desc": "A weekly news and interview show with insight from the Kubernetes community",
+        "name": "Kubernetes Podcast",
+        "url": "https://kubernetespodcast.com/"
       },
       {
         "desc": "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps",
@@ -274,16 +274,6 @@
         "url": "https://www.badvoltage.org/"
       },
       {
-        "desc": "A weekly talk show with the most interesting and important people in the Open Source and Free Software community",
-        "name": "FLOSS Weekly",
-        "url": "https://twit.tv/shows/floss-weekly"
-      },
-      {
-        "desc": "A place where engineers talk to other engineers about tech & other stuff",
-        "name": "The Deep End Podcast",
-        "url": "https://soundcloud.com/digitaloceanpodcast"
-      },
-      {
         "desc": "Interviews with software developers about their careers, their current responsibilities, and how they became programmers",
         "name": "Building Programmers",
         "url": "https://building.fireside.fm/"
@@ -337,6 +327,11 @@
         "desc": "A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates",
         "name": "devRant Podcast",
         "url": "https://soundcloud.com/devrantapp"
+      },
+      {
+        "desc": "A weekly talk show with the most interesting and important people in the Open Source and Free Software community",
+        "name": "FLOSS Weekly",
+        "url": "https://twit.tv/shows/floss-weekly"
       },
       {
         "desc": "An interview podcast, featuring in-depth, one on one, conversations with Founders",
@@ -412,6 +407,11 @@
         "desc": "Short expert interviews that help you decode what developers are saying",
         "name": "Talking Code",
         "url": "http://talkingcode.com/"
+      },
+      {
+        "desc": "A place where engineers talk to other engineers about tech \u0026 other stuff",
+        "name": "The Deep End Podcast",
+        "url": "https://soundcloud.com/digitaloceanpodcast"
       },
       {
         "desc": "A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays",
@@ -822,11 +822,6 @@
     "category": "Unix",
     "pods": [
       {
-        "desc": "An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics",
-        "name": "GNU World Order",
-        "url": "http://gnuworldorder.info/"
-      },
-      {
         "desc": "A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike",
         "name": "BSD Now",
         "url": "http://www.jupiterbroadcasting.com/show/bsdnow/"
@@ -835,6 +830,11 @@
         "desc": "Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences",
         "name": "Destination Linux",
         "url": "http://destinationlinux.org/"
+      },
+      {
+        "desc": "An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics",
+        "name": "GNU World Order",
+        "url": "http://gnuworldorder.info/"
       },
       {
         "desc": "Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software",

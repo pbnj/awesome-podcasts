@@ -105,6 +105,7 @@
 - [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis
 - [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
+- [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
 - [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
 - [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management &amp; cloud automation as well as DevOps culture
 - [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show
@@ -143,6 +144,7 @@
 
 > Podcasts related to general programming topics
 
+- [Bad Voltage](https://www.badvoltage.org/) - Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews
 - [Building Programmers](https://building.fireside.fm/) - Interviews with software developers about their careers, their current responsibilities, and how they became programmers
 - [Changelog](https://changelog.com/podcast) - A weekly podcast that shines a spotlight on the technology and people of open source. It&#39;s about the code, the people, and the community
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun
@@ -154,6 +156,7 @@
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break
 - [Developing Up](http://www.developingup.com/) - A podcast focused on the non-technical side of being a developer
 - [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates
+- [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - A weekly talk show with the most interesting and important people in the Open Source and Free Software community
 - [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders
 - [Freelancer&#39;s Show](https://devchat.tv/freelancers) - The Freelancers&#39; Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience
 - [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products
@@ -169,6 +172,7 @@
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
+- [The Deep End Podcast](https://soundcloud.com/digitaloceanpodcast) - A place where engineers talk to other engineers about tech &amp; other stuff
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays
 - [Women Who Code Blogposts](https://womenwhocoderadio.blogspot.com/) - Interviews, moderatings, and musings about the state of women in high tech industry
 
@@ -302,6 +306,7 @@
 
 - [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/) - A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike
 - [Destination Linux](http://destinationlinux.org/) - Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences
+- [GNU World Order](http://gnuworldorder.info/) - An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics
 - [Late Night Linux](http://latenightlinux.com/) - Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software
 - [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
 - [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux
