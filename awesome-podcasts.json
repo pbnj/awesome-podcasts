@@ -124,6 +124,11 @@
     "category": "DevOps",
     "pods": [
       {
+        "desc": "A weekly news and interview show with insight from the Kubernetes community",
+        "name": "Kubernetes Podcast",
+        "url": "https://kubernetespodcast.com/"
+      },
+      {
         "desc": "ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness",
         "name": "Arrested DevOps",
         "url": "https://www.arresteddevops.com/"
