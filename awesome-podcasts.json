@@ -269,6 +269,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "A place where engineers talk to other engineers about tech & other stuff",
+        "name": "The Deep End Podcast",
+        "url": "https://soundcloud.com/digitaloceanpodcast"
+      },
+      {
         "desc": "Interviews with software developers about their careers, their current responsibilities, and how they became programmers",
         "name": "Building Programmers",
         "url": "https://building.fireside.fm/"
