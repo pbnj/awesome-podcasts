@@ -269,11 +269,6 @@
     "category": "General",
     "pods": [
       {
-        "desc": "A Podcast where we unmask the people who are making tremendous strides in tech, yet whose stories are seldom heard",
-        "name": "Mapping The Journey",
-        "url": "https://www.mappingthejourney.com/"
-      },
-      {
         "desc": "Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews",
         "name": "Bad Voltage",
         "url": "https://www.badvoltage.org/"
@@ -372,6 +367,11 @@
         "desc": "Herding Code is a weekly podcast that explores different technology-related topics",
         "name": "Herding Code",
         "url": "http://herdingcode.com/"
+      },
+      {
+        "desc": "A Podcast where we unmask the people who are making tremendous strides in tech, yet whose stories are seldom heard",
+        "name": "Mapping The Journey",
+        "url": "https://www.mappingthejourney.com/"
       },
       {
         "desc": "Exploring different perspectives in open source sustainability. It's about the human side of code",

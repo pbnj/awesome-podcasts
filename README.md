@@ -164,6 +164,7 @@
 - [Greater Than Code](https://www.greaterthancode.com/podcast/) - The podcast for coders who care by coders who care
 - [Hanselminutes](http://hanselminutes.com/) - A weekly talkshow on tech
 - [Herding Code](http://herdingcode.com/) - Herding Code is a weekly podcast that explores different technology-related topics
+- [Mapping The Journey](https://www.mappingthejourney.com/) - A Podcast where we unmask the people who are making tremendous strides in tech, yet whose stories are seldom heard
 - [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It&#39;s about the human side of code
 - [Second Career Devs](https://secondcareerdevs.com/episodes) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career
 - [Shop Talk Show](http://shoptalkshow.com/) - An internet radio show about the internet
