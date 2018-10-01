@@ -596,6 +596,11 @@
         "url": "https://devchat.tv/iphreaks"
       },
       {
+        "desc": "A show about mobile development (& for those of you driving at home.)",
+        "name": "More Than Just Code",
+        "url": "http://mtjc.fm/"
+      },
+      {
         "desc": "React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native",
         "name": "React Native Radio",
         "url": "https://devchat.tv/react-native-radio"
