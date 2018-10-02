@@ -236,6 +236,7 @@
 - [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast that discusses on various frameworks and tools available in Android Community
 - [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/) - An Android Developer Podcast
 - [iPhreaks](https://devchat.tv/iphreaks) - The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code
+- [More Than Just Code](http://mtjc.fm/) - A show about mobile development (&amp; for those of you driving at home.)
 - [React Native Radio](https://devchat.tv/react-native-radio) - React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native
 
 ## Python
