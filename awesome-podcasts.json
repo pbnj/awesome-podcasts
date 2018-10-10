@@ -164,21 +164,6 @@
         "url": "https://www.docker.com/"
       },
       {
-        "desc": "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community",
-        "name": "Kubecast",
-        "url": "http://kubecast.com/"
-      },
-      {
-        "desc": "A weekly news and interview show with insight from the Kubernetes community",
-        "name": "Kubernetes Podcast",
-        "url": "https://kubernetespodcast.com/"
-      },
-      {
-        "desc": "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps",
-        "name": "PodCTL",
-        "url": "http://blog.openshift.com/"
-      },
-      {
         "desc": "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management \u0026 cloud automation as well as DevOps culture",
         "name": "Puppet Podcast",
         "url": "https://puppet.com/podcast_feed"
@@ -550,6 +535,27 @@
       }
     ],
     "subtitle": "Podcasts related to Kotlin Programming Language"
+  },
+  {
+    "category": "Kubernetes",
+    "pods": [
+      {
+        "desc": "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community",
+        "name": "Kubecast",
+        "url": "http://kubecast.com/"
+      },
+      {
+        "desc": "A weekly news and interview show with insight from the Kubernetes community",
+        "name": "Kubernetes Podcast",
+        "url": "https://kubernetespodcast.com/"
+      },
+      {
+        "desc": "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps",
+        "name": "PodCTL",
+        "url": "http://blog.openshift.com/"
+      },
+    ],
+    "subtitles": "Podcasts related to Kubernetes and the surrounding community"
   },
   {
     "category": "Miscellaneous",
