@@ -19,8 +19,6 @@
 ---
 
 
-<<<<<<< HEAD
-=======
 ## Beginner
 
 > Podcasts for programming newbies
@@ -305,6 +303,3 @@
 - [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development
 - [The Rise of Frontend Engineering](https://theriseoffrontendengineering.com/podcast/) - A weekly podcast for Frontend Engineers interested in getting better at their craft
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up
-
->>>>>>> parent of eb02ca1... Deploy petermbenjamin/awesome-podcasts to github.com/petermbenjamin/awesome-podcasts.git:master
-
