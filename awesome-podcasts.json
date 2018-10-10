@@ -269,6 +269,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "An original podcast about the people who transform technology from the command line up",
+        "name": "Command-Line Heroes",
+        "url": "https://www.redhat.com/en/command-line-heroes"
+      },
+      {
         "desc": "Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews",
         "name": "Bad Voltage",
         "url": "https://www.badvoltage.org/"
