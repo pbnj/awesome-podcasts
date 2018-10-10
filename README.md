@@ -150,6 +150,7 @@
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer
+- [Command-Line Heroes](https://www.redhat.com/en/command-line-heroes) - An original podcast about the people who transform technology from the command line up
 - [Community Pulse](https://communitypulse.io/) - The spot for community managers and developer evangelists who are looking for information on community building
 - [Complete Developer](http://completedeveloperpodcast.com/) - A podcast by coders for coders about all aspects of life as a developer
 - [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software
