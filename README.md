@@ -12,6 +12,32 @@
 
 <summary>Table of Content</summary>
 
+- [Beginner](#beginner)
+- [C/C&#43;&#43;](#cc&#43;&#43;)
+- [Cloud](#cloud)
+- [Conference Talks](#conference-talks)
+- [Dart](#dart)
+- [Data Science](#data-science)
+- [DevOps](#devops)
+- [DotNet](#dotnet)
+- [Elixir](#elixir)
+- [Elm](#elm)
+- [Functional Programming](#functional-programming)
+- [General](#general)
+- [Go](#go)
+- [Hardware](#hardware)
+- [Haskell](#haskell)
+- [Javascript](#javascript)
+- [Kotlin](#kotlin)
+- [Miscellaneous](#miscellaneous)
+- [Mobile](#mobile)
+- [Python](#python)
+- [Reason](#reason)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Security](#security)
+- [Unix](#unix)
+- [Web](#web)
 
 
 </details>
@@ -124,6 +150,7 @@
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer
+- [Command-Line Heroes](https://www.redhat.com/en/command-line-heroes) - An original podcast about the people who transform technology from the command line up
 - [Community Pulse](https://communitypulse.io/) - The spot for community managers and developer evangelists who are looking for information on community building
 - [Complete Developer](http://completedeveloperpodcast.com/) - A podcast by coders for coders about all aspects of life as a developer
 - [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software
@@ -303,3 +330,5 @@
 - [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development
 - [The Rise of Frontend Engineering](https://theriseoffrontendengineering.com/podcast/) - A weekly podcast for Frontend Engineers interested in getting better at their craft
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up
+
+
