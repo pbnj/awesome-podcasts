@@ -29,6 +29,7 @@
 - [Haskell](#haskell)
 - [Javascript](#javascript)
 - [Kotlin](#kotlin)
+- [Kubernetes](#kubernetes)
 - [Miscellaneous](#miscellaneous)
 - [Mobile](#mobile)
 - [Python](#python)
@@ -104,9 +105,6 @@
 - [DevOps Radio](http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast) - Covering all things related to software delivery
 - [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis
-- [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
-- [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
-- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
 - [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management &amp; cloud automation as well as DevOps culture
 - [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show
 - [The New Stack Makers](http://soundcloud.com/thenewstackmakers) - The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software
@@ -219,6 +217,14 @@
 > Podcasts related to Kotlin Programming Language
 
 - [Kotlin](http://talkingkotlin.com/) - Kotlin and more
+
+## Kubernetes
+
+> Podcasts related to Kubernetes and the surrounding community
+
+- [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
+- [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
+- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
 
 ## Miscellaneous
 
