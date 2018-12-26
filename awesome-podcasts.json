@@ -254,6 +254,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way.",
+        "name": "Coffee & Code",
+        "url": "http://www.coffeecodecast.com/"
+      },
+      {
         "desc": "Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews",
         "name": "Bad Voltage",
         "url": "https://www.badvoltage.org/"
