@@ -675,6 +675,11 @@
     "category": "Ruby",
     "pods": [
       {
+        "desc": "Two Ruby devs chattin' about Ruby and Rails",
+        "name": "Remote Ruby",
+        "url": "https://remoteruby.transistor.fm/"
+      },
+      {
         "desc": "Rails Clips is a video series about building web applications with Ruby on Rails",
         "name": "Rails Clips",
         "url": "https://devchat.tv/rails-clips"
