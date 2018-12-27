@@ -578,6 +578,17 @@
     "subtitle": "Podcasts related to Kubernetes and the surrounding community"
   },
   {
+    "category": "Observability",
+    "pods": [
+      {
+        "desc": "Exploring the observability side of software development",
+        "name": "O11ycast",
+        "url": "https://www.heavybit.com/library/podcasts/o11ycast/"
+      }
+    ],
+    "subtitle": "Podcasts related to observability and monitoring"
+  },
+  {
     "category": "Miscellaneous",
     "pods": [
       {
