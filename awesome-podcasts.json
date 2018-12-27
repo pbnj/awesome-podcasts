@@ -124,6 +124,11 @@
     "category": "DevOps",
     "pods": [
       {
+        "desc": "A show all about continuous delivery and software development",
+        "name": "To Be Continuous",
+        "url": "https://www.heavybit.com/library/podcasts/to-be-continuous/"
+      },
+      {
         "desc": "ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness",
         "name": "Arrested DevOps",
         "url": "https://www.arresteddevops.com/"
