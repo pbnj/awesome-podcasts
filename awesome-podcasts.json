@@ -264,6 +264,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "Weekly show about Kubernetes, serverless, cloud, DevOps, & coding",
+        "name": "Software Defined Talk",
+        "url": "https://www.softwaredefinedtalk.com/"
+      },
+      {
         "desc": "A weekly podcast about taking up a new career as a professional developer and pursuing financial independence",
         "name": "Start Over Coder",
         "url": "https://www.startovercoder.com/"
