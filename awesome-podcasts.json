@@ -478,6 +478,11 @@
     "category": "Javascript",
     "pods": [
       {
+        "desc": "A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications",
+        "name": "Real Talk Javascript",
+        "url": "https://realtalkjavascript.simplecast.fm/"
+      },
+      {
         "desc": "The latest news in the JavaScript community in 5 minutes",
         "name": "5-Minutes of JavaScript",
         "url": "https://fivejs.codeschool.com/"
