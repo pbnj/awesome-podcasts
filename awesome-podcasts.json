@@ -254,6 +254,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "A weekly podcast about taking up a new career as a professional developer and pursuing financial independence",
+        "name": "Start Over Coder",
+        "url": "https://www.startovercoder.com/"
+      },
+      {
         "desc": "A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way.",
         "name": "Coffee & Code",
         "url": "http://www.coffeecodecast.com/"
