@@ -722,6 +722,11 @@
     "category": "Security",
     "pods": [
       {
+        "desc": "Application Security Weekly decrypts development for the Security Professional – exploring how to inject security into their organization’s Software Development Lifecycle (SDLC) in a fluid and transparent way",
+        "name": "Application Security Weekly",
+        "url": "https://securityweekly.com/category/application-security-weekly/"
+      },
+      {
         "desc": "A podcast about technology and security",
         "name": "Mostly Security",
         "url": "https://mostlysecurity.com/"
