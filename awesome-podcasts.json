@@ -707,6 +707,11 @@
     "category": "Security",
     "pods": [
       {
+        "desc": "A podcast about technology and security",
+        "name": "Mostly Security",
+        "url": "https://mostlysecurity.com/"
+      },
+      {
         "desc": "Appcanary makes sure you never run vulnerable software on your servers",
         "name": "AppCanary Podcast",
         "url": "http://podcast.appcanary.com/"
