@@ -179,6 +179,11 @@
         "url": "http://foodfight.libsyn.com/"
       },
       {
+        "desc": "A weekly conversation about Docker, AWS, and building distributed systems",
+        "name": "Mobycast",
+        "url": "https://prodockertraining.com/mobycast/"
+      },
+      {
         "desc": "The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software",
         "name": "The New Stack Makers",
         "url": "http://soundcloud.com/thenewstackmakers"
