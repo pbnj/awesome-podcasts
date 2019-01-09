@@ -32,6 +32,7 @@
 - [Kubernetes](#kubernetes)
 - [Miscellaneous](#miscellaneous)
 - [Mobile](#mobile)
+- [Observability](#observability)
 - [Python](#python)
 - [Reason](#reason)
 - [Ruby](#ruby)
@@ -105,10 +106,12 @@
 - [DevOps Radio](http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast) - Covering all things related to software delivery
 - [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis
+- [Mobycast](https://prodockertraining.com/mobycast/) - A weekly conversation about Docker, AWS, and building distributed systems
 - [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management &amp; cloud automation as well as DevOps culture
 - [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show
 - [The New Stack Makers](http://soundcloud.com/thenewstackmakers) - The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software
 - [The Ship Show](http://theshipshow.com/podcast/) -  A twice-montly podcast covering the finer points of build engineering, devops, &amp; release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings
+- [To Be Continuous](https://www.heavybit.com/library/podcasts/to-be-continuous/) - A show all about continuous delivery and software development
 
 ## DotNet
 
@@ -148,6 +151,7 @@
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer
+- [Coffee &amp; Code](http://www.coffeecodecast.com/) - A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way.
 - [Command-Line Heroes](https://www.redhat.com/en/command-line-heroes) - An original podcast about the people who transform technology from the command line up
 - [Community Pulse](https://communitypulse.io/) - The spot for community managers and developer evangelists who are looking for information on community building
 - [Complete Developer](http://completedeveloperpodcast.com/) - A podcast by coders for coders about all aspects of life as a developer
@@ -169,8 +173,10 @@
 - [Shop Talk Show](http://shoptalkshow.com/) - An internet radio show about the internet
 - [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer
 - [Soft Skills Engineering](https://softskills.audio/) - A weekly Q &amp; A podcast for software developers who want to level up their non-technical engineering skills
+- [Software Defined Talk](https://www.softwaredefinedtalk.com/) - Weekly show about Kubernetes, serverless, cloud, DevOps, &amp; coding
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast
+- [Start Over Coder](https://www.startovercoder.com/) - A weekly podcast about taking up a new career as a professional developer and pursuing financial independence
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
 - [The Deep End Podcast](https://soundcloud.com/digitaloceanpodcast) - A place where engineers talk to other engineers about tech &amp; other stuff
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays
@@ -210,6 +216,7 @@
 - [JS Party](https://changelog.com/jsparty) - A community celebration of JavaScript and the web
 - [NodeUp](http://nodeup.com/) - A Node.js podcast
 - [React30](https://react30.com/) - A 30-minute podcast about React and all things JavaScript
+- [Real Talk Javascript](https://realtalkjavascript.simplecast.fm/) - A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications
 - [Space Dojo Show](https://show.spacedojo.com/) - A roundtable podcast about Javascript
 
 ## Kotlin
@@ -238,13 +245,19 @@
 
 > Podcasts related to Mobile Programming
 
-- [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage&lt;Paste&gt;) - Podcast interviewing Google engineers about the latest Android APIs
+- [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage) - Podcast interviewing Google engineers about the latest Android APIs
 - [Android Snacks](http://androidsnacks.com/) - The TL;DR of last week&#39;s Android developer news
 - [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast that discusses on various frameworks and tools available in Android Community
 - [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/) - An Android Developer Podcast
 - [iPhreaks](https://devchat.tv/iphreaks) - The iPhreaks Show is a weekly group discussion about iOS development and related technology by development veterans. We discuss Apple, tools, practices, and code
 - [More Than Just Code](http://mtjc.fm/) - A show about mobile development (&amp; for those of you driving at home.)
 - [React Native Radio](https://devchat.tv/react-native-radio) - React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native
+
+## Observability
+
+> Podcasts related to observability and monitoring
+
+- [O11ycast](https://www.heavybit.com/library/podcasts/o11ycast/) - Exploring the observability side of software development
 
 ## Python
 
@@ -266,6 +279,7 @@
 > Podcasts related to Ruby Programming Language
 
 - [Rails Clips](https://devchat.tv/rails-clips) - Rails Clips is a video series about building web applications with Ruby on Rails
+- [Remote Ruby](https://remoteruby.transistor.fm/) - Two Ruby devs chattin&#39; about Ruby and Rails
 - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) - The Ruby on Rails Podcast, a weekly conversation about Ruby on Rails, open source software, and the programming profession
 - [Ruby5](https://ruby5.codeschool.com/) - The latest news in the Ruby and Rails community in 5 minutes
 - [The Ruby Rogues](https://devchat.tv/ruby-rogues) - The Ruby Rogues podcast is a panel discussion about topics relating to programming, careers, community, and Ruby. We release a conversation with notable programmers and Rubyists each week to help programmers advance in their careers and skills
@@ -281,8 +295,10 @@
 
 > Podcasts related to Information Security
 
+- [Absolute AppSec](https://absoluteappsec.com/) - The podcast for kids who cant appsec good and want to learn how to do other stuff good too
 - [AppCanary Podcast](http://podcast.appcanary.com/) - Appcanary makes sure you never run vulnerable software on your servers
 - [Application Security Podcast](https://www.appsecpodcast.org/) - Application security for the win: reach new people, explain the details, and leave the echo chamber in the dust
+- [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/) - Application Security Weekly decrypts development for the Security Professional – exploring how to inject security into their organization’s Software Development Lifecycle (SDLC) in a fluid and transparent way
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today&#39;s workplace
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet
 - [Data Driven Security](http://datadrivensecurity.info/podcast/) - A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis &amp; visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security
@@ -291,6 +307,7 @@
 - [Down The Security Rabbithole](http://podcast.wh1t3rabbit.net/) - Interesting security interviews and news analysis
 - [Exploring Information Security](http://www.timothydeblock.com/eis/) - Weekly interviews with Information Security experts on various security topics
 - [In-Security](http://in-security.org/) - An information security podcast, from the ground up
+- [Mostly Security](https://mostlysecurity.com/) - A podcast about technology and security
 - [Open Source Security](http://www.opensourcesecuritypodcast.com/) - A podcast about security with an open source slant
 - [OWASP 24/7](http://https//www.owasp.org/index.php/OWASP_Podcast) - OWASP 24/7 is a recorded series of discussions with project leads within OWASP. Each week, we talk about the new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk
 - [SANS Internet Storm Center Daily](https://isc.sans.edu/podcast.html) - Daily 5-10 minute information security threat updates
@@ -324,8 +341,8 @@
 
 > Podcasts related to everything Web outside of JavaScript
 
-- [Code Catchup](http://codercatchup.com/) - Catching up with various web developers, web designers and unicorns
 - [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it&#39;s like running a small web software business. The good, the bad, and the ugly
+- [Coder Catchup](http://codercatchup.com/) - Catching up with various web developers, web designers and unicorns
 - [Front End Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes
 - [Front End Friday](http://frontendfriday.fi/) - A podcast on HTML and the web
 - [Front End Happy Hour](http://frontendhappyhour.com/) - Discussions around frontend topics
