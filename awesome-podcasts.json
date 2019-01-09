@@ -97,7 +97,7 @@
     "category": "Dart",
     "pods": [
       {
-        "desc": "News, interviews, and Q\u0026A with the Dart team and community",
+        "desc": "News, interviews, and Q&A with the Dart team and community",
         "name": "Dartisans",
         "url": "https://gpodder.net/podcast/dartisans-dart-programming-language-podcast"
       },
@@ -134,7 +134,7 @@
         "url": "https://www.arresteddevops.com/"
       },
       {
-        "desc": "Podcast with John Willis \u0026 Damon Edwards",
+        "desc": "Podcast with John Willis & Damon Edwards",
         "name": "Devops Cafe",
         "url": "http://devopscafe.org/"
       },
@@ -169,7 +169,7 @@
         "url": "https://www.docker.com/"
       },
       {
-        "desc": "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management \u0026 cloud automation as well as DevOps culture",
+        "desc": "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management & cloud automation as well as DevOps culture",
         "name": "Puppet Podcast",
         "url": "https://puppet.com/podcast_feed"
       },
@@ -189,7 +189,7 @@
         "url": "http://soundcloud.com/thenewstackmakers"
       },
       {
-        "desc": " A twice-montly podcast covering the finer points of build engineering, devops, \u0026 release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings",
+        "desc": " A twice-montly podcast covering the finer points of build engineering, devops, & release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings",
         "name": "The Ship Show",
         "url": "http://theshipshow.com/podcast/"
       }
@@ -216,7 +216,7 @@
     "category": "Elixir",
     "pods": [
       {
-        "desc": "Bringing you the News \u0026 Interviews from around the Elixir Community",
+        "desc": "Bringing you the News & Interviews from around the Elixir Community",
         "name": "Elixir Fountain",
         "url": "http://elixirfountain.com/"
       }
@@ -243,7 +243,7 @@
     "category": "Functional Programming",
     "pods": [
       {
-        "desc": "Interviews with functional programming devs \u0026 researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else",
+        "desc": "Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else",
         "name": "CoRecursive",
         "url": "https://corecursive.com/"
       },
@@ -295,7 +295,7 @@
       },
       {
         "desc": "A few devs talking with cool people who have a common interest in web and software development and having fun",
-        "name": "Code \u0026 Cast",
+        "name": "Code & Cast",
         "url": "http://codeand.us/"
       },
       {
@@ -409,7 +409,7 @@
         "url": "https://simpleprogrammer.com/podcasts/"
       },
       {
-        "desc": "A weekly Q \u0026 A podcast for software developers who want to level up their non-technical engineering skills",
+        "desc": "A weekly Q & A podcast for software developers who want to level up their non-technical engineering skills",
         "name": "Soft Skills Engineering",
         "url": "https://softskills.audio/"
       },
@@ -429,7 +429,7 @@
         "url": "http://talkingcode.com/"
       },
       {
-        "desc": "A place where engineers talk to other engineers about tech \u0026 other stuff",
+        "desc": "A place where engineers talk to other engineers about tech & other stuff",
         "name": "The Deep End Podcast",
         "url": "https://soundcloud.com/digitaloceanpodcast"
       },
@@ -625,7 +625,7 @@
       {
         "desc": "Podcast interviewing Google engineers about the latest Android APIs",
         "name": "Android Developers Backstage",
-        "url": "http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage\u003cPaste\u003e"
+        "url": "http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage"
       },
       {
         "desc": "The TL;DR of last week's Android developer news",
@@ -648,7 +648,7 @@
         "url": "https://devchat.tv/iphreaks"
       },
       {
-        "desc": "A show about mobile development (\u0026 for those of you driving at home.)",
+        "desc": "A show about mobile development (& for those of you driving at home.)",
         "name": "More Than Just Code",
         "url": "http://mtjc.fm/"
       },
@@ -748,6 +748,11 @@
     "category": "Security",
     "pods": [
       {
+        "desc": "The podcast for kids who cant appsec good and want to learn how to do other stuff good too",
+        "name": "Absolute AppSec",
+        "url": "https://absoluteappsec.com/"
+      },
+      {
         "desc": "Application Security Weekly decrypts development for the Security Professional – exploring how to inject security into their organization’s Software Development Lifecycle (SDLC) in a fluid and transparent way",
         "name": "Application Security Weekly",
         "url": "https://securityweekly.com/category/application-security-weekly/"
@@ -778,7 +783,7 @@
         "url": "https://darknetdiaries.com/"
       },
       {
-        "desc": "A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis \u0026 visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security",
+        "desc": "A podcast on discovery and decision making through data in information security, covering all levels and aspects of data analysis & visualization, plus speaking with pioneers in the field of security data science and seasoned veterans in information security",
         "name": "Data Driven Security",
         "url": "http://datadrivensecurity.info/podcast/"
       },
@@ -960,7 +965,7 @@
         "url": "http://frontendhappyhour.com/"
       },
       {
-        "desc": "A show all about the JAMstack, a new way to build fast \u0026 secure apps or websites",
+        "desc": "A show all about the JAMstack, a new way to build fast & secure apps or websites",
         "name": "JAMStack Radio",
         "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/"
       },
