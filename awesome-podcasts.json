@@ -264,6 +264,11 @@
     "category": "General",
     "pods": [
       {
+        "desc": "A women in tech podcast featuring technical interviews",
+        "name": "The Women in Tech Show",
+        "url": "https://thewomenintechshow.com/"
+      },
+      {
         "desc": "Weekly show about Kubernetes, serverless, cloud, DevOps, & coding",
         "name": "Software Defined Talk",
         "url": "https://www.softwaredefinedtalk.com/"
