@@ -179,6 +179,7 @@
 - [Start Over Coder](https://www.startovercoder.com/) - A weekly podcast about taking up a new career as a professional developer and pursuing financial independence
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
 - [The Deep End Podcast](https://soundcloud.com/digitaloceanpodcast) - A place where engineers talk to other engineers about tech &amp; other stuff
+- [The Women in Tech Show](https://thewomenintechshow.com/) - A women in tech podcast featuring technical interviews
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays
 - [Women Who Code Blogposts](https://womenwhocoderadio.blogspot.com/) - Interviews, moderatings, and musings about the state of women in high tech industry
 
