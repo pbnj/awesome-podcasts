@@ -134,6 +134,11 @@
     "category": "DevOps",
     "pods": [
       {
+        "desc": "A podcast for professionals looking to uncover all angles of the DevOps world and create more efficient, more effective and more successful organizations",
+        "name": "Discussing DevOps Details",
+        "url": "https://itunes.apple.com/us/podcast/discussing-devops-details/id1274201992"
+      },
+      {
         "desc": "We discuss all things related to devops",
         "name": "All Things DevOps",
         "url": "https://allthingsdevops.bigbinary.com"
