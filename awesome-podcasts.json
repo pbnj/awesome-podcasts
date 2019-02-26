@@ -91,6 +91,11 @@
     "category": "Conference Talks",
     "pods": [
       {
+        "desc": "Audio recordings of DevOpsDays conferences (http://devopsdays.org)",
+        "name": "DevOpsDays",
+        "url": "https://itunes.apple.com/us/podcast/devops-days-podcast/id1035163116?mt=2"
+      },
+      {
         "desc": "This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks",
         "name": "Remote Conference Talks",
         "url": "https://devchat.tv/remote-conf-talks"
