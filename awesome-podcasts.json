@@ -129,6 +129,11 @@
     "category": "DevOps",
     "pods": [
       {
+        "desc": "We discuss all things related to devops",
+        "name": "All Things DevOps",
+        "url": "https://allthingsdevops.bigbinary.com"
+      },
+      {
         "desc": "A show for developers and devops professionals shipping software using Microsoft technologies",
         "name": "Azure DevOps",
         "url": "http://azuredevopspodcast.clear-measure.com"
