@@ -129,6 +129,11 @@
     "category": "DevOps",
     "pods": [
       {
+        "desc": "A show for developers and devops professionals shipping software using Microsoft technologies",
+        "name": "Azure DevOps",
+        "url": "http://azuredevopspodcast.clear-measure.com"
+      },
+      {
         "desc": "A show all about continuous delivery and software development",
         "name": "To Be Continuous",
         "url": "https://www.heavybit.com/library/podcasts/to-be-continuous/"
