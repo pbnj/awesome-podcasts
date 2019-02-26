@@ -50,6 +50,11 @@
     "category": "Cloud",
     "pods": [
       {
+        "desc": "Features conversations with domain experts in the world of Cloud Computing with Corey Quinn",
+        "name": "Screaming in the Cloud",
+        "url": "https://www.screaminginthecloud.com"
+      },
+      {
         "desc": "Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees",
         "name": "AWS Podcast",
         "url": "https://aws.amazon.com/podcasts/aws-podcast/"
