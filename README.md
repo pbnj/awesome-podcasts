@@ -72,13 +72,18 @@
 - [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) -  A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts
 - [Doppler Cloud Computing Podcast](https://www.cloudtp.com/doppler/podcasts/) - Covering all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Discussing everything from on Google Cloud Platform from App Engine to Big Query
+- [IBM Cloud](https://anchor.fm/ibm-cloud-podcast) - Coming to you every show with information about new capabilities and releases on IBM Cloud
 - [Microsoft Cloud Show](http://www.microsoftcloudshow.com/podcast) - Latest news, notes, commentary and listener questions on Microsoft cloud technologies including Windows Azure, Office 365 and SharePoint
+- [On Cloud](http://oncloud.deloitte.libsynpro.com) - Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists
+- [Screaming in the Cloud](https://www.screaminginthecloud.com) - Features conversations with domain experts in the world of Cloud Computing with Corey Quinn
 - [The Cloud Cast](http://thecloudcast.net/) - Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today&#39;s Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT
+- [The Cloud Pod](https://www.thecloudpod.net/) - Weekly updates from the big providers, talk about interesting perspectives about the clouds and what it takes to build a successful business on the Public Cloud
 
 ## Conference Talks
 
 > Recordings from conference talks
 
+- [DevOpsDays](https://itunes.apple.com/us/podcast/devops-days-podcast/id1035163116?mt=2) - Audio recordings of DevOpsDays conferences (http://devopsdays.org)
 - [Remote Conference Talks](https://devchat.tv/remote-conf-talks) - This feed contains several of the talks given at Remote Conference put on by Devchat.tv each month. Topics range from Ruby to JavaScript to community to tools and tricks
 
 ## Dart
@@ -98,12 +103,15 @@
 
 > Podcasts related to Operations and DevOps
 
+- [All Things DevOps](https://allthingsdevops.bigbinary.com) - We discuss all things related to devops
 - [Arrested DevOps](https://www.arresteddevops.com/) - ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness
+- [Azure DevOps](http://azuredevopspodcast.clear-measure.com) - A show for developers and devops professionals shipping software using Microsoft technologies
 - [Devops Cafe](http://devopscafe.org/) - Podcast with John Willis &amp; Damon Edwards
 - [DevOps Chat](https://devops.com/) - Where the world meets DevOps
 - [DevOps Mastery](http://www.devopsmastery.com/) - This podcast is all about doing the DevOps thing. We are here to help you get from a DevOps newbie to being a DevOps Master
 - [DevOps on AWS Radio](https://stelligent.com/tag/podcasts/) - DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud
 - [DevOps Radio](http://media.blubrry.com/devops_radio/www.devopsradio.libsyn.com/podcast) - Covering all things related to software delivery
+- [Discussing DevOps Details](https://itunes.apple.com/us/podcast/discussing-devops-details/id1274201992) - A podcast for professionals looking to uncover all angles of the DevOps world and create more efficient, more effective and more successful organizations
 - [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis
 - [Mobycast](https://prodockertraining.com/mobycast/) - A weekly conversation about Docker, AWS, and building distributed systems
