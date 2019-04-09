@@ -50,6 +50,20 @@
     "category": "Cloud",
     "pods": [
       {
+        "desc": "Coming to you every show with information about new capabilities and releases on IBM Cloud",
+        "name": "IBM Cloud",
+        "url": "https://anchor.fm/ibm-cloud-podcast"
+      },
+      {
+        "desc": "Weekly updates from the big providers, talk about interesting perspectives about the clouds and what it takes to build a successful business on the Public Cloud",
+        "name": "The Cloud Pod",
+        "url": "https://www.thecloudpod.net/"
+      },
+      {
+        "desc": "Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists",
+        "name": "On Cloud",
+        "url": "http://oncloud.deloitte.libsynpro.com"
+      {
         "desc": "Features conversations with domain experts in the world of Cloud Computing with Corey Quinn",
         "name": "Screaming in the Cloud",
         "url": "https://www.screaminginthecloud.com"
