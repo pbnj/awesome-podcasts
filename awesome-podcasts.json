@@ -556,6 +556,11 @@
   {
     "category": "Hardware",
     "pods": [
+	    {
+		    "desc": " focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world",
+		    "name": "IoT For All",
+		    "url": "https://www.iotforall.com/podcast/"
+	    },
       {
         "desc": "A weekly podcast exploring latest IoT tech and topics",
         "name": "IoT Podcast",
