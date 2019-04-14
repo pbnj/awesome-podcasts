@@ -105,15 +105,15 @@
   {
     "category": "Cloud Native",
     "pods": [
-	    {
-		    "desc": "Covering many topics relevant to the Cloud Native space, including ecosystem topics like Docker Security and Kubernetes security, RBAC, monitoring and alerting, and many, many more",
-		    "name": "Cloud Native Security",
-		    "url": "https://www.cloudnativesecurity.stream"
-	    },
       {
         "desc": "All about cloud computing and cloud native application development",
         "name": "Cloud Native Podcast",
         "url": "https://cloudnativepodcast.com"
+      },
+      {
+        "desc": "Covering many topics relevant to the Cloud Native space, including ecosystem topics like Docker Security and Kubernetes security, RBAC, monitoring and alerting, and many, many more",
+        "name": "Cloud Native Security",
+        "url": "https://www.cloudnativesecurity.stream"
       },
       {
         "desc": "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community",
@@ -334,16 +334,6 @@
   {
     "category": "General",
     "pods": [
-	    {
-		    "desc": "A podcast about tech, feelings, open source, and /dev/urandom",
-		    "name": "weirdtrickmafia.fm",
-		    "url": "https://weirdtrickmafia.fm"
-	    },
-	    {
-		    "desc": "Each week our hosts will discuss their development experiences. We'll talk about Ruby, Rust, Go, and anything else that has drawn our interest this week",
-		    "name": "The Yak Shave",
-		    "url": "http://yakshave.fm"
-	    },
       {
         "desc": "Technology, Open Source, Politics, Music... Anything and everything is up for grabs, complete with reviews and interviews",
         "name": "Bad Voltage",
@@ -525,9 +515,19 @@
         "url": "https://thewomenintechshow.com/"
       },
       {
+        "desc": "Each week our hosts will discuss their development experiences. We'll talk about Ruby, Rust, Go, and anything else that has drawn our interest this week",
+        "name": "The Yak Shave",
+        "url": "http://yakshave.fm"
+      },
+      {
         "desc": "A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays",
         "name": "Toolsday",
         "url": "http://toolsday.io/"
+      },
+      {
+        "desc": "A podcast about tech, feelings, open source, and /dev/urandom",
+        "name": "weirdtrickmafia.fm",
+        "url": "https://weirdtrickmafia.fm"
       },
       {
         "desc": "Interviews, moderatings, and musings about the state of women in high tech industry",
@@ -556,11 +556,11 @@
   {
     "category": "Hardware",
     "pods": [
-	    {
-		    "desc": " focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world",
-		    "name": "IoT For All",
-		    "url": "https://www.iotforall.com/podcast/"
-	    },
+      {
+        "desc": " focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world",
+        "name": "IoT For All",
+        "url": "https://www.iotforall.com/podcast/"
+      },
       {
         "desc": "A weekly podcast exploring latest IoT tech and topics",
         "name": "IoT Podcast",

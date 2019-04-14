@@ -84,6 +84,7 @@
 > Podcasts related to Kubernetes and the surrounding community
 
 - [Cloud Native Podcast](https://cloudnativepodcast.com) - All about cloud computing and cloud native application development
+- [Cloud Native Security](https://www.cloudnativesecurity.stream) - Covering many topics relevant to the Cloud Native space, including ecosystem topics like Docker Security and Kubernetes security, RBAC, monitoring and alerting, and many, many more
 - [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
 - [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
 - [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
@@ -198,7 +199,9 @@
 - [Terminal Talk](http://terminaltalk.net/PodcastGenerator/) - The people, technology, and culture behind one of the world&#39;s most powerful and important computing platforms, the Mainframe
 - [The Deep End Podcast](https://soundcloud.com/digitaloceanpodcast) - A place where engineers talk to other engineers about tech &amp; other stuff
 - [The Women in Tech Show](https://thewomenintechshow.com/) - A women in tech podcast featuring technical interviews
+- [The Yak Shave](http://yakshave.fm) - Each week our hosts will discuss their development experiences. We&#39;ll talk about Ruby, Rust, Go, and anything else that has drawn our interest this week
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays
+- [weirdtrickmafia.fm](https://weirdtrickmafia.fm) - A podcast about tech, feelings, open source, and /dev/urandom
 - [Women Who Code Blogposts](https://womenwhocoderadio.blogspot.com/) - Interviews, moderatings, and musings about the state of women in high tech industry
 
 ## Go
@@ -212,6 +215,7 @@
 
 > Podcasts related to Hardware Programming
 
+- [IoT For All](https://www.iotforall.com/podcast/) -  focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world
 - [IoT Podcast](http://iotpodcast.com/) - A weekly podcast exploring latest IoT tech and topics
 - [Raspberry PiPod Podcast](http://www.recantha.co.uk/blog/) - A bi-weekly podcast/videocast for Raspberry Pi enthusiasts containing the latest news, details of new and updated products, a look at related crowdfunding campaigns, information about upcoming events and a look at some featured Raspberry Pi projects
 - [The Pi Podcast](http://thepipodcast.com/) - The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community
