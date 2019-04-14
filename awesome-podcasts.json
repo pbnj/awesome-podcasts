@@ -103,6 +103,32 @@
     "subtitle": "Podcasts related to public clouds"
   },
   {
+    "category": "Cloud Native",
+    "pods": [
+      {
+        "desc": "All about cloud computing and cloud native application development",
+        "name": "Cloud Native Podcast",
+        "url": "https://cloudnativepodcast.com"
+      },
+      {
+        "desc": "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community",
+        "name": "Kubecast",
+        "url": "http://kubecast.com/"
+      },
+      {
+        "desc": "A weekly news and interview show with insight from the Kubernetes community",
+        "name": "Kubernetes Podcast",
+        "url": "https://kubernetespodcast.com/"
+      },
+      {
+        "desc": "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps",
+        "name": "PodCTL",
+        "url": "http://blog.openshift.com/"
+      }
+    ],
+    "subtitle": "Podcasts related to Kubernetes and the surrounding community"
+  },
+  {
     "category": "Conference Talks",
     "pods": [
       {
@@ -304,7 +330,7 @@
     "category": "General",
     "pods": [
       {
-        "desc": "Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews",
+        "desc": "Technology, Open Source, Politics, Music... Anything and everything is up for grabs, complete with reviews and interviews",
         "name": "Bad Voltage",
         "url": "https://www.badvoltage.org/"
       },
@@ -469,6 +495,11 @@
         "url": "http://talkingcode.com/"
       },
       {
+        "desc": "The people, technology, and culture behind one of the world's most powerful and important computing platforms, the Mainframe",
+        "name": "Terminal Talk",
+        "url": "http://terminaltalk.net/PodcastGenerator/"
+      },
+      {
         "desc": "A place where engineers talk to other engineers about tech \u0026 other stuff",
         "name": "The Deep End Podcast",
         "url": "https://soundcloud.com/digitaloceanpodcast"
@@ -610,27 +641,6 @@
       }
     ],
     "subtitle": "Podcasts related to Kotlin Programming Language"
-  },
-  {
-    "category": "Kubernetes",
-    "pods": [
-      {
-        "desc": "A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community",
-        "name": "Kubecast",
-        "url": "http://kubecast.com/"
-      },
-      {
-        "desc": "A weekly news and interview show with insight from the Kubernetes community",
-        "name": "Kubernetes Podcast",
-        "url": "https://kubernetespodcast.com/"
-      },
-      {
-        "desc": "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps",
-        "name": "PodCTL",
-        "url": "http://blog.openshift.com/"
-      }
-    ],
-    "subtitle": "Podcasts related to Kubernetes and the surrounding community"
   },
   {
     "category": "Miscellaneous",

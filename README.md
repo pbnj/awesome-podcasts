@@ -15,6 +15,7 @@
 - [Beginner](#beginner)
 - [C/C&#43;&#43;](#cc&#43;&#43;)
 - [Cloud](#cloud)
+- [Cloud Native](#cloud-native)
 - [Conference Talks](#conference-talks)
 - [Dart](#dart)
 - [Data Science](#data-science)
@@ -29,7 +30,6 @@
 - [Haskell](#haskell)
 - [Javascript](#javascript)
 - [Kotlin](#kotlin)
-- [Kubernetes](#kubernetes)
 - [Miscellaneous](#miscellaneous)
 - [Mobile](#mobile)
 - [Observability](#observability)
@@ -78,6 +78,15 @@
 - [Screaming in the Cloud](https://www.screaminginthecloud.com) - Features conversations with domain experts in the world of Cloud Computing with Corey Quinn
 - [The Cloud Cast](http://thecloudcast.net/) - Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today&#39;s Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT
 - [The Cloud Pod](https://www.thecloudpod.net/) - Weekly updates from the big providers, talk about interesting perspectives about the clouds and what it takes to build a successful business on the Public Cloud
+
+## Cloud Native
+
+> Podcasts related to Kubernetes and the surrounding community
+
+- [Cloud Native Podcast](https://cloudnativepodcast.com) - All about cloud computing and cloud native application development
+- [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
+- [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
+- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
 
 ## Conference Talks
 
@@ -153,7 +162,7 @@
 
 > Podcasts related to general programming topics
 
-- [Bad Voltage](https://www.badvoltage.org/) - Technology, Open Source, Politics, Music… Anything and everything is up for grabs, complete with reviews and interviews
+- [Bad Voltage](https://www.badvoltage.org/) - Technology, Open Source, Politics, Music... Anything and everything is up for grabs, complete with reviews and interviews
 - [Building Programmers](https://building.fireside.fm/) - Interviews with software developers about their careers, their current responsibilities, and how they became programmers
 - [Changelog](https://changelog.com/podcast) - A weekly podcast that shines a spotlight on the technology and people of open source. It&#39;s about the code, the people, and the community
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun
@@ -186,6 +195,7 @@
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast
 - [Start Over Coder](https://www.startovercoder.com/) - A weekly podcast about taking up a new career as a professional developer and pursuing financial independence
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
+- [Terminal Talk](http://terminaltalk.net/PodcastGenerator/) - The people, technology, and culture behind one of the world&#39;s most powerful and important computing platforms, the Mainframe
 - [The Deep End Podcast](https://soundcloud.com/digitaloceanpodcast) - A place where engineers talk to other engineers about tech &amp; other stuff
 - [The Women in Tech Show](https://thewomenintechshow.com/) - A women in tech podcast featuring technical interviews
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays
@@ -233,14 +243,6 @@
 > Podcasts related to Kotlin Programming Language
 
 - [Kotlin](http://talkingkotlin.com/) - Kotlin and more
-
-## Kubernetes
-
-> Podcasts related to Kubernetes and the surrounding community
-
-- [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
-- [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
-- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
 
 ## Miscellaneous
 
