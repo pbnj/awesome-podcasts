@@ -54,7 +54,10 @@ func main() {
 
 	// 2. Load in data into Go struct
 	var podcasts []Podcast
-	json.Unmarshal(b, &podcasts)
+	err = json.Unmarshal(b, &podcasts)
+	if err != nil {
+		logrus.Errorf("could not unmarshal JSON: %+s", err)
+	}
 
 	// 3a. sort alphabetically by category
 	sort.Slice(podcasts, func(i, j int) bool {

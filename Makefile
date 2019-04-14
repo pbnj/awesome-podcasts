@@ -1,9 +1,9 @@
 .PHONY: all
-all: fmt lint
+all: fmt lint gen
 
 .PHONY: gen
 gen: ## Generates README
-	@go run main.go -gen
+	@go run main.go -gen -fmt
 
 .PHONY: fmt
 fmt: fmt-json fmt-go ## Formats files
