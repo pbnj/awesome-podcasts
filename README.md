@@ -32,13 +32,13 @@
 - [Kotlin](#kotlin)
 - [Miscellaneous](#miscellaneous)
 - [Mobile](#mobile)
+- [Nix](#nix)
 - [Observability](#observability)
 - [Python](#python)
 - [Reason](#reason)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Security](#security)
-- [Unix](#unix)
 - [Web](#web)
 
 
@@ -268,6 +268,18 @@
 - [More Than Just Code](http://mtjc.fm/) - A show about mobile development (&amp; for those of you driving at home.)
 - [React Native Radio](https://devchat.tv/react-native-radio) - React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native
 
+## Nix
+
+> Podcasts related to Linux/Unix Operating Systems
+
+- [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/) - A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike
+- [Choose Linux](https://chooselinux.show) - Every 2 weeks, Jason joins Joe to share the latest developments on his journey into the Linux and Open Source world
+- [Destination Linux](http://destinationlinux.org/) - Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences
+- [GNU World Order](http://gnuworldorder.info/) - An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics
+- [Late Night Linux](http://latenightlinux.com/) - Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software
+- [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
+- [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux
+
 ## Observability
 
 > Podcasts related to observability and monitoring
@@ -340,17 +352,6 @@
 - [Troy Hunt&#39;s Weekly Update](https://www.troyhunt.com/tag/weekly-update/) - A weekly update on Information Security topics
 - [Unsupervised Learning](https://danielmiessler.com/podcast/) - The most interesting stories in infosec, technology, and humans
 - [Web Security Warriors](https://devchat.tv/web-sec-warriors) - Web Security Warriors is a weekly discussion by developers about keeping websites, data, servers, and other internet outposts secure
-
-## Unix
-
-> Podcasts related to Linux/Unix Operating Systems
-
-- [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/) - A weekly show covering the latest developments in the world of the BSD family of operating systems. News, Tutorials and Interviews for new users and long time developers alike
-- [Destination Linux](http://destinationlinux.org/) - Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences
-- [GNU World Order](http://gnuworldorder.info/) - An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics
-- [Late Night Linux](http://latenightlinux.com/) - Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software
-- [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
-- [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux
 
 ## Web
 
