@@ -199,6 +199,7 @@
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
 - [Terminal Talk](http://terminaltalk.net/PodcastGenerator/) - The people, technology, and culture behind one of the world&#39;s most powerful and important computing platforms, the Mainframe
 - [The Deep End Podcast](https://soundcloud.com/digitaloceanpodcast) - A place where engineers talk to other engineers about tech &amp; other stuff
+- [The Manifest](https://manifest.fm) - A podcast all about package management
 - [The Women in Tech Show](https://thewomenintechshow.com/) - A women in tech podcast featuring technical interviews
 - [The Yak Shave](http://yakshave.fm) - Each week our hosts will discuss their development experiences. We&#39;ll talk about Ruby, Rust, Go, and anything else that has drawn our interest this week
 - [Toolsday](http://toolsday.io/) - A 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays

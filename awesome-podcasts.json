@@ -515,6 +515,11 @@
         "url": "https://soundcloud.com/digitaloceanpodcast"
       },
       {
+        "desc": "A podcast all about package management",
+        "name": "The Manifest",
+        "url": "https://manifest.fm"
+      },
+      {
         "desc": "A women in tech podcast featuring technical interviews",
         "name": "The Women in Tech Show",
         "url": "https://thewomenintechshow.com/"
