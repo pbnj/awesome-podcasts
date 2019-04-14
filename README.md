@@ -76,6 +76,7 @@
 - [Microsoft Cloud Show](http://www.microsoftcloudshow.com/podcast) - Latest news, notes, commentary and listener questions on Microsoft cloud technologies including Windows Azure, Office 365 and SharePoint
 - [On Cloud](http://oncloud.deloitte.libsynpro.com) - Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists
 - [Screaming in the Cloud](https://www.screaminginthecloud.com) - Features conversations with domain experts in the world of Cloud Computing with Corey Quinn
+- [The Azure Podcast](http://azpodcast.azurewebsites.net) - Short podcasts on various topics related to the Microsoft Cloud platform
 - [The Cloud Cast](http://thecloudcast.net/) - Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today&#39;s Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT
 - [The Cloud Pod](https://www.thecloudpod.net/) - Weekly updates from the big providers, talk about interesting perspectives about the clouds and what it takes to build a successful business on the Public Cloud
 

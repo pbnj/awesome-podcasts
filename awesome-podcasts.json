@@ -90,6 +90,11 @@
         "url": "https://www.screaminginthecloud.com"
       },
       {
+        "desc": "Short podcasts on various topics related to the Microsoft Cloud platform",
+        "name": "The Azure Podcast",
+        "url": "http://azpodcast.azurewebsites.net"
+      },
+      {
         "desc": "Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today's Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT",
         "name": "The Cloud Cast",
         "url": "http://thecloudcast.net/"
