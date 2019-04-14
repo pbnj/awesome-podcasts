@@ -335,6 +335,11 @@
     "category": "General",
     "pods": [
 	    {
+		    "desc": "A podcast about tech, feelings, open source, and /dev/urandom",
+		    "name": "weirdtrickmafia.fm",
+		    "url": "https://weirdtrickmafia.fm"
+	    },
+	    {
 		    "desc": "Each week our hosts will discuss their development experiences. We'll talk about Ruby, Rust, Go, and anything else that has drawn our interest this week",
 		    "name": "The Yak Shave",
 		    "url": "http://yakshave.fm"
