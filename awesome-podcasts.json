@@ -105,6 +105,11 @@
   {
     "category": "Cloud Native",
     "pods": [
+	    {
+		    "desc": "Covering many topics relevant to the Cloud Native space, including ecosystem topics like Docker Security and Kubernetes security, RBAC, monitoring and alerting, and many, many more",
+		    "name": "Cloud Native Security",
+		    "url": "https://www.cloudnativesecurity.stream"
+	    },
       {
         "desc": "All about cloud computing and cloud native application development",
         "name": "Cloud Native Podcast",
