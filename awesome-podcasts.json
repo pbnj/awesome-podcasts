@@ -334,6 +334,11 @@
   {
     "category": "General",
     "pods": [
+	    {
+		    "desc": "Each week our hosts will discuss their development experiences. We'll talk about Ruby, Rust, Go, and anything else that has drawn our interest this week",
+		    "name": "The Yak Shave",
+		    "url": "http://yakshave.fm"
+	    },
       {
         "desc": "Technology, Open Source, Politics, Music... Anything and everything is up for grabs, complete with reviews and interviews",
         "name": "Bad Voltage",
