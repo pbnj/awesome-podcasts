@@ -3,21 +3,21 @@ all: fmt lint gen
 
 .PHONY: gen
 gen: ## Generates README
-	@go run main.go -gen -fmt
+	go run main.go -gen -fmt
 
 .PHONY: fmt
 fmt: fmt-json fmt-go ## Formats files
 
 .PHONY: lint
 lint: ## Lints files
-	@golangci-lint run
+	golangci-lint run
 
 .PHONY: fmt-json
 fmt-json: ## Format JSON files
-	@jq . awesome-podcasts.json > temp.json
-	@cat temp.json > awesome-podcasts.json
-	@$(RM) -f temp.json
+	jq . awesome-podcasts.json > temp.json
+	cat temp.json > awesome-podcasts.json
+	$(RM) -f temp.json
 
 .PHONY: fmt-go
 fmt-go: ## Format Go files
-	@goimports -w ./
+	goimports -w ./
