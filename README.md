@@ -40,6 +40,7 @@
 - [Rust](#rust)
 - [Security](#security)
 - [Web](#web)
+- [Vendors](#vendors)
 
 
 </details>
@@ -371,5 +372,11 @@
 - [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development
 - [The Rise of Frontend Engineering](https://theriseoffrontendengineering.com/podcast/) - A weekly podcast for Frontend Engineers interested in getting better at their craft
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up
+
+## Vendors
+
+> Podcasts related to tech vendors
+
+- [Tech ONTAP](https://soundcloud.com/techontap_podcast) - Dive into all-things NetApp, including storage, public &amp; private cloud, and much more
 
 
