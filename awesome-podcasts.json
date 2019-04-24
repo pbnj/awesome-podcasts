@@ -1091,5 +1091,16 @@
       }
     ],
     "subtitle": "Podcasts related to everything Web outside of JavaScript"
+  },
+  {
+    "category": "vendors",
+    "pods": [
+      {
+        "desc": "Dive into all-things NetApp, including storage, public & private cloud, and much more",
+        "name": "Tech ONTAP",
+        "url": "https://soundcloud.com/techontap_podcast"
+      }
+    ],
+    "subtitle": "Podcasts related to tech vendors"
   }
 ]
