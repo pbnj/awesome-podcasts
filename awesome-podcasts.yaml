@@ -314,6 +314,9 @@
     - name: Developing Up
       desc: A podcast focused on the non-technical side of being a developer
       url: http://www.developingup.com/
+    - name: devpath.fm
+      desc: A podcast about developer career paths
+      url: https://www.devpath.fm
     - name: devRant Podcast
       desc: A weekly podcast interviewing prominent software developers,
         followed by a discussion with several devRant community members, and
