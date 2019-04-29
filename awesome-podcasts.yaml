@@ -326,6 +326,10 @@
         followed by a discussion with several devRant community members, and
         wrapped by with some devRant news and updates
       url: https://soundcloud.com/devrantapp
+    - name: DevRel Radio
+      desc: A show about things of interest to developer relations leaders,
+        practitioners, and the executives who love them
+      url: http://devrelrad.io
     - name: FLOSS Weekly
       desc: A weekly talk show with the most interesting and important people in
         the Open Source and Free Software community
