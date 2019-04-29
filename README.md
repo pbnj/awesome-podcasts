@@ -71,7 +71,7 @@
 
 - [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/) - Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees
 - [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) - A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts
-- [Doppler Cloud Computing Podcast](https://www.cloudtp.com/doppler/podcasts/) - The Doppler Cloud Computing Podcast covers all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing. We talk about what’s new, what’s working, and have expert guests who provide the advice you need to be successful in the cloud.
+- [Doppler Cloud Computing Podcast](https://www.cloudtp.com/doppler/podcasts/) - The Doppler Cloud Computing Podcast covers all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing. We talk about what’s new, what’s working, and have expert guests who provide the advice you need to be successful in the cloud
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Discussing everything from on Google Cloud Platform from App Engine to Big Query
 - [IBM Cloud](https://anchor.fm/ibm-cloud-podcast) - Coming to you every show with information about new capabilities and releases on IBM Cloud
 - [Microsoft Cloud Show](http://www.microsoftcloudshow.com/podcast) - Latest news, notes, commentary and listener questions on Microsoft cloud technologies including Windows Azure, Office 365 and SharePoint
@@ -195,6 +195,7 @@
 - [Software Defined Talk](https://www.softwaredefinedtalk.com/) - Weekly show about Kubernetes, serverless, cloud, DevOps, &amp; coding
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast
+- [Sofware Architecture Radio](https://soundcloud.com/swarchradio) - the first podcast dedicated solely to the practice of software architecture! In the episodes to come, we’ll discuss modern software architecture patterns and practices with the practitioners getting their hands dirty doing the work
 - [Start Over Coder](https://www.startovercoder.com/) - A weekly podcast about taking up a new career as a professional developer and pursuing financial independence
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
 - [Terminal Talk](http://terminaltalk.net/PodcastGenerator/) - The people, technology, and culture behind one of the world&#39;s most powerful and important computing platforms, the Mainframe

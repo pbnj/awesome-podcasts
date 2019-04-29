@@ -60,7 +60,7 @@
         "url": "https://aws.amazon.com/podcasts/aws-techchat/"
       },
       {
-        "desc": "The Doppler Cloud Computing Podcast covers all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing. We talk about what’s new, what’s working, and have expert guests who provide the advice you need to be successful in the cloud.",
+        "desc": "The Doppler Cloud Computing Podcast covers all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing. We talk about what’s new, what’s working, and have expert guests who provide the advice you need to be successful in the cloud",
         "name": "Doppler Cloud Computing Podcast",
         "url": "https://www.cloudtp.com/doppler/podcasts/"
       },
@@ -488,6 +488,11 @@
         "desc": "A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast",
         "name": "Software Engineering Radio",
         "url": "http://www.se-radio.net/"
+      },
+      {
+        "desc": "the first podcast dedicated solely to the practice of software architecture! In the episodes to come, we’ll discuss modern software architecture patterns and practices with the practitioners getting their hands dirty doing the work",
+        "name": "Sofware Architecture Radio",
+        "url": "https://soundcloud.com/swarchradio"
       },
       {
         "desc": "A weekly podcast about taking up a new career as a professional developer and pursuing financial independence",
