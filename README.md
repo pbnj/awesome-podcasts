@@ -127,6 +127,7 @@
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis
 - [Mobycast](https://prodockertraining.com/mobycast/) - A weekly conversation about Docker, AWS, and building distributed systems
 - [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management &amp; cloud automation as well as DevOps culture
+- [Real World DevOps](https://www.realworlddevops.com) - Setting out to meet interesting people doing awesome work in the world of DevOps
 - [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show
 - [The New Stack Makers](http://soundcloud.com/thenewstackmakers) - The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software
 - [The Ship Show](http://theshipshow.com/podcast/) - A twice-montly podcast covering the finer points of build engineering, devops, &amp; release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings
@@ -179,6 +180,7 @@
 - [Developing Up](http://www.developingup.com/) - A podcast focused on the non-technical side of being a developer
 - [devpath.fm](https://www.devpath.fm) - A podcast about developer career paths
 - [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates
+- [DevRel Radio](http://devrelrad.io) - A show about things of interest to developer relations leaders, practitioners, and the executives who love them
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - A weekly talk show with the most interesting and important people in the Open Source and Free Software community
 - [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders
 - [Freelancer&#39;s Show](https://devchat.tv/freelancers) - The Freelancers&#39; Show discusses the challenges that freelancers face.  The panel includes technology freelancers and entrepreneurs with many years of experience

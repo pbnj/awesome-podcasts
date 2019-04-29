@@ -245,6 +245,11 @@
         "url": "https://puppet.com/podcast_feed"
       },
       {
+        "desc": "Setting out to meet interesting people doing awesome work in the world of DevOps",
+        "name": "Real World DevOps",
+        "url": "https://www.realworlddevops.com"
+      },
+      {
         "desc": "The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show",
         "name": "The Food Fight Show",
         "url": "http://foodfight.libsyn.com/"
@@ -408,6 +413,11 @@
         "desc": "A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates",
         "name": "devRant Podcast",
         "url": "https://soundcloud.com/devrantapp"
+      },
+      {
+        "desc": "A show about things of interest to developer relations leaders, practitioners, and the executives who love them",
+        "name": "DevRel Radio",
+        "url": "http://devrelrad.io"
       },
       {
         "desc": "A weekly talk show with the most interesting and important people in the Open Source and Free Software community",
