@@ -1,9 +1,15 @@
+.DEFAULT_GOAL := gen
+
 .PHONY: all
 all: fmt lint gen
 
+PUBLISHED_DATE := $(shell date +%Y-%m-%dT%H:%M:%S)
 .PHONY: gen
 gen: ## Generates README
-	go run main.go -gen -fmt
+	go run main.go
+	git add README.md awesome-podcasts.json
+	git commit -m "Published $(PUBLISHED_DATE)"
+	git push origin master
 
 .PHONY: fmt
 fmt: fmt-json fmt-go ## Formats files
