@@ -400,6 +400,11 @@
         "url": "http://www.developingup.com/"
       },
       {
+        "desc": "A podcast about developer career paths",
+        "name": "devpath.fm",
+        "url": "https://www.devpath.fm"
+      },
+      {
         "desc": "A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates",
         "name": "devRant Podcast",
         "url": "https://soundcloud.com/devrantapp"

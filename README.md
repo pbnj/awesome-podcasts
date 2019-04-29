@@ -177,6 +177,7 @@
 - [Developer on Fire](http://developeronfire.com/) - Stories from inspiring people in and around software
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) - A podcast for developers designed to fit inside your tea break
 - [Developing Up](http://www.developingup.com/) - A podcast focused on the non-technical side of being a developer
+- [devpath.fm](https://www.devpath.fm) - A podcast about developer career paths
 - [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - A weekly talk show with the most interesting and important people in the Open Source and Free Software community
 - [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders
