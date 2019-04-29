@@ -3,8 +3,6 @@ package main // import "github.com/petermbenjamin/awesome-podcasts"
 import (
 	"bufio"
 	"encoding/json"
-	"flag"
-	"fmt"
 	"html/template"
 	"io/ioutil"
 	"os"
@@ -13,109 +11,101 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
+	"gopkg.in/yaml.v2"
 )
 
 const (
-	AWESOMEPODCASTJSONFILE = "awesome-podcasts.json"
+	jsonfile = "awesome-podcasts.json"
+	yamlfile = "awesome-podcasts.yaml"
 )
 
+// Podcast represents the list of awesome podcasts
 type Podcast struct {
-	Category string `json:"category"`
-	Pods     []Pod  `json:"pods"`
-	Subtitle string `json:"subtitle"`
+	Category string `json:"category" yaml:"category"`
+	Pods     []Pod  `json:"pods" yaml:"pods"`
+	Subtitle string `json:"subtitle" yaml:"subtitle"`
 }
 
+// Pod represents a podcast object
 type Pod struct {
-	Desc string `json:"desc"`
-	Name string `json:"name"`
-	URL  string `json:"url"`
+	Desc string `json:"desc" yaml:"desc"`
+	Name string `json:"name" yaml:"name"`
+	URL  string `json:"url" yaml:"url"`
 }
 
 func main() {
-	generate := flag.Bool("gen", false, "Generate README file")
-	format := flag.Bool("fmt", false, "Format JSON file")
 
-	flag.Usage = func() {
-		fmt.Fprintf(os.Stderr, "Please, specify one of the following flags:\n")
-		flag.PrintDefaults()
-	}
-
-	flag.Parse()
-
-	if flag.NFlag() == 0 {
-		flag.Usage()
-	}
-
-	// 1. Read in JSON file
-	b, err := ioutil.ReadFile(AWESOMEPODCASTJSONFILE)
+	// Read YAML file
+	b, err := ioutil.ReadFile(yamlfile)
 	if err != nil {
-		logrus.Warnf("JSON file not found [%s]: %s", AWESOMEPODCASTJSONFILE, err)
+		logrus.Warnf("YAML file not found: %+s", err)
 	}
 
-	// 2. Load in data into Go struct
+	// Load data into Go structs
 	var podcasts []Podcast
-	err = json.Unmarshal(b, &podcasts)
+	err = yaml.Unmarshal(b, &podcasts)
 	if err != nil {
-		logrus.Errorf("could not unmarshal JSON: %+s", err)
+		logrus.Errorf("could not unmarshal YAML: %+s", err)
 	}
 
-	// 3a. sort alphabetically by category
+	// Sort alphabetically by category
 	sort.Slice(podcasts, func(i, j int) bool {
 		return podcasts[i].Category < podcasts[j].Category
 	})
-	// 3b. sort alphabetically by podcast
+	// Sort alphabetically by podcast, ignoring case-sensitivity
 	for _, c := range podcasts {
 		sort.Slice(c.Pods, func(i, j int) bool {
-			return strings.ToUpper(c.Pods[i].Name) < strings.ToUpper(c.Pods[j].Name)
+			return strings.ToUpper(c.Pods[i].Name) <
+				strings.ToUpper(c.Pods[j].Name)
 		})
 	}
 
-	if *format {
-		marshaledBytes, err := json.MarshalIndent(podcasts, "", "  ")
-		if err != nil {
-			logrus.Warnf("could not marshal podcasts into sorted json: %+v", err)
-		}
-
-		err = ioutil.WriteFile(AWESOMEPODCASTJSONFILE, marshaledBytes, 0644)
-		if err != nil {
-			logrus.Warnf("could not write sorted json file: %+v", err)
-		}
+	// Generate JSON
+	marshaledBytes, err := json.MarshalIndent(podcasts, "", "  ")
+	if err != nil {
+		logrus.Warnf("could not marshal sorted JSON: %+v", err)
+	}
+	// Write JSON
+	err = ioutil.WriteFile(jsonfile, marshaledBytes, 0644)
+	if err != nil {
+		logrus.Warnf("could not write sorted JSON: %+v", err)
 	}
 
-	if *generate {
-		// 4a. Set up template path
-		paths := []string{
-			filepath.Join("tmpl", "readme.md.tmpl"),
-		}
-		// 4b. Set up helper functions
-		funcMap := template.FuncMap{
-			"dashed": func(word string) string {
-				word = strings.ToLower(word)
-				word = strings.Replace(word, " ", "-", -1)
-				word = strings.Replace(word, "/", "", -1)
-				return word
-			},
-			"titled": strings.Title,
-		}
+	// helper functions
+	funcMap := template.FuncMap{
+		"dashed": func(word string) string {
+			word = strings.ToLower(word)
+			word = strings.Replace(word, " ", "-", -1)
+			word = strings.Replace(word, "/", "", -1)
+			return word
+		},
+		"titled": strings.Title,
+	}
 
-		// 4c. Load in template
-		t := template.Must(template.New("main").Funcs(funcMap).ParseFiles(paths...))
+	// Generate README
+	// Load README template
+	paths := []string{
+		filepath.Join("tmpl", "readme.md.tmpl"),
+	}
+	t := template.Must(template.
+		New("main").
+		Funcs(funcMap).
+		ParseFiles(paths...))
 
-		// 5. Create file
-		f, err := os.Create("README.md")
-		if err != nil {
-			logrus.Fatalf("could not create README file: %s", err)
-		}
-		defer f.Close()
+	// Create file
+	f, err := os.Create("README.md")
+	if err != nil {
+		logrus.Fatalf("could not create README file: %s", err)
+	}
+	defer f.Close()
 
-		// 6. Create a buffered writer
-		w := bufio.NewWriter(f)
-		defer w.Flush()
+	// Create buffered writer
+	w := bufio.NewWriter(f)
+	defer w.Flush()
 
-		// 7. Write data to README
-		err = t.ExecuteTemplate(w, "readme.md.tmpl", podcasts)
-		if err != nil {
-			logrus.Fatalf("could not write README file: %s", err)
-		}
+	// Write data out
+	err = t.ExecuteTemplate(w, "readme.md.tmpl", podcasts)
+	if err != nil {
+		logrus.Fatalf("could not write README file: %s", err)
 	}
 }

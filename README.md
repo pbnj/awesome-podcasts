@@ -53,7 +53,7 @@
 > Podcasts for programming newbies
 
 - [CodeNewbie](http://www.codenewbie.org/podcast) - Stories from people on their coding journey
-- [freeCodeCamp Podcast](https://freecodecamp.libsyn.com/) - The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs
+- [freeCodeCamp Podcast](https://freecodecamp.libsyn.com/) - The official podcast of the freeCodeCamp open source community
 - [Hello World Podcast](https://wildermuth.com/hwpod) - Interviews with your favorite speakers about how they got started
 - [Learn To Code With Me](http://learntocodewith.me/podcast/) - Interviews with people on how they got into coding
 - [Start Here FM](http://starthere.fm/) - Beginner-friendly podcast discussing how to improve yourself as a developer
@@ -70,15 +70,14 @@
 > Podcasts related to public clouds
 
 - [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/) - Discussing various aspects of the Amazon Web Services (AWS) offering. Each podcast includes AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees
-- [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) -  A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts
-- [Doppler Cloud Computing Podcast](https://www.cloudtp.com/doppler/podcasts/) - Covering all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing
+- [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) - A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts
+- [Doppler Cloud Computing Podcast](https://www.cloudtp.com/doppler/podcasts/) - The Doppler Cloud Computing Podcast covers all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing. We talk about what’s new, what’s working, and have expert guests who provide the advice you need to be successful in the cloud.
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - Discussing everything from on Google Cloud Platform from App Engine to Big Query
 - [IBM Cloud](https://anchor.fm/ibm-cloud-podcast) - Coming to you every show with information about new capabilities and releases on IBM Cloud
 - [Microsoft Cloud Show](http://www.microsoftcloudshow.com/podcast) - Latest news, notes, commentary and listener questions on Microsoft cloud technologies including Windows Azure, Office 365 and SharePoint
-- [On Cloud](http://oncloud.deloitte.libsynpro.com) - Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists
 - [Screaming in the Cloud](https://www.screaminginthecloud.com) - Features conversations with domain experts in the world of Cloud Computing with Corey Quinn
 - [The Azure Podcast](http://azpodcast.azurewebsites.net) - Short podcasts on various topics related to the Microsoft Cloud platform
-- [The Cloud Cast](http://thecloudcast.net/) - Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today&#39;s Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT
+- [The Cloud Cast](http://thecloudcast.net/) - Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today&#39;s Data Centers and Cloud Computing. Topics include Cloud Computing, AWS, Azure, GCP, Serverless, DevOps, AppDev, SaaS, IoT
 - [The Cloud Pod](https://www.thecloudpod.net/) - Weekly updates from the big providers, talk about interesting perspectives about the clouds and what it takes to build a successful business on the Public Cloud
 
 ## Cloud Native
@@ -89,7 +88,7 @@
 - [Cloud Native Security](https://www.cloudnativesecurity.stream) - Covering many topics relevant to the Cloud Native space, including ecosystem topics like Docker Security and Kubernetes security, RBAC, monitoring and alerting, and many, many more
 - [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
 - [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
-- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps
+- [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers, Kubernetes, Red Hat OpenShift, Cloud Native Applications, Microservices, PaaS, CaaS, DevOps
 
 ## Conference Talks
 
@@ -130,7 +129,7 @@
 - [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management &amp; cloud automation as well as DevOps culture
 - [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show
 - [The New Stack Makers](http://soundcloud.com/thenewstackmakers) - The New Stack Makers stream of featured speakers and interviews is all about the new software stacks that change the way we development and deploy software
-- [The Ship Show](http://theshipshow.com/podcast/) -  A twice-montly podcast covering the finer points of build engineering, devops, &amp; release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings
+- [The Ship Show](http://theshipshow.com/podcast/) - A twice-montly podcast covering the finer points of build engineering, devops, &amp; release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings
 - [To Be Continuous](https://www.heavybit.com/library/podcasts/to-be-continuous/) - A show all about continuous delivery and software development
 
 ## DotNet
@@ -171,7 +170,7 @@
 - [Code &amp; Cast](http://codeand.us/) - A few devs talking with cool people who have a common interest in web and software development and having fun
 - [Coder Radio](http://www.jupiterbroadcasting.com/show/coderradio/) - A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies
 - [Coding Blocks](https://www.codingblocks.net/) - Coding Blocks is the podcast and website for learning how to become a better software developer
-- [Coffee &amp; Code](http://www.coffeecodecast.com/) - A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way.
+- [Coffee &amp; Code](http://www.coffeecodecast.com/) - A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way
 - [Command-Line Heroes](https://www.redhat.com/en/command-line-heroes) - An original podcast about the people who transform technology from the command line up
 - [Community Pulse](https://communitypulse.io/) - The spot for community managers and developer evangelists who are looking for information on community building
 - [Complete Developer](http://completedeveloperpodcast.com/) - A podcast by coders for coders about all aspects of life as a developer
@@ -181,7 +180,7 @@
 - [devRant Podcast](https://soundcloud.com/devrantapp) - A weekly podcast interviewing prominent software developers, followed by a discussion with several devRant community members, and wrapped by with some devRant news and updates
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - A weekly talk show with the most interesting and important people in the Open Source and Free Software community
 - [Founders Talk](https://changelog.com/founderstalk) - An interview podcast, featuring in-depth, one on one, conversations with Founders
-- [Freelancer&#39;s Show](https://devchat.tv/freelancers) - The Freelancers&#39; Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience
+- [Freelancer&#39;s Show](https://devchat.tv/freelancers) - The Freelancers&#39; Show discusses the challenges that freelancers face.  The panel includes technology freelancers and entrepreneurs with many years of experience
 - [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products
 - [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
 - [Greater Than Code](https://www.greaterthancode.com/podcast/) - The podcast for coders who care by coders who care
@@ -218,7 +217,7 @@
 
 > Podcasts related to Hardware Programming
 
-- [IoT For All](https://www.iotforall.com/podcast/) -  focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world
+- [IoT For All](https://www.iotforall.com/podcast/) - Focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world
 - [IoT Podcast](http://iotpodcast.com/) - A weekly podcast exploring latest IoT tech and topics
 - [Raspberry PiPod Podcast](http://www.recantha.co.uk/blog/) - A bi-weekly podcast/videocast for Raspberry Pi enthusiasts containing the latest news, details of new and updated products, a look at related crowdfunding campaigns, information about upcoming events and a look at some featured Raspberry Pi projects
 - [The Pi Podcast](http://thepipodcast.com/) - The Pi Podcast is a show by members of the Raspberry Pi community for the Raspberry Pi community
@@ -249,11 +248,11 @@
 
 > Podcasts related to Kotlin Programming Language
 
-- [Kotlin](http://talkingkotlin.com/) - Kotlin and more
+- [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more, hosted by Hadi Hariri
 
 ## Miscellaneous
 
-> Podcasts that don&#39;t fit into a name, but are still about programming
+> Podcasts that don&#39;t fit into one particular category
 
 - [Dads in Development](http://www.dadsindev.com/) - A podcast about dads and geeky stuff
 - [Dev.to](https://dev.to/pod) - A collection of podcasts that may or may not be listed here
@@ -280,7 +279,7 @@
 - [Destination Linux](http://destinationlinux.org/) - Destination Linux is hosted by two everyday guys who love running Linux. The discussions are down to earth and based on their real world experiences
 - [GNU World Order](http://gnuworldorder.info/) - An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics
 - [Late Night Linux](http://latenightlinux.com/) - Late Night Linux is a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every two weeks, Joe, Jesse, Ikey and Félim discuss the latest news and releases, and the broader issues and trends in the world of free and open source software
-- [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
+- [Linux Action Show](http://www.jupiterbroadcasting.com/show/linuxactionshow/) - A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!
 - [Linux Unplugged](http://www.jupiterbroadcasting.com/show/linuxun/) - The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux
 
 ## Observability
@@ -327,7 +326,7 @@
 
 - [Absolute AppSec](https://absoluteappsec.com/) - The podcast for kids who cant appsec good and want to learn how to do other stuff good too
 - [AppCanary Podcast](http://podcast.appcanary.com/) - Appcanary makes sure you never run vulnerable software on your servers
-- [Application Security Podcast](https://www.appsecpodcast.org/) - Application security for the win: reach new people, explain the details, and leave the echo chamber in the dust
+- [application security podcast](https://www.appsecpodcast.org/) - Reach new people, explain the details, and leave the echo chamber in the dust
 - [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/) - Application Security Weekly decrypts development for the Security Professional – exploring how to inject security into their organization’s Software Development Lifecycle (SDLC) in a fluid and transparent way
 - [Brakeing Down Security](http://www.brakeingsecurity.com/) - A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today&#39;s workplace
 - [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet
@@ -360,7 +359,7 @@
 
 > Podcasts related to everything Web outside of JavaScript
 
-- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it&#39;s like running a small web software business. The good, the bad, and the ugly
+- [CodePen Radio](https://blog.codepen.io/radio/) - A podcast all about what it&#39;s like running a small web software business
 - [Coder Catchup](http://codercatchup.com/) - Catching up with various web developers, web designers and unicorns
 - [Front End Five](https://frontendfive.codeschool.com/) - All of your Front-end News in 5 Minutes
 - [Front End Friday](http://frontendfriday.fi/) - A podcast on HTML and the web
@@ -369,7 +368,7 @@
 - [Modern Web](http://www.modern-web.org/#/modern-web-podcast) - Discussions about all things related to modern web development
 - [Syntax](https://Syntax.fm) - A Tasty Treats Podcast for Web Developers
 - [The Big Web Show](http://5by5.tv/bigwebshow) - The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It&#39;s everything web that matters
-- [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development
+- [The Full Stack Podcast](http://www.devcannon.com/thefullstack/) - A podcast dedicated to modern software development, with an emphasis on how it relates to web development
 - [The Rise of Frontend Engineering](https://theriseoffrontendengineering.com/podcast/) - A weekly podcast for Frontend Engineers interested in getting better at their craft
 - [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up
 
@@ -377,6 +376,7 @@
 
 > Podcasts related to tech vendors
 
+- [On Cloud](http://oncloud.deloitte.libsynpro.com) - Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists
 - [Tech ONTAP](https://soundcloud.com/techontap_podcast) - Dive into all-things NetApp, including storage, public &amp; private cloud, and much more
 
 

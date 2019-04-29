@@ -8,7 +8,7 @@
         "url": "http://www.codenewbie.org/podcast"
       },
       {
-        "desc": "The official podcast of the freeCodeCamp open source community. Learn to code with free online courses, programming projects, and interview preparation for developer jobs",
+        "desc": "The official podcast of the freeCodeCamp open source community",
         "name": "freeCodeCamp Podcast",
         "url": "https://freecodecamp.libsyn.com/"
       },
@@ -55,12 +55,12 @@
         "url": "https://aws.amazon.com/podcasts/aws-podcast/"
       },
       {
-        "desc": " A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts",
+        "desc": "A podcast series offering cloud enthusiasts, IT practitioners and developers the latest thinking and insights from AWS subject matter experts",
         "name": "AWS TechChat",
         "url": "https://aws.amazon.com/podcasts/aws-techchat/"
       },
       {
-        "desc": "Covering all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing",
+        "desc": "The Doppler Cloud Computing Podcast covers all things cloud while focusing on how to prepare the traditional enterprise to look beyond conventional computing. We talk about what’s new, what’s working, and have expert guests who provide the advice you need to be successful in the cloud.",
         "name": "Doppler Cloud Computing Podcast",
         "url": "https://www.cloudtp.com/doppler/podcasts/"
       },
@@ -80,11 +80,6 @@
         "url": "http://www.microsoftcloudshow.com/podcast"
       },
       {
-        "desc": "Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists",
-        "name": "On Cloud",
-        "url": "http://oncloud.deloitte.libsynpro.com"
-      },
-      {
         "desc": "Features conversations with domain experts in the world of Cloud Computing with Corey Quinn",
         "name": "Screaming in the Cloud",
         "url": "https://www.screaminginthecloud.com"
@@ -95,7 +90,7 @@
         "url": "http://azpodcast.azurewebsites.net"
       },
       {
-        "desc": "Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today's Data Centers and Cloud Computing. Topics include Cloud Computing | AWS | Azure | GCP | Serverless | DevOps | AppDev | SaaS | IoT",
+        "desc": "Weekly podcast to discuss the technology and organizational changes that are driving the convergence of today's Data Centers and Cloud Computing. Topics include Cloud Computing, AWS, Azure, GCP, Serverless, DevOps, AppDev, SaaS, IoT",
         "name": "The Cloud Cast",
         "url": "http://thecloudcast.net/"
       },
@@ -131,7 +126,7 @@
         "url": "https://kubernetespodcast.com/"
       },
       {
-        "desc": "Weekly technology podcast focused on Containers | Kubernetes | Red Hat OpenShift | Cloud Native Applications | Microservices | PaaS | CaaS | DevOps",
+        "desc": "Weekly technology podcast focused on Containers, Kubernetes, Red Hat OpenShift, Cloud Native Applications, Microservices, PaaS, CaaS, DevOps",
         "name": "PodCTL",
         "url": "http://blog.openshift.com/"
       }
@@ -260,7 +255,7 @@
         "url": "http://soundcloud.com/thenewstackmakers"
       },
       {
-        "desc": " A twice-montly podcast covering the finer points of build engineering, devops, \u0026 release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings",
+        "desc": "A twice-montly podcast covering the finer points of build engineering, devops, \u0026 release management, including discussions, interviews, reviews, and coverage of important release engineering news and happenings",
         "name": "The Ship Show",
         "url": "http://theshipshow.com/podcast/"
       },
@@ -370,7 +365,7 @@
         "url": "https://www.codingblocks.net/"
       },
       {
-        "desc": "A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way.",
+        "desc": "A weekly podcast hosted by Mike Sheehan from San Francisco and Kyle Paul Johnson from Seattle.  Each week we talk about tech topics from hardware to code and many other topics along the way",
         "name": "Coffee \u0026 Code",
         "url": "http://www.coffeecodecast.com/"
       },
@@ -420,7 +415,7 @@
         "url": "https://changelog.com/founderstalk"
       },
       {
-        "desc": "The Freelancers' Show discusses the challenges that freelancers face. The panel includes technology freelancers and entrepreneurs with many years of experience",
+        "desc": "The Freelancers' Show discusses the challenges that freelancers face.  The panel includes technology freelancers and entrepreneurs with many years of experience",
         "name": "Freelancer's Show",
         "url": "https://devchat.tv/freelancers"
       },
@@ -567,7 +562,7 @@
     "category": "Hardware",
     "pods": [
       {
-        "desc": " focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world",
+        "desc": "Focused on bringing together the smartest and most creative minds in the Internet of Things (IoT) industry to share their knowledge and experiences with the world",
         "name": "IoT For All",
         "url": "https://www.iotforall.com/podcast/"
       },
@@ -665,8 +660,8 @@
     "category": "Kotlin",
     "pods": [
       {
-        "desc": "Kotlin and more",
-        "name": "Kotlin",
+        "desc": "A bimonthly podcast on Kotlin and more, hosted by Hadi Hariri",
+        "name": "Talking Kotlin",
         "url": "http://talkingkotlin.com/"
       }
     ],
@@ -691,7 +686,7 @@
         "url": "https://www.heavybit.com/library/podcasts/"
       }
     ],
-    "subtitle": "Podcasts that don't fit into a name, but are still about programming"
+    "subtitle": "Podcasts that don't fit into one particular category"
   },
   {
     "category": "Mobile",
@@ -763,7 +758,7 @@
         "url": "http://latenightlinux.com/"
       },
       {
-        "desc": "The worlds #1 Linux podcast. A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!",
+        "desc": "A weekly show that covers the best in the open source and Linux world. Get a solid dose of Linux, gadgets, howto, reviews, and news every week!",
         "name": "Linux Action Show",
         "url": "http://www.jupiterbroadcasting.com/show/linuxactionshow/"
       },
@@ -884,8 +879,8 @@
         "url": "http://podcast.appcanary.com/"
       },
       {
-        "desc": "Application security for the win: reach new people, explain the details, and leave the echo chamber in the dust",
-        "name": "Application Security Podcast",
+        "desc": "Reach new people, explain the details, and leave the echo chamber in the dust",
+        "name": "application security podcast",
         "url": "https://www.appsecpodcast.org/"
       },
       {
@@ -1030,7 +1025,7 @@
     "category": "Web",
     "pods": [
       {
-        "desc": "A podcast all about what it's like running a small web software business. The good, the bad, and the ugly",
+        "desc": "A podcast all about what it's like running a small web software business",
         "name": "CodePen Radio",
         "url": "https://blog.codepen.io/radio/"
       },
@@ -1075,7 +1070,7 @@
         "url": "http://5by5.tv/bigwebshow"
       },
       {
-        "desc": "The Full Stack is a podcast dedicated to modern software development, with an emphasis on how it relates to web development",
+        "desc": "A podcast dedicated to modern software development, with an emphasis on how it relates to web development",
         "name": "The Full Stack Podcast",
         "url": "http://www.devcannon.com/thefullstack/"
       },
@@ -1095,6 +1090,11 @@
   {
     "category": "vendors",
     "pods": [
+      {
+        "desc": "Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists",
+        "name": "On Cloud",
+        "url": "http://oncloud.deloitte.libsynpro.com"
+      },
       {
         "desc": "Dive into all-things NetApp, including storage, public \u0026 private cloud, and much more",
         "name": "Tech ONTAP",
