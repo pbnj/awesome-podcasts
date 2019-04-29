@@ -195,6 +195,10 @@
         the latest trends in configuration management & cloud automation as well
         as DevOps culture
       url: https://puppet.com/podcast_feed
+    - name: Real World DevOps
+      desc: Setting out to meet interesting people doing awesome work in the
+        world of DevOps
+      url: https://www.realworlddevops.com
     - name: The Food Fight Show
       desc: The Chef Community Podcast, where DevOps engineeers do battle. This
         is not a cooking show
