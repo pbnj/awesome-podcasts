@@ -475,6 +475,11 @@
         "url": "https://softskills.audio/"
       },
       {
+        "desc": "the first podcast dedicated solely to the practice of software architecture! In the episodes to come, we’ll discuss modern software architecture patterns and practices with the practitioners getting their hands dirty doing the work",
+        "name": "Software Architecture Radio",
+        "url": "https://soundcloud.com/swarchradio"
+      },
+      {
         "desc": "Weekly show about Kubernetes, serverless, cloud, DevOps, \u0026 coding",
         "name": "Software Defined Talk",
         "url": "https://www.softwaredefinedtalk.com/"
@@ -488,11 +493,6 @@
         "desc": "A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast",
         "name": "Software Engineering Radio",
         "url": "http://www.se-radio.net/"
-      },
-      {
-        "desc": "the first podcast dedicated solely to the practice of software architecture! In the episodes to come, we’ll discuss modern software architecture patterns and practices with the practitioners getting their hands dirty doing the work",
-        "name": "Sofware Architecture Radio",
-        "url": "https://soundcloud.com/swarchradio"
       },
       {
         "desc": "A weekly podcast about taking up a new career as a professional developer and pursuing financial independence",

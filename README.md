@@ -192,10 +192,10 @@
 - [Shop Talk Show](http://shoptalkshow.com/) - An internet radio show about the internet
 - [Simple Programmer](https://simpleprogrammer.com/podcasts/) - John Sonmez interviews guests and shares everything he knows to help you become a top performing software developer
 - [Soft Skills Engineering](https://softskills.audio/) - A weekly Q &amp; A podcast for software developers who want to level up their non-technical engineering skills
+- [Software Architecture Radio](https://soundcloud.com/swarchradio) - the first podcast dedicated solely to the practice of software architecture! In the episodes to come, we’ll discuss modern software architecture patterns and practices with the practitioners getting their hands dirty doing the work
 - [Software Defined Talk](https://www.softwaredefinedtalk.com/) - Weekly show about Kubernetes, serverless, cloud, DevOps, &amp; coding
 - [Software Engineering Daily](https://softwareengineeringdaily.com/) - Features daily interviews about technical software topics
 - [Software Engineering Radio](http://www.se-radio.net/) - A weekly podcast targeted at the professional software developer that aims to  be a lasting educational resource, not a newscast
-- [Sofware Architecture Radio](https://soundcloud.com/swarchradio) - the first podcast dedicated solely to the practice of software architecture! In the episodes to come, we’ll discuss modern software architecture patterns and practices with the practitioners getting their hands dirty doing the work
 - [Start Over Coder](https://www.startovercoder.com/) - A weekly podcast about taking up a new career as a professional developer and pursuing financial independence
 - [Talking Code](http://talkingcode.com/) - Short expert interviews that help you decode what developers are saying
 - [Terminal Talk](http://terminaltalk.net/PodcastGenerator/) - The people, technology, and culture behind one of the world&#39;s most powerful and important computing platforms, the Mainframe
