@@ -47,7 +47,7 @@
         focusing on how to prepare the traditional enterprise to look beyond
         conventional computing. We talk about what’s new, what’s working, and
         have expert guests who provide the advice you need to be successful in
-        the cloud.
+        the cloud
       url: https://www.cloudtp.com/doppler/podcasts/
     - name: Google Cloud Platform Podcast
       desc: Discussing everything from on Google Cloud Platform from App Engine
@@ -373,6 +373,12 @@
       desc: A weekly Q & A podcast for software developers who want to level up
         their non-technical engineering skills
       url: https://softskills.audio/
+    - name: Sofware Architecture Radio
+      desc: the first podcast dedicated solely to the practice of software
+        architecture! In the episodes to come, we’ll discuss modern software
+        architecture patterns and practices with the practitioners getting their
+        hands dirty doing the work
+      url: https://soundcloud.com/swarchradio
     - name: Software Defined Talk
       desc: Weekly show about Kubernetes, serverless, cloud, DevOps, & coding
       url: https://www.softwaredefinedtalk.com/
