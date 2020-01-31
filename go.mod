@@ -6,3 +6,5 @@ require (
 	golang.org/x/sys v0.0.0-20180614134839-8883426083c0
 	gopkg.in/yaml.v2 v2.2.2
 )
+
+go 1.13
