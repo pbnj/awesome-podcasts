@@ -106,6 +106,11 @@
     "category": "Cloud Native",
     "pods": [
       {
+        "desc": "Cloud Native in 15 Minutes is the place to learn about the cutting edge of enterprise IT in the time it takes to grab a coffee. From AI to Kubernetes, you'll hear the people behind popular technologies explain why they matter to your company.",
+        "name": "Cloud Native in 15 Minutes",
+        "url": "https://cloudnative.simplecast.com"
+      },
+      {
         "desc": "All about cloud computing and cloud native application development",
         "name": "Cloud Native Podcast",
         "url": "https://cloudnativepodcast.com"
@@ -129,6 +134,16 @@
         "desc": "Weekly technology podcast focused on Containers, Kubernetes, Red Hat OpenShift, Cloud Native Applications, Microservices, PaaS, CaaS, DevOps",
         "name": "PodCTL",
         "url": "http://blog.openshift.com/"
+      },
+      {
+        "desc": "Each week we take on a different topic in the Kubernetes community and the IT industry. Depending on the week we may find ourselves knee- deep in kernel headers, magic quadrants, or startup pitch decks. Our goal is to close each file with a sense of completeness and satisfaction for us and for anyone listening.",
+        "name": "The K Files",
+        "url": "https://k8sfiles.com/"
+      },
+      {
+        "desc": "Exploring Cloud Native, one buzzword at a time",
+        "name": "The Podlets",
+        "url": "https://thepodlets.io"
       }
     ],
     "subtitle": "Podcasts related to Kubernetes and the surrounding community"
@@ -238,6 +253,11 @@
         "desc": "A weekly conversation about Docker, AWS, and building distributed systems",
         "name": "Mobycast",
         "url": "https://prodockertraining.com/mobycast/"
+      },
+      {
+        "desc": "Stories from technologists about being on-call",
+        "name": "On-Call Nightmares Podcast",
+        "url": "https://oncallnightmares.podomatic.com"
       },
       {
         "desc": "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management \u0026 cloud automation as well as DevOps culture",
@@ -445,6 +465,11 @@
         "url": "https://www.functionalgeekery.com/"
       },
       {
+        "desc": "Making tech news obtainable and cute one podcast at a time",
+        "name": "Git Cute",
+        "url": "https://gitcutepodcast.com"
+      },
+      {
         "desc": "The podcast for coders who care by coders who care",
         "name": "Greater Than Code",
         "url": "https://www.greaterthancode.com/podcast/"
@@ -460,9 +485,24 @@
         "url": "http://herdingcode.com/"
       },
       {
+        "desc": "A non-commercial series of discussions with global industry leaders in Edge, DevOps, Security, Open Source and more.",
+        "name": "L8istSh9y (Latest Shiny) Podcast",
+        "url": "https://l8istsh9y.com"
+      },
+      {
+        "desc": "Management tips, stories, and interviews to help navigate the challenges of managing creative and technical teams",
+        "name": "Managing Up",
+        "url": "https://managingup.simplecast.com"
+      },
+      {
         "desc": "A Podcast where we unmask the people who are making tremendous strides in tech, yet whose stories are seldom heard",
         "name": "Mapping The Journey",
         "url": "https://www.mappingthejourney.com/"
+      },
+      {
+        "desc": "The podcast for entrepreneurs about open source software!",
+        "name": "Open Source Underdogs",
+        "url": "https://opensourceunderdogs.com"
       },
       {
         "desc": "Exploring different perspectives in open source sustainability. It's about the human side of code",
@@ -1111,9 +1151,29 @@
     "category": "vendors",
     "pods": [
       {
+        "desc": "Where today’s leaders talk tomorrow’s technology",
+        "name": "All Hands on Tech",
+        "url": "https://www.pluralsight.com/resource-center/podcasts"
+      },
+      {
+        "desc": "A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer.",
+        "name": "Code[ish]",
+        "url": "https://www.heroku.com/podcasts/codeish"
+      },
+      {
         "desc": "Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists",
         "name": "On Cloud",
         "url": "http://oncloud.deloitte.libsynpro.com"
+      },
+      {
+        "desc": "Tales from the Hardware/Software Interface",
+        "name": "On the Metal",
+        "url": "https://oxide.computer/blog/categories/on-the-metal/"
+      },
+      {
+        "desc": "Lighthearted security advice and banter from 1Password and guests.",
+        "name": "Random but Memorable",
+        "url": "https://randombutmemorable.simplecast.com"
       },
       {
         "desc": "Dive into all-things NetApp, including storage, public \u0026 private cloud, and much more",

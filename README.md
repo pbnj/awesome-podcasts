@@ -84,11 +84,14 @@
 
 > Podcasts related to Kubernetes and the surrounding community
 
+- [Cloud Native in 15 Minutes](https://cloudnative.simplecast.com) - Cloud Native in 15 Minutes is the place to learn about the cutting edge of enterprise IT in the time it takes to grab a coffee. From AI to Kubernetes, you&#39;ll hear the people behind popular technologies explain why they matter to your company.
 - [Cloud Native Podcast](https://cloudnativepodcast.com) - All about cloud computing and cloud native application development
 - [Cloud Native Security](https://www.cloudnativesecurity.stream) - Covering many topics relevant to the Cloud Native space, including ecosystem topics like Docker Security and Kubernetes security, RBAC, monitoring and alerting, and many, many more
 - [Kubecast](http://kubecast.com/) - A podcast about kubernetes, schedulers, containers and the new world.This podcast is a series of interviews to relevant people in the community
 - [Kubernetes Podcast](https://kubernetespodcast.com/) - A weekly news and interview show with insight from the Kubernetes community
 - [PodCTL](http://blog.openshift.com/) - Weekly technology podcast focused on Containers, Kubernetes, Red Hat OpenShift, Cloud Native Applications, Microservices, PaaS, CaaS, DevOps
+- [The K Files](https://k8sfiles.com/) - Each week we take on a different topic in the Kubernetes community and the IT industry. Depending on the week we may find ourselves knee- deep in kernel headers, magic quadrants, or startup pitch decks. Our goal is to close each file with a sense of completeness and satisfaction for us and for anyone listening.
+- [The Podlets](https://thepodlets.io) - Exploring Cloud Native, one buzzword at a time
 
 ## Conference Talks
 
@@ -126,6 +129,7 @@
 - [Docker for .NET Developers](http://s.ch9.ms/Series/Docker-for-NET-Developers) - An overview of what .NET developers need to know to build containerized applications using Docker
 - [DockerCast](https://www.docker.com/) - Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis
 - [Mobycast](https://prodockertraining.com/mobycast/) - A weekly conversation about Docker, AWS, and building distributed systems
+- [On-Call Nightmares Podcast](https://oncallnightmares.podomatic.com) - Stories from technologists about being on-call
 - [Puppet Podcast](https://puppet.com/podcast_feed) - The Puppet Podcast features Puppet community members talking about the latest trends in configuration management &amp; cloud automation as well as DevOps culture
 - [Real World DevOps](https://www.realworlddevops.com) - Setting out to meet interesting people doing awesome work in the world of DevOps
 - [The Food Fight Show](http://foodfight.libsyn.com/) - The Chef Community Podcast, where DevOps engineeers do battle. This is not a cooking show
@@ -186,10 +190,14 @@
 - [Freelancer&#39;s Show](https://devchat.tv/freelancers) - The Freelancers&#39; Show discusses the challenges that freelancers face.  The panel includes technology freelancers and entrepreneurs with many years of experience
 - [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products
 - [Functional Geekery](https://www.functionalgeekery.com/) - A podcast on Functional Programming, covering topics across multiple languages
+- [Git Cute](https://gitcutepodcast.com) - Making tech news obtainable and cute one podcast at a time
 - [Greater Than Code](https://www.greaterthancode.com/podcast/) - The podcast for coders who care by coders who care
 - [Hanselminutes](http://hanselminutes.com/) - A weekly talkshow on tech
 - [Herding Code](http://herdingcode.com/) - Herding Code is a weekly podcast that explores different technology-related topics
+- [L8istSh9y (Latest Shiny) Podcast](https://l8istsh9y.com) - A non-commercial series of discussions with global industry leaders in Edge, DevOps, Security, Open Source and more.
+- [Managing Up](https://managingup.simplecast.com) - Management tips, stories, and interviews to help navigate the challenges of managing creative and technical teams
 - [Mapping The Journey](https://www.mappingthejourney.com/) - A Podcast where we unmask the people who are making tremendous strides in tech, yet whose stories are seldom heard
+- [Open Source Underdogs](https://opensourceunderdogs.com) - The podcast for entrepreneurs about open source software!
 - [Request For Commits](https://changelog.com/rfc) - Exploring different perspectives in open source sustainability. It&#39;s about the human side of code
 - [Second Career Devs](https://secondcareerdevs.com/episodes) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career
 - [Shop Talk Show](http://shoptalkshow.com/) - An internet radio show about the internet
@@ -380,7 +388,11 @@
 
 > Podcasts related to tech vendors
 
+- [All Hands on Tech](https://www.pluralsight.com/resource-center/podcasts) - Where today’s leaders talk tomorrow’s technology
+- [Code[ish]](https://www.heroku.com/podcasts/codeish) - A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer.
 - [On Cloud](http://oncloud.deloitte.libsynpro.com) - Decoding the state of cloud computing in the enterprise with leading practices, real-world examples, and candid advice from industry leaders and specialists
+- [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - Tales from the Hardware/Software Interface
+- [Random but Memorable](https://randombutmemorable.simplecast.com) - Lighthearted security advice and banter from 1Password and guests.
 - [Tech ONTAP](https://soundcloud.com/techontap_podcast) - Dive into all-things NetApp, including storage, public &amp; private cloud, and much more
 
 
