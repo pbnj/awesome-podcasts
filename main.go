@@ -3,6 +3,7 @@ package main // import "github.com/petermbenjamin/awesome-podcasts"
 import (
 	"bufio"
 	"encoding/json"
+	"fmt"
 	"html/template"
 	"io/ioutil"
 	"os"
@@ -10,13 +11,12 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v2"
 )
 
 const (
-	jsonfile = "awesome-podcasts.json"
-	yamlfile = "awesome-podcasts.yaml"
+	jsonFile = "awesome-podcasts.json"
+	yamlFile = "awesome-podcasts.yaml"
 )
 
 // Podcast represents the list of awesome podcasts
@@ -36,16 +36,18 @@ type Pod struct {
 func main() {
 
 	// Read YAML file
-	b, err := ioutil.ReadFile(yamlfile)
+	b, err := ioutil.ReadFile(yamlFile)
 	if err != nil {
-		logrus.Warnf("YAML file not found: %+s", err)
+		fmt.Println(fmt.Errorf("YAML file not found: %+s", err))
+		os.Exit(1)
 	}
 
 	// Load data into Go structs
 	var podcasts []Podcast
 	err = yaml.Unmarshal(b, &podcasts)
 	if err != nil {
-		logrus.Errorf("could not unmarshal YAML: %+s", err)
+		fmt.Println(fmt.Errorf("could not unmarshal YAML: %+s", err))
+		os.Exit(1)
 	}
 
 	// Sort alphabetically by category
@@ -63,12 +65,14 @@ func main() {
 	// Generate JSON
 	marshaledBytes, err := json.MarshalIndent(podcasts, "", "  ")
 	if err != nil {
-		logrus.Warnf("could not marshal sorted JSON: %+v", err)
+		fmt.Println(fmt.Errorf("could not marshal sorted JSON: %+v", err))
+		os.Exit(1)
 	}
 	// Write JSON
-	err = ioutil.WriteFile(jsonfile, marshaledBytes, 0644)
+	err = ioutil.WriteFile(jsonFile, marshaledBytes, 0644)
 	if err != nil {
-		logrus.Warnf("could not write sorted JSON: %+v", err)
+		fmt.Println(fmt.Errorf("could not write sorted JSON: %+v", err))
+		os.Exit(1)
 	}
 
 	// helper functions
@@ -95,7 +99,7 @@ func main() {
 	// Create file
 	f, err := os.Create("README.md")
 	if err != nil {
-		logrus.Fatalf("could not create README file: %s", err)
+		fmt.Println(fmt.Errorf("could not create README file: %s", err))
 	}
 	defer f.Close()
 
@@ -106,6 +110,7 @@ func main() {
 	// Write data out
 	err = t.ExecuteTemplate(w, "readme.md.tmpl", podcasts)
 	if err != nil {
-		logrus.Fatalf("could not write README file: %s", err)
+		fmt.Println(fmt.Errorf("could not write README file: %s", err))
+		os.Exit(1)
 	}
 }
